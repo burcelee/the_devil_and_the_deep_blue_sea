@@ -1,0 +1,46 @@
+Version 1.0
+•	Kuznetsov shouldn’t be super carrier
+•	5 card hand
+•	Just play all your ships on first turn?? Seems strange- makes early game a bloodbath.
+•	Should ships be able to attack flipped over? Maybe only stealth and subs?
+•	Oscar needs strategic missiles
+•	Should stealth and subs be able to hide at end of turn after attack?
+•	Too many ships on board – too much math – etc.
+•	How does multiple blockers work?
+•	Ships should maybe be able to attack ships
+•	Blockers based on who is next to who?
+•	Attacking subs and surface ships?
+•	Mana?
+•	Harrier more expensive
+•	Planes become squadrons
+
+Version 1.1
+•	5 cards or 7 cards?
+•	Maybe restrict face down assets to number of territories
+•	Logistics capacity values feel high, defense also feels high
+•	Udaloy > arleigh burke
+•	Air wing face down? How to garrison?
+•	AF is short on water reword
+•	Face down ships causes stalemate really easily – needs a counter-tactic or weakness
+•	ASW helicopters make submarines not good – need to be better against asw or way better against not asw
+•	Consider making helicopter score a modifier and not a number of submarines
+•	Make seawolf ability better by letting controller choose
+•	Maybe always allow discarding to draw a card?
+•	Attacking territories isn’t very good. Maybe also does damage to player
+•	Ship shore attacks are really low
+•	Air Wings are way worse than ships
+•	Make helicopters a bonus instead of a penalty
+•	Seawolf is way worse than Ticonderoga
+•	Really should get images and backgrounds
+•	Stealth Fighter vs Long range SAM: who takes precedence? Probably stealth
+•	Flipped carrier is obvious: let players play flipped cards like carriers
+•	Kirov has strategic strike – incorrect
+•	Nimitz is way too good?
+•	Ohio vs Oscar cost
+•	Cant see plane stats on car when stacking on carrier
+•	F-35B 3 att vs su27 5 seems wrong
+•	Need to add some balance math to the spreadsheet (attack/logistics, defense/logistics, combined/log, etc)
+•	Hard to tell and remember how many cards your opponent has and culd miscount
+•	Very hard to come back from snowball if opponent has a ton of ships and territories
+•	 Maybe reconquer on land rule – discard x cards to return a piece of territory to your control
+
