@@ -44,3 +44,7 @@ Version 1.1
 •	Very hard to come back from snowball if opponent has a ton of ships and territories
 •	 Maybe reconquer on land rule – discard x cards to return a piece of territory to your control
 
+
+version 1.4
+• Add rule about when captured territory logistics count. Can you flip additional subs?
+• 
