@@ -1,0 +1,22 @@
+
+Total military assets: 41 / 12
+9 Submarines:
+3 RN Astute Class SSN log 3. 3/4/0
+2 RN Trafalgar Class SSN log 3. 3/3/0
+2 RAN Collins Class SSK log 1. 2/2/0.
+2 RCN Victoria Class SSK log 1. 2/2/0
+
+4 Aircraft Carriers:
+2 RN Queen Elizabeth CV log 4. 0/0/2. STOVL. Carrier 2.
+2 RAN Canberra LHT. log 3. 0/4/2. VTOL. Carrier 1.
+
+8 Aircraft:
+4 RN / RAN F-35B - copy USN
+5 RN Harrier 2 - copy USN
+
+20 Surface:
+6 RN Type 45 D class. Log 3. 2/1/3. Sea Viper: +2 HD
+4 RAN Hobart Class DDG Log 3. 2/1/2. AEGIS +2
+6 RN Type 23 FFG. Log 2. 1/1/2. Sea Wolf +1 HD
+4 RAN Anzac FFG Log 1. 1/1/2.
+

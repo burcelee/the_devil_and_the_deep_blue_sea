@@ -1,0 +1,103 @@
+
+Brendan Badia
+Sun, Oct 4, 8:11 AM (5 days ago)
+to me
+
+Hey, my Dad and I have conducted our first round of playtesting. Overall 
+we like the game. Our comments are focused on a couple questions/suggestions 
+about the rules and one suggested rule change we think is warranted.
+
+First, the comments on the rules
+
+1) In the draw step we have assumed that you must discard any cards before 
+you draw an additional card. This would preclude, for example, drawing a 
+card and then discarding it for another. Is this the case? If so, I would 
+simply cchange the rules to read the following way: "After the player has 
+discarded any card (if they chose to do so), the player many optionally 
+drawn an additional card".
+
+2) We were curious if players got to attack in the first turn. We were 
+thinking this shouldn;t be the case. In the first game we played where 
+I started, I was able to deploy 7 assault strength in the first turn. 
+It didn't seem fair to be able to use that attack my Dad who hadn't 
+got a chance to deploy anything as he would lose almost 20% of his deck. 
+Even though he got to drawn an additional card and I didn't we felt this 
+tradeoff was fair for the player who went second. Therefore we recommend 
+that the attack step does not occur in the first turn.
+
+3) We noticed that to destroy opponents ships/aircraft you need as much 
+strength as the player has defense, but to take naval bases you need 
+assault strength greater than defense. To make it easier for the players 
+I would recommend that to take naval bases you need to do the same thing 
+as when you destroy ships/aircraft: have assault strength equal or greater 
+to the defense. To rebalance you can simply add one additional defense to 
+all naval bases.
+
+In terms of the actual game balance, we found that our games tended to 
+have one player dominate while the other player didn't have a chance to 
+catch up. If the Russians got enough subs with assault strength or the 
+Americans got enough strong ships it felt like game over for the other 
+side. The issue in our opinion stemmed from the ability to only get net 
+one card per turn and the fact you only start with five cards. It felt 
+like the opening hands were too critical to who could dominate the opening, 
+and once that occured the player who was behind couldn't get enough cards 
+to get back into the game. It also felt that we would use cards too quickly 
+and then end up with only one card in our hand, which meant the only option 
+with what we could do with our hand was use a card or not. Even though ships 
+and subs could be returned to the hand we didn't leverage that ability much 
+once a player got ahead.
+
+Our suggestion is that instead of drawing an optional additional card per turn, 
+you could have players draw additional cards until their hand reached a certain 
+size (for example, 3 or 5), or simply increase the number of additional cards 
+you get from the deck. 
+
+Hope that helps. If you have any questions or comments let me know. Thanks!
+Brendan
+
+Rick Rodgers <libertycabbage84@gmail.com>
+Mon, Oct 5, 5:50 PM (4 days ago)
+to Brendan
+
+
+Thanks for writing this up! 
+
+Answers and responses:
+1. Yeah, you have it right. I'll make that more clear in the rules.
+2. Players are allowed to attack on the first turn. This advantage is supposed 
+	to be balanced by the fact that the first player does not draw an additional 
+	card and that their opponent gets to make a more informed decision about what 
+	to play/discard. This is something I've had an eye on for a while, and it's 
+	definitely something I haven't decided about yet. I've enjoyed the fact that 
+	the current rule gets the game going quickly with a sense of urgency (unlike 
+	Magic where the game starts pretty slow), but I can definitely understand a 
+	player feeling put-out by taking a bunch of damage before they've had a chance 
+	to react.
+3. This may actually be an error in the rules as they are written. In both cases, 
+	success is supposed to be based on equal-to-or-greater-than. Ships are currently 
+	balanced assuming that rule. Nice catch.
+
+Thanks for the feedback on balance. "Snow-balling" is something that was a huge 
+problem with the first prototype of the game, and I've tried to address it in 
+later versions. For instance, territory buyback wasn't initially a mechanic and 
+the first player to conquer a territory would pretty much always win. More recently, 
+I've tried adding more Strategy and Tactic cards that allow a player to either 
+pivot to a new strategy or get-back-into a game they've fallen behind in. That 
+said,  I think there is definitely room for some mechanic that would make 
+getting back into the game easier. I'm not sure I want to touch the current 
+draw mechanics. I am a big fan of the draw mechanics since I think they give players 
+a really consequential decision about what cards to play vs discard vs keep in hand. 
+I see the decision to draw/discard/play as pretty much the most important strategic 
+decision in the game (along with when to reveal hidden cards). Hand size is a 
+possibility though. 
+
+Would you be interested in playing a few games on Tabletop Simulator? I recently got 
+it working with customs decks, and I'm curious to see how people play when they didn't 
+learn the game from me explaining it to them. 
+
+Was there anything else in the rules you thought was under-explained or confusing? I 
+realize I forgot to update the section on card class vs card name to account for some 
+last minute changes, and I'm always finding more stuff.
+
+Thanks or giving it a try, and say thanks to your dad for me!
+Rick

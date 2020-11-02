@@ -19,7 +19,9 @@
     <Element variable="@[image]" type="Graphic" x="10" y="165" width="680" height="440" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="image" font="Arial;12;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
     <Element variable="@[flavortext]" type="Text" x="10" y="930" width="680" height="110" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="FlavorText" font="Arial;18;0;0;1;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
     <Element variable="@[name]" type="Text" x="10" y="10" width="680" height="35" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Name" font="Arial;20;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
-    <Reference RelativePath="data\territories.csv" Default="true" />
+    <Reference RelativePath="data\territories.csv" Default="false" />
+    <Reference RelativePath="data\rus_start_terr.csv" Default="true" />
+    <Reference RelativePath="data\us_start_terr.csv" Default="false" />
     <exportNameFormat />
     <exportRotation>0</exportRotation>
     <exportTransparentBackground>false</exportTransparentBackground>
@@ -41,7 +43,9 @@
     <Element variable="@[image]" type="Graphic" x="10" y="165" width="680" height="440" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="image" font="Arial;12;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
     <Element variable="@[name]" type="Text" x="10" y="10" width="680" height="35" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="ShipName" font="Arial;20;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
     <Element variable="@[flavortext]" type="Text" x="10" y="930" width="680" height="110" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="FlavorText" font="Arial;18;0;0;1;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
-    <Reference RelativePath="data\military_assets.csv" Default="true" />
+    <Reference RelativePath="data\military_assets.csv" Default="false" />
+    <Reference RelativePath="data\us_start_mil_assets.csv" Default="false" />
+    <Reference RelativePath="data\rus_start_mil_assets.csv" Default="true" />
     <exportNameFormat />
     <exportRotation>0</exportRotation>
     <exportTransparentBackground>false</exportTransparentBackground>
@@ -59,7 +63,9 @@
     <Element variable="@[image]" type="Graphic" x="10" y="165" width="680" height="440" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="image" font="Arial;12;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
     <Element variable="@[flavortext]" type="Text" x="10" y="930" width="680" height="110" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="FlavorText" font="Arial;18;0;0;1;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
     <Element variable="@[name]" type="Text" x="10" y="10" width="680" height="35" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Name" font="Arial;20;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
-    <Reference RelativePath="data\actions.csv" Default="true" />
+    <Reference RelativePath="data\actions.csv" Default="false" />
+    <Reference RelativePath="data\us_start_actions.csv" Default="false" />
+    <Reference RelativePath="data\rus_start_actions.csv" Default="true" />
     <exportNameFormat />
     <exportRotation>0</exportRotation>
     <exportTransparentBackground>false</exportTransparentBackground>
@@ -69,6 +75,7 @@
     <zoom>1</zoom>
   </Layout>
   <translatorName>Incept</translatorName>
+  <lastExportPath>C:\Users\liber\Desktop\shipcard deck 1.7\RUS</lastExportPath>
   <jsEscapeSingleQuotes>false</jsEscapeSingleQuotes>
   <jsTildeMeansCode>true</jsTildeMeansCode>
   <jsKeepFunctions>true</jsKeepFunctions>
