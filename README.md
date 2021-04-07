@@ -4,7 +4,7 @@ Cards about ships
 Software:
 - LibreOffice Calc and Writer are used for the open format files.
 - A VBA macro is used in the cards spreadsheet to export all cards to csv
-- CardMaker is used to create printable card pages from csv. The ".cmp" file is the project file for CMA.
+- CardMaker is used to create printable card pages from csv. The ".cmp" file is the project file for CardMaker.
   It is available here: https://www.nhmk.com/cardmaker.php
 - 
 Some rules:
