@@ -1,4 +1,4 @@
-# shipcards
+# The devil and the deep blue sea
 Cards about ships
 
 Software:
