@@ -1,0 +1,53 @@
+
+Total military assets: 41 / 12
+9 Submarines:
+3 RN Astute Class SSN log 3. 3/4/0
+2 RN Trafalgar Class SSN log 3. 3/3/0
+2 RAN Collins Class SSK log 1. 2/2/0.
+2 RCN Victoria Class SSK log 1. 2/2/0
+
+4 Aircraft Carriers:
+2 RN Queen Elizabeth CV log 4. 0/0/2. STOVL. Carrier 2.
+2 RAN Canberra LHT. log 3. 0/4/2. VTOL. Carrier 1.
+
+8 Aircraft:
+4 RN / RAN F-35B - copy USN
+5 RN Harrier 2 - copy USN
+
+20 Surface:
+6 RN Type 45 D class. Log 3. 2/1/3. Sea Viper: +2 HD
+4 RAN Hobart Class DDG Log 3. 2/1/2. AEGIS +2
+6 RN Type 23 FFG. Log 2. 1/1/2. Sea Wolf +1 HD
+4 RAN Anzac FFG Log 1. 1/1/2.
+
+Territories (probably log 6, def 3):
+HMNB Devonport, Devon
+HMNB Portsmouth, Portsmouth
+HMNB Clyde, Faslane, Dunbartonshire
+Diego Garcia
+HMS Juffair, Bahrain
+Port of Gibraltar
+British Defense Singapore Support Unit  - maybe HMNB Singapore
+UK Joint Logistics Support Base, Oman
+RNAS Culdrose, Cornwall
+RNAS Yeovilton, Somerset
+Fleet Base East, New South Wales
+Fleet Base Weset, Western Australia
+CFB Halifax
+CFB Esquimalt
+
+Actions:
+
+Strategies:
+So Much Owed To So Few - Squadrons get +1/+1
+Her Majesty's Secret Service  - Opponent plays with 1 card in hand revealed
+Rum, Sodomy and The Lash - +4 Logistics or Used a Pencil clone
+Patriotic Reticence - Whenever lose a ship (maybe with cost requirement), look
+	at the top card of your deck and may put it on bottom of deck. 
+
+Tactics:
+Engage The Enemy More Closely
+(England Expects That) Every Man Will Do His Duty
+They Shall Reap The Whirlwind
+Our Small Island
+For The Queen! - 

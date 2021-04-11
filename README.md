@@ -14,3 +14,19 @@ Some rules:
   The first used only major and minor revision. 
   Therefore all 3 term versions come after all 2 term versions.
 - 
+
+Build instructions:
+
+To print out copy of all US/RU cards:
+1. Open data/cards.fods
+2. Run macro to export all pages to csv
+3. Open cmp project file in CardMaker
+4. Export in CardMaker
+
+To create a tabletop simulator deck:
+1. Open data/cards.fods
+2. Run macro to export all pages to csv
+3. Open cmp project file in CardMaker
+4. Set either RU or US starter deck as default for each layout.
+5. File -> Export project to Images
+6. Use TTS deck editor to create the deck: https://kb.tabletopsimulator.com/custom-content/custom-deck/
