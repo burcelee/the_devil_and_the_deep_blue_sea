@@ -15,6 +15,17 @@ Some rules:
   Therefore all 3 term versions come after all 2 term versions.
 - 
 
+Note on version numbers:
+- Major revision refers to a public release version. 1.0 will be the first public release.
+- Minor revisions are incompatible with one another, meaning cards have undergone rules changes. 
+	The manual of the latest minor revision should be used if playing with cards from mixed
+	patches.
+- Patch revisions are used to indicate differences between cards or in the rules. 
+	Changes in the rules/manual that do not effect cards require a patch revision
+	tick. ANY change to the game requires at least a patch revision tick.
+- Revision numbers are not single digit. After 0-9, they continue 10+. So 0.24.21 is a valid version.
+
+
 Build instructions:
 
 To print out copy of all US/RU cards:
