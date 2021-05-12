@@ -1,0 +1,34 @@
+
+Submarines:
+Yassen
+Laika (strategic strike?)
+Kilo / Lada
+Oscar II
+Akula
+
+Aircraft Carriers:
+Kuznetsov Carrier 1
+Shtorm Carrier 3
+Ivan Rogov LHD
+	Ivan Rogov and Mitrofan Moskalenko
+
+Aircraft:
+Su-57 - alpha strike
+Mig-29K
+
+Surface:
+Lider (DDN or CGN)
+Kirov
+Slava
+Udaloy - maybe remove
+Sovremenny
+Gorshkov
+Super Gorshkov (22350M) - maybe skip
+
+
+Terriories:
+
+Actions:
+
+1 + 2 + 1 + 1 = 5 new
+remove victor III, remove udaloy?
