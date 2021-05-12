@@ -1,2 +1,4 @@
 **.pdf
 **.csv
+# Skips lock file when .fods open in LibreOffice Calc
+**.fods#
