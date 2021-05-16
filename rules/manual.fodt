@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2021-04-06T19:41:32.311000000</meta:creation-date><dc:date>2021-05-16T10:20:14.185000000</dc:date><meta:editing-duration>PT1H6M49S</meta:editing-duration><meta:editing-cycles>48</meta:editing-cycles><meta:generator>LibreOffice/7.1.3.2$Windows_X86_64 LibreOffice_project/47f78053abe362b9384784d31a6e56f8511eb1c1</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="8" meta:paragraph-count="153" meta:word-count="2870" meta:character-count="16092" meta:non-whitespace-character-count="13486"/></office:meta>
+ <office:meta><meta:creation-date>2021-04-06T19:41:32.311000000</meta:creation-date><dc:date>2021-05-16T10:55:45.393000000</dc:date><meta:editing-duration>PT1H8M28S</meta:editing-duration><meta:editing-cycles>49</meta:editing-cycles><meta:generator>LibreOffice/7.1.3.2$Windows_X86_64 LibreOffice_project/47f78053abe362b9384784d31a6e56f8511eb1c1</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="8" meta:paragraph-count="153" meta:word-count="2856" meta:character-count="16027" meta:non-whitespace-character-count="13435"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">133350</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">77893</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">33472</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">27386</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">18877</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">154271</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">23259</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">92507</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">133350</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">77893</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">33470</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">160734</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">105278</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -85,7 +85,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">461865</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">591696</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">true</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -151,7 +151,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="NSimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lucida Sans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -760,117 +760,121 @@
   </style:style>
   <style:style style:name="P14" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
    <style:paragraph-properties fo:margin-left="1in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:rsid="0006fa1b" officeooo:paragraph-rsid="0006fa1b"/>
+   <style:text-properties officeooo:rsid="0006fa1b"/>
   </style:style>
   <style:style style:name="P15" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
-   <style:paragraph-properties fo:margin-left="1.5in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.1252in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+   <style:paragraph-properties fo:margin-left="1in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:rsid="0006fa1b" officeooo:paragraph-rsid="0006fa1b"/>
   </style:style>
   <style:style style:name="P16" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
    <style:paragraph-properties fo:margin-left="1.5in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.1252in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P17" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
-   <style:paragraph-properties fo:margin-left="2in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+   <style:paragraph-properties fo:margin-left="1.5in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.1252in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P18" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
-   <style:paragraph-properties fo:margin-left="2.5in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+   <style:paragraph-properties fo:margin-left="2in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="P19" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
-   <style:paragraph-properties fo:margin-left="1.5in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+   <style:paragraph-properties fo:margin-left="2.5in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
-   <style:paragraph-properties fo:line-height="107%" style:writing-mode="lr-tb"/>
+   <style:paragraph-properties fo:margin-left="1.5in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="P21" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
    <style:paragraph-properties fo:line-height="107%" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:paragraph-rsid="0002471a"/>
   </style:style>
   <style:style style:name="P22" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
    <style:paragraph-properties fo:line-height="107%" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:paragraph-rsid="000550f3"/>
+   <style:text-properties officeooo:paragraph-rsid="0002471a"/>
   </style:style>
   <style:style style:name="P23" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
    <style:paragraph-properties fo:line-height="107%" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:rsid="0002471a" officeooo:paragraph-rsid="0002471a"/>
+   <style:text-properties officeooo:paragraph-rsid="000550f3"/>
   </style:style>
   <style:style style:name="P24" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
    <style:paragraph-properties fo:line-height="107%" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:rsid="0002471a" officeooo:paragraph-rsid="0002471a"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+   <style:paragraph-properties fo:line-height="107%" style:writing-mode="lr-tb"/>
    <style:text-properties officeooo:rsid="000550f3" officeooo:paragraph-rsid="000550f3"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="L1">
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="L1">
    <style:paragraph-properties fo:line-height="107%" style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="L2">
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="L2">
    <style:paragraph-properties fo:line-height="107%" style:writing-mode="lr-tb"/>
    <style:text-properties officeooo:paragraph-rsid="0002471a"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="L3">
-   <style:paragraph-properties fo:line-height="107%" style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="P28" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="L3">
    <style:paragraph-properties fo:line-height="107%" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:paragraph-rsid="000550f3"/>
   </style:style>
   <style:style style:name="P29" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="L3">
    <style:paragraph-properties fo:line-height="107%" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:paragraph-rsid="0002471a"/>
+   <style:text-properties officeooo:paragraph-rsid="000550f3"/>
   </style:style>
   <style:style style:name="P30" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="L3">
    <style:paragraph-properties fo:line-height="107%" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:rsid="000550f3" officeooo:paragraph-rsid="000550f3"/>
+   <style:text-properties officeooo:paragraph-rsid="0002471a"/>
   </style:style>
   <style:style style:name="P31" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="L3">
    <style:paragraph-properties fo:line-height="107%" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:rsid="000550f3" officeooo:paragraph-rsid="000550f3"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="L3">
+   <style:paragraph-properties fo:line-height="107%" style:writing-mode="lr-tb"/>
    <style:text-properties officeooo:rsid="0002471a" officeooo:paragraph-rsid="0002471a"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum1">
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum1">
    <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2">
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2">
    <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum4">
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum4">
    <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum7">
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum7">
    <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2">
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2">
    <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2">
-   <style:paragraph-properties fo:margin-left="1in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum7">
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2">
    <style:paragraph-properties fo:margin-left="1in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="P39" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum7">
    <style:paragraph-properties fo:margin-left="1in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:paragraph-rsid="0006fa1b"/>
   </style:style>
   <style:style style:name="P40" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum7">
    <style:paragraph-properties fo:margin-left="1in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:rsid="0006fa1b"/>
+   <style:text-properties officeooo:paragraph-rsid="0006fa1b"/>
   </style:style>
   <style:style style:name="P41" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum7">
    <style:paragraph-properties fo:margin-left="1in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:rsid="0006fa1b" officeooo:paragraph-rsid="0006fa1b"/>
+   <style:text-properties officeooo:rsid="0006fa1b"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2">
-   <style:paragraph-properties fo:margin-left="1.5in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.1252in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum7">
+   <style:paragraph-properties fo:margin-left="1in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:rsid="0006fa1b" officeooo:paragraph-rsid="0006fa1b"/>
   </style:style>
   <style:style style:name="P43" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2">
    <style:paragraph-properties fo:margin-left="1.5in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.1252in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P44" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2">
-   <style:paragraph-properties fo:margin-left="2in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+   <style:paragraph-properties fo:margin-left="1.5in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.1252in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P45" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2">
+   <style:paragraph-properties fo:margin-left="2in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2">
    <style:paragraph-properties fo:margin-left="2.5in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum7">
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum7">
    <style:paragraph-properties fo:margin-left="1.5in" fo:margin-right="0in" fo:line-height="107%" fo:text-indent="-0.25in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -905,6 +909,9 @@
   </style:style>
   <style:style style:name="T11" style:family="text">
    <style:text-properties officeooo:rsid="00070c29"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties officeooo:rsid="00090750"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
@@ -1092,112 +1099,112 @@
    <text:p text:style-name="P1">Terminology</text:p>
    <text:p text:style-name="P3">This section will be a useful reference while reading this manual. It is not necessary to memorize (or even understand) all of the terms presented before continuing through the manual.</text:p>
    <text:p text:style-name="P2">General Terminology</text:p>
-   <text:list xml:id="list4225266314" text:style-name="L1">
+   <text:list xml:id="list2490513086" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P25">Roster: A collection of cards that can be used together in a deck. Rosters are based on the navies of real world countries or alliances such as the US Navy, European Union Naval Force, or China People’s Liberation Army Navy.</text:p>
+     <text:p text:style-name="P26">Roster: A collection of cards that can be used together in a deck. Rosters are based on the navies of real world countries or alliances such as the US Navy, European Union Naval Force, or China People’s Liberation Army Navy.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P25">Play Area: <text:span text:style-name="T5">A</text:span> play area is the <text:span text:style-name="T5">space</text:span> in front of <text:span text:style-name="T5">a</text:span> player where they may play their cards. <text:s/>Each player has their own play area.</text:p>
+     <text:p text:style-name="P26">Play Area: <text:span text:style-name="T5">A</text:span> play area is the <text:span text:style-name="T5">space</text:span> in front of <text:span text:style-name="T5">a</text:span> player where they may play their cards. <text:s/>Each player has their own play area.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P25">In Play: A card is considered in play if it is in the play area of either player. <text:span text:style-name="T5">At all times, a card is either in a players deck, in their hand, in play, or in their discard pile.</text:span></text:p>
+     <text:p text:style-name="P26">In Play: A card is considered in play if it is in the play area of either player. <text:span text:style-name="T5">At all times, a card is either in a players deck, in their hand, in play, or in their discard pile.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P25">Under Control: A card is considered under control of <text:span text:style-name="T5">a player </text:span>if it is in the play area in front of that player. Most cards come into play under the control of the player that played them, unless stated otherwise. In some cases, control of cards can be changed during play <text:span text:style-name="T5">(see Siege Phase)</text:span>.</text:p>
+     <text:p text:style-name="P26">Under Control: A card is considered under control of <text:span text:style-name="T5">a player </text:span>if it is in the play area in front of that player. Most cards come into play under the control of the player that played them, unless stated otherwise. In some cases, control of cards can be changed during play <text:span text:style-name="T5">(see Siege Phase)</text:span>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P25">Deck: Decks are collections of cards belonging to each player that are placed next to the play area of each player. Players can select which cards are in their deck prior to play (see Deck Construction). <text:span text:style-name="T5">Players may not inspect the contents of any player’s deck, including their own, during play unless otherwise instructed.</text:span></text:p>
+     <text:p text:style-name="P26">Deck: Decks are collections of cards belonging to each player that are placed next to the play area of each player. Players can select which cards are in their deck prior to play (see Deck Construction). <text:span text:style-name="T5">Players may not inspect the contents of any player’s deck, including their own, during play unless otherwise instructed.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P25">Discard Pile: The discard pile is where cards that are discarded are placed. Cards in the discard pile should be placed face-up, and either player may inspect either their own or their opponent’s discard pile at any time. Like cards in a player’s hand or deck, discarded cards are inactive and do not directly affect play.</text:p>
+     <text:p text:style-name="P26">Discard Pile: The discard pile is where cards that are discarded are placed. Cards in the discard pile should be placed face-up, and either player may inspect either their own or their opponent’s discard pile at any time. Like cards in a player’s hand or deck, discarded cards are inactive and do not directly affect play.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P7"/>
    <text:p text:style-name="P2">Card Terminology</text:p>
-   <text:list xml:id="list3882110468" text:style-name="L2">
+   <text:list xml:id="list1413890675" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P26">Type: Every card has a type. <text:span text:style-name="T5">The type of a card determines how that card is treated by the rules</text:span>. <text:span text:style-name="T5">Different cards serve different purposes and have different associated rules.</text:span></text:p>
+     <text:p text:style-name="P27">Type: Every card has a type. <text:span text:style-name="T5">The type of a card determines how that card is treated by the rules</text:span>. <text:span text:style-name="T5">Different cards serve different purposes and have different associated rules.</text:span></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P26"><text:s/>The types of cards are:</text:p>
+       <text:p text:style-name="P27"><text:s/>The types of cards are:</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P26">Territory</text:p>
+         <text:p text:style-name="P27">Territory</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P26">Tactic</text:p>
+         <text:p text:style-name="P27">Tactic</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P26">Strategy</text:p>
+         <text:p text:style-name="P27">Strategy</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P26">Squadron</text:p>
+         <text:p text:style-name="P27">Squadron</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P26">Submarine</text:p>
+         <text:p text:style-name="P27">Submarine</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P26">Ship</text:p>
+         <text:p text:style-name="P27">Ship</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list2165378197" text:style-name="L3">
+   <text:list xml:id="list57562412" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P27">Action Card: Tactic and <text:span text:style-name="T5">S</text:span>trategy type cards are both considered action cards.</text:p>
+     <text:p text:style-name="P28">Action Card: Tactic and <text:span text:style-name="T5">S</text:span>trategy type cards are both considered action cards.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P30">Military <text:span text:style-name="T5">Equipment</text:span> Card: Squadron, <text:span text:style-name="T5">S</text:span>ubmarine, and <text:span text:style-name="T5">S</text:span>hip cards are considered military <text:span text:style-name="T5">equipment</text:span> cards.</text:p>
+     <text:p text:style-name="P31">Military <text:span text:style-name="T5">Equipment</text:span> Card: Squadron, <text:span text:style-name="T5">S</text:span>ubmarine, and <text:span text:style-name="T5">S</text:span>hip cards are considered military <text:span text:style-name="T5">equipment</text:span> cards.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28">Asset Card: All military <text:span text:style-name="T5">equipment</text:span> cards as well as territory cards are considered asset cards.</text:p>
+     <text:p text:style-name="P29">Asset Card: All military <text:span text:style-name="T5">equipment</text:span> cards as well as territory cards are considered asset cards.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27">Class: the class of a card is the title of the card. For a ship card, it will generally include the word “class”. Examples of classes are: “Nimitz Class CVN”, “That’s the Spirit”, or “Russian Naval Base”.</text:p>
+     <text:p text:style-name="P28">Class: the class of a card is the title of the card. For a ship card, it will generally include the word “class”. Examples of classes are: “Nimitz Class CVN”, “That’s the Spirit”, or “Russian Naval Base”.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27">Name – a name is an additional piece of information on a card that does not <text:span text:style-name="T5">directly</text:span> affect play. Names are used to distinguish between cards when <text:span text:style-name="T5">constructing decks</text:span>. <text:span text:style-name="T5">Ex</text:span>ample of name<text:span text:style-name="T5">s</text:span> might be “Squadron 1”, “Tactic B”, “Vladivlastok”, or “USS Abraham Lincoln”. </text:p>
+     <text:p text:style-name="P28">Name – a name is an additional piece of information on a card that does not <text:span text:style-name="T5">directly</text:span> affect play. Names are used to distinguish between cards when <text:span text:style-name="T5">constructing decks</text:span>. <text:span text:style-name="T5">Ex</text:span>ample of name<text:span text:style-name="T5">s</text:span> might be “Squadron 1”, “Tactic B”, “Vladivlastok”, or “USS Abraham Lincoln”. </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27">Description: This is the area of the card in which the special abilities of the card are listed.</text:p>
+     <text:p text:style-name="P28">Description: This is the area of the card in which the special abilities of the card are listed.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27">Special abilities: These take the form “&lt;Name&gt; : &lt;Effect&gt;” or just “&lt;Effect&gt;” and describe special rules governing a card. <text:span text:style-name="T5">If a special ability does does not include a description of its effect, that effect is described in this manual.</text:span></text:p>
+     <text:p text:style-name="P28">Special abilities: These take the form “&lt;Name&gt; : &lt;Effect&gt;” or just “&lt;Effect&gt;” and describe special rules governing a card. <text:span text:style-name="T5">If a special ability does does not include a description of its effect, that effect is described in this manual.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">Attack – Attack is the numerical power of a military equipment’s ability to damage other military equipment.</text:p>
+     <text:p text:style-name="P32">Attack – Attack is the numerical power of a military equipment’s ability to damage other military equipment.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">Defense – Defense is the numerical power of a military equipment’s ability to withstand damage from other military equipment.</text:p>
+     <text:p text:style-name="P32">Defense – Defense is the numerical power of a military equipment’s ability to withstand damage from other military equipment.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">Siege – Siege is a military equipment’s ability to capture territory.</text:p>
+     <text:p text:style-name="P32">Siege – Siege is a military equipment’s ability to capture territory.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Logistics: If listed on a military equipment, this is the <text:span text:style-name="T5">cost of keeping that military equipment in play</text:span>.</text:p>
+     <text:p text:style-name="P30">Logistics: If listed on a military equipment, this is the <text:span text:style-name="T5">cost of keeping that military equipment in play</text:span>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">Logistics Capacity: Logistics capacity, listed on territory cards, describes the capacity for that territory to support the logistics requirements of military assets.</text:p>
+     <text:p text:style-name="P32">Logistics Capacity: Logistics capacity, listed on territory cards, describes the capacity for that territory to support the logistics requirements of military assets.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P1">Deck Construction</text:p>
    <text:p text:style-name="P3">Part of the game involves the creation of decks. During deck creation, players get the opportunity to tailor the cards in their deck to their playstyle. Creating a deck from scratch should only be attempted by experienced players, so it is recommended that players initially use one of the provided deck lists (see Deck Lists). </text:p>
    <text:p text:style-name="P3">If you do intend to create your own deck, it must adhere to the following constraints:</text:p>
-   <text:list xml:id="list3478731443" text:style-name="WWNum1">
+   <text:list xml:id="list442854486" text:style-name="WWNum1">
     <text:list-item>
-     <text:p text:style-name="P32">Decks must contain exactly 40 cards.</text:p>
+     <text:p text:style-name="P33">Decks must contain exactly 40 cards.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P32"><text:soft-page-break/>Decks must be composed of cards belonging to only a single roster. The roster a card belongs to is indicated on the card itself.</text:p>
+     <text:p text:style-name="P33"><text:soft-page-break/>Decks must be composed of cards belonging to only a single roster. The roster a card belongs to is indicated on the card itself.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P32">Decks may only contain one of each card. Take care: although two cards may look like the same card in most respects, they may differ by having a different name. For instance, the USS Theodore Roosevelt and USS Abraham Lincoln are two different cards despite being the same class (Nimitz) and having the same statistics and abilities.</text:p>
+     <text:p text:style-name="P33">Decks may only contain one of each card. Take care: although two cards may look like the same card in most respects, they may differ by having a different name. For instance, the USS Theodore Roosevelt and USS Abraham Lincoln are two different cards despite being the same class (Nimitz) and having the same statistics and abilities.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P32">Decks must contain at least 5 territories.</text:p>
+     <text:p text:style-name="P33">Decks must contain at least 5 territories.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P1">Play Rules</text:p>
@@ -1212,97 +1219,97 @@
    <text:p text:style-name="P3">Because the game is won by reducing your opponent’s deck to zero cards, it can be helpful to both players to be able to quickly identify how many cards remain in their opponent’s deck. This number is not a secret and both players must correctly report the number of cards they have in their hand or in their deck if asked. In addition, both players may agree to organize their deck into stacks of 5, drawing cards from those stacks in a set order. This can make it easier to “eye-ball” the count of another player’s deck without having to constantly count it. </text:p>
    <text:p text:style-name="P2">Turn Sequence</text:p>
    <text:p text:style-name="P3">Each player’s turn is broken up into the following 9 steps:</text:p>
-   <text:list xml:id="list1998522586" text:style-name="WWNum2">
+   <text:list xml:id="list223122610" text:style-name="WWNum2">
     <text:list-item>
-     <text:p text:style-name="P33"><text:span text:style-name="T3">Draw Step:</text:span> First, the current player may select any number of cards in their hand and discard them. They then <text:span text:style-name="T5">may</text:span> draw one card for each card discarded this way. They may then optionally draw an additional card <text:span text:style-name="T5">regardless of whether they discarded any cards</text:span>. They may not draw this additional card if this is the first round of play and they are the first player to take a turn. </text:p>
+     <text:p text:style-name="P34"><text:span text:style-name="T3">Draw Step:</text:span> First, the current player may select any number of cards in their hand and discard them. They then <text:span text:style-name="T5">may</text:span> draw one card for each card discarded this way. They may then optionally draw an additional card <text:span text:style-name="T5">regardless of whether they discarded any cards</text:span>. They may not draw this additional card if this is the first round of play and they are the first player to take a turn. </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P33"><text:soft-page-break/><text:span text:style-name="T3">Action Step:</text:span> Either player, starting with the current player, may now alternatingly play action cards. Whenever a player plays an action card, their opponent has an opportunity to respond by playing their own action cards. The first player will then get a chance to respond…and this repeats until one player does not play a card in response. Card effects are then evaluated in order <text:span text:style-name="T5">from</text:span> last played <text:span text:style-name="T5">to </text:span>first played. If a card’s effect is no longer possible <text:span text:style-name="T5">due to an effect of another played card</text:span>, <text:span text:style-name="T5">the first</text:span> card simply does nothing. If both players consecutively decline to play an action card, this step ends.</text:p>
+     <text:p text:style-name="P34"><text:soft-page-break/><text:span text:style-name="T3">Action Step:</text:span> Either player, starting with the current player, may now alternatingly play action cards. Whenever a player plays an action card, their opponent has an opportunity to respond by playing their own action cards. The first player will then get a chance to respond…and this repeats until one player does not play a card in response. Card effects are then evaluated in order <text:span text:style-name="T5">from</text:span> last played <text:span text:style-name="T5">to </text:span>first played. If a card’s effect is no longer possible <text:span text:style-name="T5">due to an effect of another played card</text:span>, <text:span text:style-name="T5">the first</text:span> card simply does nothing. If both players consecutively decline to play an action card, this step ends.</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P37">Tactic cards are single-use and are discarded as soon as their effect occurs. Strategy cards are persistent and remain <text:span text:style-name="T5">in play under the control of the player that played them.</text:span></text:p>
+       <text:p text:style-name="P38">Tactic cards are single-use and are discarded as soon as their effect occurs. Strategy cards are persistent and remain <text:span text:style-name="T5">in play under the control of the player that played them.</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P37">A player may only have a single strategy card in play <text:span text:style-name="T5">under their control</text:span> at <text:span text:style-name="T5">a time</text:span>. A player may choose to discard an in-play strategy card at any time.</text:p>
+       <text:p text:style-name="P38">A player may choose to discard an in-play strategy card <text:span text:style-name="T12">under their control </text:span>at any time.</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P36"><text:span text:style-name="T11">Battle</text:span> Step:</text:p>
+     <text:p text:style-name="P37"><text:span text:style-name="T11">Battle</text:span> Step:</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P37"><text:span text:style-name="T5">The current player may now declare attacks against their opponent or their opponent’s controlled territories. </text:span>The following steps repeat until the current player indicates they would not like to declare any additional attacks.</text:p>
+       <text:p text:style-name="P38"><text:span text:style-name="T5">The current player may now declare attacks against their opponent or their opponent’s controlled territories. </text:span>The following steps repeat until the current player indicates they would not like to declare any additional attacks.</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P42"><text:span text:style-name="T3">Attack Declaration Step:</text:span> The current player declares an attack. An attack must be declared against a territory or player. They must also indicate which military equipment under their control are going to take part in the attack and indicate their damage order. Damage order is the order in which these military equipment will take damage during the Combat Step. The current player must respect the following additional rules:</text:p>
+         <text:p text:style-name="P43"><text:span text:style-name="T3">Attack Declaration Step:</text:span> The current player declares an attack. An attack must be declared against a territory or player. They must also indicate which military equipment under their control are going to take part in the attack and indicate their damage order. Damage order is the order in which these military equipment will take damage during the Combat Step. The current player must respect the following additional rules:</text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P44">A military equipment may only be declared as taking part in a single attack per turn unless otherwise indicated.</text:p>
+           <text:p text:style-name="P45">A military equipment may only be declared as taking part in a single attack per turn unless otherwise indicated.</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P44">Before a face-down military equipment can attack, it must be flipped. A face-down squadron on a carrier may be flipped, but does not have to be. If it does not flip, it does not take part in combat, but would still be destroyed if the carrier it is stationed on is destroyed. Flipping military equipment is subject to the same rules in this step as it would be during the Deployment Step.</text:p>
+           <text:p text:style-name="P45">Before a face-down military equipment can attack, it must be flipped. A face-down squadron on a carrier may be flipped, but does not have to be. If it does not flip, it does not take part in combat, but would still be destroyed if the carrier it is stationed on is destroyed. Flipping military equipment is subject to the same rules in this step as it would be during the Deployment Step.</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P44"><text:span text:style-name="T5">M</text:span>ilitary equipment may only take part in an attack against a player if that player controls no territory. Submarines may ignore this rule.</text:p>
+           <text:p text:style-name="P45"><text:span text:style-name="T5">M</text:span>ilitary equipment may only take part in an attack against a player if that player controls no territory. Submarines may ignore this rule.</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P44">Squadrons may only attack if they are stationed on a carrier that is also attacking, unless otherwise indicated.</text:p>
+           <text:p text:style-name="P45">Squadrons may only attack if they are stationed on a carrier that is also attacking, unless otherwise indicated.</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P44">Note: a player or territory may be selected as the target of multiple separate attacks.</text:p>
+           <text:p text:style-name="P45">Note: a player or territory may be selected as the target of multiple separate attacks.</text:p>
           </text:list-item>
          </text:list>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P42"><text:span text:style-name="T3">Pre-Combat Action Step:</text:span> There is now an additional Action Step with the caveat that only Tactic action cards may be played.</text:p>
+         <text:p text:style-name="P43"><text:span text:style-name="T3">Pre-Combat Action Step:</text:span> There is now an additional Action Step with the caveat that only Tactic action cards may be played.</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P42"><text:span text:style-name="T3">Defense Declaration Step:</text:span> The opposing player now declares which of their military equipment will be defending. This process is subject to similar rules as the Attack Declaration Step:</text:p>
+         <text:p text:style-name="P43"><text:span text:style-name="T3">Defense Declaration Step:</text:span> The opposing player now declares which of their military equipment will be defending. This process is subject to similar rules as the Attack Declaration Step:</text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P44">The defender must also declare a damage order.</text:p>
+           <text:p text:style-name="P45">The defender must also declare a damage order.</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P44">A military equipment may only take part in a single defense per turn</text:p>
+           <text:p text:style-name="P45">A military equipment may only take part in a single defense per turn</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P44">A face-down military equipment must be turned face up to defend. The same rules for face-down squadrons also apply.</text:p>
+           <text:p text:style-name="P45">A face-down military equipment must be turned face up to defend. The same rules for face-down squadrons also apply.</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P44"><text:soft-page-break/>Squadrons may only take part in a defense if the attack is against a territory on which their stationed or if they are stationed on a carrier that is also taking part in the defense.</text:p>
+           <text:p text:style-name="P45"><text:soft-page-break/>Squadrons may only take part in a defense if the attack is against a territory on which their stationed or if they are stationed on a carrier that is also taking part in the defense.</text:p>
           </text:list-item>
          </text:list>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P43">Combat Step:</text:p>
+         <text:p text:style-name="P44">Combat Step:</text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P44"><text:span text:style-name="T4"><text:s/>Surprise</text:span><text:span text:style-name="T3"> Damage Step: </text:span>Both players add up the attack of all declared combatants that have the<text:span text:style-name="T1"> </text:span><text:span text:style-name="T2">Surprise Attacker</text:span><text:span text:style-name="T1"> </text:span>ability. That combined attack value is known as the damage value.<text:span text:style-name="T6"> </text:span><text:span text:style-name="T7">M</text:span>ilitary equipment are then destroyed in each player’s declared damage order until attack minus the defense of destroyed military equipment is less than the defense of the next military equipment. Destroyed military equipment are immediately discarded.</text:p>
+           <text:p text:style-name="P45"><text:span text:style-name="T4"><text:s/>Surprise</text:span><text:span text:style-name="T3"> Damage Step: </text:span>Both players add up the attack of all declared combatants that have the<text:span text:style-name="T1"> </text:span><text:span text:style-name="T2">Surprise Attacker</text:span><text:span text:style-name="T1"> </text:span>ability. That combined attack value is known as the damage value.<text:span text:style-name="T6"> </text:span><text:span text:style-name="T7">M</text:span>ilitary equipment are then destroyed in each player’s declared damage order until attack minus the defense of destroyed military equipment is less than the defense of the next military equipment. Destroyed military equipment are immediately discarded.</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P44"><text:span text:style-name="T3"><text:s/>Normal Damage Step</text:span>: Players now each add up the total attack of their non-<text:span text:style-name="T5">surprise-attacker</text:span> combatants and again inflict damage according to the same rules. Any <text:span text:style-name="T5">surprise</text:span> damage which was not necessary to destroy previously removed military equipment is added to normal damage. For instance, if a player deals 3 <text:span text:style-name="T5">surprise</text:span> damage and kills one military equipment with 2 defense in the <text:span text:style-name="T5">surprise</text:span> damage step, the remaining 1 damage is then added to their normal damage total.</text:p>
+           <text:p text:style-name="P45"><text:span text:style-name="T3"><text:s/>Normal Damage Step</text:span>: Players now each add up the total attack of their non-<text:span text:style-name="T5">surprise-attacker</text:span> combatants and again inflict damage according to the same rules. Any <text:span text:style-name="T5">surprise</text:span> damage which was not necessary to destroy previously removed military equipment is added to normal damage. For instance, if a player deals 3 <text:span text:style-name="T5">surprise</text:span> damage and kills one military equipment with 2 defense in the <text:span text:style-name="T5">surprise</text:span> damage step, the remaining 1 damage is then added to their normal damage total.</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P44"><text:s/><text:span text:style-name="T3">Other Rules:</text:span></text:p>
+           <text:p text:style-name="P45"><text:s/><text:span text:style-name="T3">Other Rules:</text:span></text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P45">If a carrier is destroyed, any squadrons stationed on it may still participate in the combat step. At the end of the combat step, they are returned to their controller’s hand.</text:p>
+             <text:p text:style-name="P46">If a carrier is destroyed, any squadrons stationed on it may still participate in the combat step. At the end of the combat step, they are returned to their controller’s hand.</text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
          </text:list>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P42"><text:span text:style-name="T3">Post-Combat Action Step:</text:span> There is now another action step where only action cards can be played.</text:p>
+         <text:p text:style-name="P43"><text:span text:style-name="T3">Post-Combat Action Step:</text:span> There is now another action step where only action cards can be played.</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P42"><text:span text:style-name="T4">Siege</text:span><text:span text:style-name="T3"> Step:</text:span> This step only occurs if all defending military equipment were destroyed during the combat and post-combat action steps, and if at least one attacking military equipment remains. </text:p>
+         <text:p text:style-name="P43"><text:span text:style-name="T4">Siege</text:span><text:span text:style-name="T3"> Step:</text:span> This step only occurs if all defending military equipment were destroyed during the combat and post-combat action steps, and if at least one attacking military equipment remains. </text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P44">If attacking a territory: <text:span text:style-name="T11">the defending player may choose to discard from their library a number of cards equal to the </text:span>sum of the <text:span text:style-name="T5">siege </text:span>statistic of all surviving attacking military equipment. <text:span text:style-name="T11">If they do not, </text:span>the attacking player immediately takes control of the territory. They may move it to their side of the play area. <text:span text:style-name="T11">This player is now the occupying player of this territory. </text:span>This territories logistics capacity <text:span text:style-name="T11">does not effect the occupying player’s logistics capacity</text:span>. If <text:span text:style-name="T11">the defending</text:span> player’s military equipment <text:span text:style-name="T11">in play is </text:span>now invalid <text:span text:style-name="T11">due to</text:span> the loss of their territory due to face-down or logistics constraints, they must resolve this immediately by returning cards to their hand by the same rules as during deployment. <text:span text:style-name="T11">They may choose any cards.</text:span></text:p>
+           <text:p text:style-name="P45">If attacking a territory: <text:span text:style-name="T11">the defending player may choose to discard from their library a number of cards equal to the </text:span>sum of the <text:span text:style-name="T5">siege </text:span>statistic of all surviving attacking military equipment. <text:span text:style-name="T11">If they do not, </text:span>the attacking player immediately takes control of the territory. They may move it to their side of the play area. <text:span text:style-name="T11">This player is now the occupying player of this territory. </text:span>This territories logistics capacity <text:span text:style-name="T11">does not effect the occupying player’s logistics capacity</text:span>. If <text:span text:style-name="T11">the defending</text:span> player’s military equipment <text:span text:style-name="T11">in play is </text:span>now invalid <text:span text:style-name="T11">due to</text:span> the loss of their territory due to face-down or logistics constraints, they must resolve this immediately by returning cards to their hand by the same rules as during deployment. <text:span text:style-name="T11">They may choose any cards.</text:span></text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P44">If attacking the opposing player: The defending player must discard cards from their deck equal to the combined <text:span text:style-name="T5">siege</text:span> statistic of surviving attacking military equipment.</text:p>
+           <text:p text:style-name="P45">If attacking the opposing player: The defending player must discard cards from their deck equal to the combined <text:span text:style-name="T5">siege</text:span> statistic of surviving attacking military equipment.</text:p>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -1311,139 +1318,139 @@
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P33"><text:span text:style-name="T3">Final Action Step:</text:span> Another action step in which all action cards can be played.</text:p>
+     <text:p text:style-name="P34"><text:span text:style-name="T3">Final Action Step:</text:span> Another action step in which all action cards can be played.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P33"><text:span text:style-name="T3">Deployment Step:</text:span> The current player may play asset cards from their hand according to the following rules. Unless otherwise indicated, these asset cards are put into the play area under the current player’s control. The current player may also take military equipment cards which are already in play under their control and return them to their hand.</text:p>
+     <text:p text:style-name="P34"><text:span text:style-name="T3">Deployment Step:</text:span> The current player may play asset cards from their hand according to the following rules. Unless otherwise indicated, these asset cards are put into the play area under the current player’s control. The current player may also take military equipment cards which are already in play under their control and return them to their hand.</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P37"><text:soft-page-break/>They may play only a single territory card per turn unless stated otherwise.</text:p>
+       <text:p text:style-name="P38"><text:soft-page-break/>They may play only a single territory card per turn unless stated otherwise.</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P37">They may never have in-play military equipment whose combined logistics exceeds the combined capacity of their controlled territories. Face-down military equipment may not flip if that flip would cause total logistics to exceed capacity. If a player’s logistics capacity changes such that their military equipment would now exceed their total capacity, they must immediately return military equipment to their hand until this deficit is accounted for. A carrier may not be returned to hand without returning its stationed squadrons, although squadrons may be removed by themselves.</text:p>
+       <text:p text:style-name="P38">They may never have in-play military equipment whose combined logistics exceeds the combined capacity of their controlled territories. Face-down military equipment may not flip if that flip would cause total logistics to exceed capacity. If a player’s logistics capacity changes such that their military equipment would now exceed their total capacity, they must immediately return military equipment to their hand until this deficit is accounted for. A carrier may not be returned to hand without returning its stationed squadrons, although squadrons may be removed by themselves.</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P37"><text:span text:style-name="T5">M</text:span>ilitary equipment with the Hidden special ability may be played face down. These cards may be looked at by their controller at any time but not by the opposing player. Face-down cards have a logistics requirement of 0.</text:p>
+       <text:p text:style-name="P38"><text:span text:style-name="T5">M</text:span>ilitary equipment with the Hidden special ability may be played face down. These cards may be looked at by their controller at any time but not by the opposing player. Face-down cards have a logistics requirement of 0.</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P37">They may not have more face-down military equipment than they have territories</text:p>
+       <text:p text:style-name="P38">They may not have more face-down military equipment than they have territories</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P37">Air squadrons may only be played “on” a territory or carrier. That squadron is “stationed” on the asset on which it is placed.</text:p>
+       <text:p text:style-name="P38">Air squadrons may only be played “on” a territory or carrier. That squadron is “stationed” on the asset on which it is placed.</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P1">Special Ability Rule Clarifications</text:p>
-   <text:list xml:id="list1859389668" text:style-name="WWNum4">
+   <text:list xml:id="list3873296681" text:style-name="WWNum4">
     <text:list-item>
-     <text:p text:style-name="P34">[+x Help Defense]: Help defense is a modifier added to the first ship in the damage order during combat. This allows ships which are not necessarily first in the damage order to contribute to defense. Help defense is effective against <text:span text:style-name="T5">surprise</text:span> attack.</text:p>
+     <text:p text:style-name="P35">[+x Help Defense]: Help defense is a modifier added to the first ship in the damage order during combat. This allows ships which are not necessarily first in the damage order to contribute to defense. Help defense is effective against <text:span text:style-name="T5">surprise</text:span> attack.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P9">US Navy Full Roster (75 Cards / 25 Unique)</text:p>
-   <text:list xml:id="list3789701706" text:style-name="WWNum7">
+   <text:list xml:id="list585342815" text:style-name="WWNum7">
     <text:list-item>
-     <text:p text:style-name="P35">40 / 12 <text:span text:style-name="T5">M</text:span>ilitary equipment</text:p>
+     <text:p text:style-name="P36">40 / 12 <text:span text:style-name="T5">M</text:span>ilitary equipment</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P38">3 <text:span text:style-name="T10">Ford</text:span></text:p>
+       <text:p text:style-name="P39">3 <text:span text:style-name="T10">Ford</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38"><text:span text:style-name="T10">2</text:span> Wasp</text:p>
+       <text:p text:style-name="P39"><text:span text:style-name="T10">2</text:span> Wasp</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P41">2 America</text:p>
+       <text:p text:style-name="P42">2 America</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P41">2 Iowa</text:p>
+       <text:p text:style-name="P42">2 Iowa</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">1 Seawolf</text:p>
+       <text:p text:style-name="P39">1 Seawolf</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">3 Virginia</text:p>
+       <text:p text:style-name="P39">3 Virginia</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">2 Ohio</text:p>
+       <text:p text:style-name="P39">2 Ohio</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">3 Ticonderoga</text:p>
+       <text:p text:style-name="P39">3 Ticonderoga</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">5 Arleigh Burke</text:p>
+       <text:p text:style-name="P39">5 Arleigh Burke</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">2 Zumwalt</text:p>
+       <text:p text:style-name="P39">2 Zumwalt</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P41">3 F/A-24A</text:p>
+       <text:p text:style-name="P42">3 F/A-24A</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38"><text:span text:style-name="T10">8</text:span> F-35B</text:p>
+       <text:p text:style-name="P39"><text:span text:style-name="T10">8</text:span> F-35B</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38"><text:span text:style-name="T10">4</text:span> F-35C</text:p>
+       <text:p text:style-name="P39"><text:span text:style-name="T10">4</text:span> F-35C</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">23 / 10 Actions</text:p>
+     <text:p text:style-name="P36">23 / 10 Actions</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P38">17 / 7 Tactics</text:p>
+       <text:p text:style-name="P39">17 / 7 Tactics</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P46">2 Scuttlebutt</text:p>
+         <text:p text:style-name="P47">2 Scuttlebutt</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P46">2 AF is Short on Water</text:p>
+         <text:p text:style-name="P47">2 AF is Short on Water</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P46">2 KH-11 Key Hole</text:p>
+         <text:p text:style-name="P47">2 KH-11 Key Hole</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P46">4 NATO Allies</text:p>
+         <text:p text:style-name="P47">4 NATO Allies</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P46">2 Uncommon Valor Was a Common Virtue</text:p>
+         <text:p text:style-name="P47">2 Uncommon Valor Was a Common Virtue</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P46">3 I Have Not Yet Begun To Fight</text:p>
+         <text:p text:style-name="P47">3 I Have Not Yet Begun To Fight</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P46">2 That’s The Spirit!</text:p>
+         <text:p text:style-name="P47">2 That’s The Spirit!</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">6 / 3 Strategies</text:p>
+       <text:p text:style-name="P39">6 / 3 Strategies</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P46">2 Semper Fidelis</text:p>
+         <text:p text:style-name="P47">2 Semper Fidelis</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P46">2 Build ‘Em Faster Than They Can Sink ‘Em</text:p>
+         <text:p text:style-name="P47">2 Build ‘Em Faster Than They Can Sink ‘Em</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P46">2 Aerial Refueling</text:p>
+         <text:p text:style-name="P47">2 Aerial Refueling</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">12 / 3 Territories</text:p>
+     <text:p text:style-name="P36">12 / 3 Territories</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P38">1 Pine Gap</text:p>
+       <text:p text:style-name="P39">1 Pine Gap</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">1 Pearl Harbor</text:p>
+       <text:p text:style-name="P39">1 Pearl Harbor</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">10 Naval Base</text:p>
+       <text:p text:style-name="P39">10 Naval Base</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
@@ -1451,101 +1458,101 @@
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P7"/>
    <text:p text:style-name="P2">Russian Navy Full Roster (75 Cards / 21 Unique)</text:p>
-   <text:list xml:id="list102014713773048" text:continue-numbering="true" text:style-name="WWNum7">
+   <text:list xml:id="list105547783228699" text:continue-numbering="true" text:style-name="WWNum7">
     <text:list-item>
-     <text:p text:style-name="P35">42 / 12 <text:span text:style-name="T5">M</text:span>ilitary equipment</text:p>
+     <text:p text:style-name="P36">42 / 12 <text:span text:style-name="T5">M</text:span>ilitary equipment</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P38">1 Kuznetsov</text:p>
+       <text:p text:style-name="P39">1 Kuznetsov</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P41">1 Shtorm</text:p>
+       <text:p text:style-name="P42">1 Shtorm</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P39">3 Kirov</text:p>
+       <text:p text:style-name="P40">3 Kirov</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38"><text:span text:style-name="T10">3</text:span> Slava</text:p>
+       <text:p text:style-name="P39"><text:span text:style-name="T10">3</text:span> Slava</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P40">3 Lider</text:p>
+       <text:p text:style-name="P41">3 Lider</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">4 Sovremanny</text:p>
+       <text:p text:style-name="P39">4 Sovremanny</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38"><text:span text:style-name="T10">5</text:span> Gorshkov</text:p>
+       <text:p text:style-name="P39"><text:span text:style-name="T10">5</text:span> Gorshkov</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">3 Yasen</text:p>
+       <text:p text:style-name="P39">3 Yasen</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">4 Oscar II</text:p>
+       <text:p text:style-name="P39">4 Oscar II</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38"><text:span text:style-name="T10">3</text:span> Akula</text:p>
+       <text:p text:style-name="P39"><text:span text:style-name="T10">3</text:span> Akula</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">4 <text:span text:style-name="T10">Laika</text:span></text:p>
+       <text:p text:style-name="P39">4 <text:span text:style-name="T10">Laika</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">2 Lada</text:p>
+       <text:p text:style-name="P39">2 Lada</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P41">3 Su-57</text:p>
+       <text:p text:style-name="P42">3 Su-57</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">3 Mig-29K</text:p>
+       <text:p text:style-name="P39">3 Mig-29K</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">21 / 9 Actions</text:p>
+     <text:p text:style-name="P36">21 / 9 Actions</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P38">13 / 5 Tactics</text:p>
+       <text:p text:style-name="P39">13 / 5 Tactics</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P46">4 Disinformation Campaigns</text:p>
+         <text:p text:style-name="P47">4 Disinformation Campaigns</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P46">2 Strategic Flexibility</text:p>
+         <text:p text:style-name="P47">2 Strategic Flexibility</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P46">3 Counter-Espionage</text:p>
+         <text:p text:style-name="P47">3 Counter-Espionage</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P46">2 Scorched Earth</text:p>
+         <text:p text:style-name="P47">2 Scorched Earth</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P46">2 Rapid Mobilization</text:p>
+         <text:p text:style-name="P47">2 Rapid Mobilization</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">8 / 4 Strategies</text:p>
+       <text:p text:style-name="P39">8 / 4 Strategies</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P46">2 The Long Winter</text:p>
+         <text:p text:style-name="P47">2 The Long Winter</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P46">2 State-Controlled Media</text:p>
+         <text:p text:style-name="P47">2 State-Controlled Media</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P46">2 The Russians Used A Pencil</text:p>
+         <text:p text:style-name="P47">2 The Russians Used A Pencil</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P46">2 Strategic Destabilization</text:p>
+         <text:p text:style-name="P47">2 Strategic Destabilization</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">12 / 1 Territories</text:p>
+     <text:p text:style-name="P36">12 / 1 Territories</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P38">12 Naval Bases</text:p>
+       <text:p text:style-name="P39">12 Naval Bases</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
