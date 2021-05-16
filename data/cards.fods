@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:initial-creator>Rick Rodgers</meta:initial-creator><meta:creation-date>2020-08-31T22:13:11</meta:creation-date><dc:date>2021-05-11T21:31:50.508000000</dc:date><meta:generator>LibreOffice/7.1.3.2$Windows_X86_64 LibreOffice_project/47f78053abe362b9384784d31a6e56f8511eb1c1</meta:generator><meta:editing-duration>P3DT17H29M31S</meta:editing-duration><meta:editing-cycles>34</meta:editing-cycles><meta:document-statistic meta:table-count="15" meta:cell-count="3948" meta:object-count="1"/><meta:user-defined meta:name="AppVersion">16.0300</meta:user-defined></office:meta>
+ <office:meta><meta:initial-creator>Rick Rodgers</meta:initial-creator><meta:creation-date>2020-08-31T22:13:11</meta:creation-date><dc:date>2021-05-15T17:06:17.387000000</dc:date><meta:generator>LibreOffice/7.1.3.2$Windows_X86_64 LibreOffice_project/47f78053abe362b9384784d31a6e56f8511eb1c1</meta:generator><meta:editing-duration>P3DT18H29M24S</meta:editing-duration><meta:editing-cycles>38</meta:editing-cycles><meta:document-statistic meta:table-count="15" meta:cell-count="3948" meta:object-count="1"/><meta:user-defined meta:name="AppVersion">16.0300</meta:user-defined></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -104,7 +104,7 @@
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="effects">
        <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">34</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">35</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -121,8 +121,8 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="mil_ass_all">
-       <config:config-item config:name="CursorPositionX" config:type="int">17</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">26</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">63</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -131,7 +131,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">6</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">51</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -175,8 +175,8 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="military_assets">
-       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">2</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">10</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">21</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -185,7 +185,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">1</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">13</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -283,7 +283,7 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
-     <config:config-item config:name="ActiveTable" config:type="string">military_assets</config:config-item>
+     <config:config-item config:name="ActiveTable" config:type="string">territories_ru_start</config:config-item>
      <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">2433</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
@@ -446,6 +446,7 @@ End Sub
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
     </ooo:library-embedded>
@@ -454,6 +455,7 @@ End Sub
       <ooo:source-code>em Attribute VBA_ModuleType=VBAModule
 Option VBASupport 1
 
+      
       
       
       
@@ -477,6 +479,7 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="Sheet10">
@@ -484,6 +487,7 @@ Option VBASupport 1
 Option VBASupport 1
 
 
+      
       
       
       
@@ -507,6 +511,7 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="Sheet12">
@@ -514,6 +519,7 @@ Option VBASupport 1
 Option VBASupport 1
 
 
+      
       
       
       
@@ -537,6 +543,7 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="Sheet14">
@@ -544,6 +551,7 @@ Option VBASupport 1
 Option VBASupport 1
 
 
+      
       
       
       
@@ -567,6 +575,7 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="Sheet2">
@@ -574,6 +583,7 @@ Option VBASupport 1
 Option VBASupport 1
 
 
+      
       
       
       
@@ -597,6 +607,7 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="Sheet4">
@@ -604,6 +615,7 @@ Option VBASupport 1
 Option VBASupport 1
 
 
+      
       
       
       
@@ -627,6 +639,7 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="Sheet6">
@@ -634,6 +647,7 @@ Option VBASupport 1
 Option VBASupport 1
 
 
+      
       
       
       
@@ -657,6 +671,7 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="Sheet8">
@@ -664,6 +679,7 @@ Option VBASupport 1
 Option VBASupport 1
 
 
+      
       
       
       
@@ -687,6 +703,7 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="ThisWorkbook">
@@ -694,6 +711,7 @@ Option VBASupport 1
 Option VBASupport 1
 
 
+      
       
       
       
@@ -716,12 +734,14 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="Sheet5 (actions)">
       <ooo:source-code>REM  *****  BASIC  *****
 
 
+      
       
       
       
@@ -744,6 +764,7 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
     </ooo:library-embedded>
@@ -752,9 +773,12 @@ Option VBASupport 1
  </office:scripts>
  <office:font-face-decls>
   <style:font-face style:name="Calibri" svg:font-family="Calibri" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Lucida Sans" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Segoe UI" svg:font-family="&apos;Segoe UI&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
   <style:default-style style:family="table-cell">
@@ -766,7 +790,7 @@ Option VBASupport 1
    <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="page" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-family-asian="&apos;Segoe UI&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Segoe UI" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Tahoma" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <number:number-style style:name="N0">
    <number:number number:min-integer-digits="1"/>
@@ -1125,91 +1149,91 @@ Option VBASupport 1
    <style:table-column-properties fo:break-before="auto" style:column-width="1.2783in"/>
   </style:style>
   <style:style style:name="co10" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
-  </style:style>
-  <style:style style:name="co11" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="15.5984in"/>
   </style:style>
-  <style:style style:name="co12" style:family="table-column">
+  <style:style style:name="co11" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="2.5575in"/>
   </style:style>
-  <style:style style:name="co13" style:family="table-column">
+  <style:style style:name="co12" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.672in"/>
   </style:style>
-  <style:style style:name="co14" style:family="table-column">
+  <style:style style:name="co13" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.9701in"/>
   </style:style>
-  <style:style style:name="co15" style:family="table-column">
+  <style:style style:name="co14" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.8811in"/>
   </style:style>
-  <style:style style:name="co16" style:family="table-column">
+  <style:style style:name="co15" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.661in"/>
   </style:style>
-  <style:style style:name="co17" style:family="table-column">
+  <style:style style:name="co16" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.7165in"/>
   </style:style>
-  <style:style style:name="co18" style:family="table-column">
+  <style:style style:name="co17" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.8709in"/>
   </style:style>
-  <style:style style:name="co19" style:family="table-column">
+  <style:style style:name="co18" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="9.8992in"/>
   </style:style>
-  <style:style style:name="co20" style:family="table-column">
+  <style:style style:name="co19" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="2.8661in"/>
   </style:style>
-  <style:style style:name="co21" style:family="table-column">
+  <style:style style:name="co20" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="3.1862in"/>
   </style:style>
-  <style:style style:name="co22" style:family="table-column">
+  <style:style style:name="co21" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="3.45in"/>
   </style:style>
-  <style:style style:name="co23" style:family="table-column">
+  <style:style style:name="co22" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="6.9665in"/>
   </style:style>
-  <style:style style:name="co24" style:family="table-column">
+  <style:style style:name="co23" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="2.2701in"/>
   </style:style>
-  <style:style style:name="co25" style:family="table-column">
+  <style:style style:name="co24" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="4.1665in"/>
   </style:style>
-  <style:style style:name="co26" style:family="table-column">
+  <style:style style:name="co25" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.6398in"/>
   </style:style>
-  <style:style style:name="co27" style:family="table-column">
+  <style:style style:name="co26" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="5.6335in"/>
   </style:style>
-  <style:style style:name="co28" style:family="table-column">
+  <style:style style:name="co27" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="1.2236in"/>
   </style:style>
-  <style:style style:name="co29" style:family="table-column">
+  <style:style style:name="co28" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="1.0575in"/>
   </style:style>
-  <style:style style:name="co30" style:family="table-column">
+  <style:style style:name="co29" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="14.452in"/>
   </style:style>
-  <style:style style:name="co31" style:family="table-column">
+  <style:style style:name="co30" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="4.4646in"/>
   </style:style>
-  <style:style style:name="co32" style:family="table-column">
+  <style:style style:name="co31" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="2.0283in"/>
   </style:style>
-  <style:style style:name="co33" style:family="table-column">
+  <style:style style:name="co32" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.7055in"/>
   </style:style>
-  <style:style style:name="co34" style:family="table-column">
+  <style:style style:name="co33" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="4.2661in"/>
   </style:style>
-  <style:style style:name="co35" style:family="table-column">
+  <style:style style:name="co34" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="4.211in"/>
   </style:style>
-  <style:style style:name="co36" style:family="table-column">
+  <style:style style:name="co35" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="1.1465in"/>
   </style:style>
-  <style:style style:name="co37" style:family="table-column">
+  <style:style style:name="co36" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="1.4217in"/>
   </style:style>
-  <style:style style:name="co38" style:family="table-column">
+  <style:style style:name="co37" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.8043in"/>
+  </style:style>
+  <style:style style:name="co38" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
   </style:style>
   <style:style style:name="co39" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.8374in"/>
@@ -1445,6 +1469,10 @@ Option VBASupport 1
   <style:style style:name="ce16" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N129">
    <style:table-cell-properties style:rotation-align="none"/>
   </style:style>
+  <style:style style:name="ce37" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="wrap"/>
+   <style:text-properties style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="Segoe UI" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
   <style:style style:name="gr1" style:family="graphic">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" draw:ole-draw-aspect="1"/>
   </style:style>
@@ -1510,7 +1538,7 @@ Option VBASupport 1
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2021-05-11">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="18:50:16.228000000">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2021-05-15">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="16:06:22.895000000">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -1880,10 +1908,10 @@ Option VBASupport 1
              </table:table-row>
              <table:table-row>
               <table:table-cell office:value-type="string">
-               <text:p>Udaloy II DDG</text:p>
+               <text:p>Lider CG</text:p>
               </table:table-cell>
-              <table:table-cell office:value-type="float" office:value="8.5">
-               <text:p>8.5</text:p>
+              <table:table-cell office:value-type="float" office:value="9.5">
+               <text:p>9.5</text:p>
               </table:table-cell>
              </table:table-row>
              <table:table-row>
@@ -4253,24 +4281,24 @@ Option VBASupport 1
      <table:table-cell table:number-columns-repeated="44"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:formula="of:=[$military_assets.A19]" office:value-type="string" office:string-value="Udaloy II DDG" calcext:value-type="string">
-      <text:p>Udaloy II DDG</text:p>
+     <table:table-cell table:formula="of:=[$military_assets.A19]" office:value-type="string" office:string-value="Lider CG" calcext:value-type="string">
+      <text:p>Lider CG</text:p>
      </table:table-cell>
      <table:table-cell table:formula="of:=[$military_assets.J19]" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=[$military_assets.E19]" office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
+     <table:table-cell table:formula="of:=[$military_assets.E19]" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:formula="of:=[$military_assets.F19]" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=[$military_assets.G19]" office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=[$military_assets.H19]" office:value-type="float" office:value="2" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[$military_assets.G19]" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[$military_assets.H19]" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:formula="of:=[$military_assets.I19]" office:value-type="string" office:string-value="RUS" calcext:value-type="string">
@@ -4279,26 +4307,26 @@ Option VBASupport 1
      <table:table-cell table:formula="of:=[.T20]" office:value-type="float" office:value="1.5" calcext:value-type="float">
       <text:p>1.5</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=[.J19]/[.G19]" office:value-type="float" office:value="0.75" calcext:value-type="float">
-      <text:p>0.75</text:p>
+     <table:table-cell table:formula="of:=[.J19]/[.G19]" office:value-type="float" office:value="0.375" calcext:value-type="float">
+      <text:p>0.375</text:p>
      </table:table-cell>
      <table:table-cell table:formula="of:=[.C19]/[.G19]" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=[.F19]/[.G19]" office:value-type="float" office:value="1.5" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.F19]/[.G19]" office:value-type="float" office:value="0.5" calcext:value-type="float">
+      <text:p>0.5</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E19]/[.G19]" office:value-type="float" office:value="0.5" calcext:value-type="float">
+      <text:p>0.5</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.M19]+[.L19]+[.N19]+[.K19]" office:value-type="float" office:value="2.375" calcext:value-type="float">
+      <text:p>2.375</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.L19]+[.M19]" office:value-type="float" office:value="1.5" calcext:value-type="float">
       <text:p>1.5</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=[.E19]/[.G19]" office:value-type="float" office:value="1" calcext:value-type="float">
-      <text:p>1</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=[.M19]+[.L19]+[.N19]+[.K19]" office:value-type="float" office:value="4.25" calcext:value-type="float">
-      <text:p>4.25</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=[.L19]+[.M19]" office:value-type="float" office:value="2.5" calcext:value-type="float">
-      <text:p>2.5</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=[.C19]+[.E19]+[.F19]+[.J19]" office:value-type="float" office:value="8.5" calcext:value-type="float">
-      <text:p>8.5</text:p>
+     <table:table-cell table:formula="of:=[.C19]+[.E19]+[.F19]+[.J19]" office:value-type="float" office:value="9.5" calcext:value-type="float">
+      <text:p>9.5</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -4909,11 +4937,11 @@ Option VBASupport 1
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="13"/>
-     <table:table-cell table:formula="of:=[.G19]" office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
+     <table:table-cell table:formula="of:=[.G19]" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:formula="of:=[.Q19]" office:value-type="float" office:value="8.5" calcext:value-type="float">
-      <text:p>8.5</text:p>
+     <table:table-cell table:style-name="ce5" table:formula="of:=[.Q19]" office:value-type="float" office:value="9.5" calcext:value-type="float">
+      <text:p>9.5</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="49"/>
     </table:table-row>
@@ -5118,7 +5146,7 @@ Option VBASupport 1
    </table:table>
    <table:table table:name="effects" table:style-name="ta3">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <table:table-column table:style-name="co11" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co10" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="63" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -5332,7 +5360,7 @@ Option VBASupport 1
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>UNUSED</text:p>
+      <text:p>S-500: +2 Help Defense</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="63"/>
     </table:table-row>
@@ -5519,18 +5547,18 @@ Option VBASupport 1
    </table:table>
    <table:table table:name="military_assets" table:style-name="ta4">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <table:table-column table:style-name="co12" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co11" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co12" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co13" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co14" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co15" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co16" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co17" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co18" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co19" table:default-cell-style-name="ce28"/>
-    <table:table-column table:style-name="co20" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co21" table:default-cell-style-name="ce28"/>
+    <table:table-column table:style-name="co17" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co18" table:default-cell-style-name="ce28"/>
+    <table:table-column table:style-name="co19" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co20" table:default-cell-style-name="ce28"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="51" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -6167,17 +6195,17 @@ Option VBASupport 1
     </table:table-row>
     <table:table-row table:style-name="ro7">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Udaloy II DDG</text:p>
+      <text:p>Lider CG</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
+     </table:table-cell>
      <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
+     <table:table-cell office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>RUS</text:p>
@@ -6185,13 +6213,13 @@ Option VBASupport 1
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=CHAR(10)&amp;[$effects.$A$35]" office:value-type="string" office:string-value="&#x0a;PLACEHOLDER: Draw MECHANIC" calcext:value-type="string"><text:p/><text:p>PLACEHOLDER: Draw MECHANIC</text:p>
+     <table:table-cell table:formula="of:=[$effects.$A$22]&amp;CHAR(10)&amp;[$effects.$A$36]" office:value-type="string" office:string-value="Hidden: Can be played face down. &#x0a;S-500: +2 Help Defense" calcext:value-type="string"><text:p>Hidden: Can be played face down. </text:p><text:p>S-500: +2 Help Defense</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Images/udaloy.jpg</text:p>
+      <text:p>Images/lider.jpeg</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Udaloy II: the ship so nice they designed it twice.</text:p>
+      <text:p>The Lider is the newest and most advanced ship in the Russian fleet.</text:p>
      </table:table-cell>
      <table:table-cell table:formula="of:=[$version.$A$1]" office:value-type="string" office:string-value="0.1.0" calcext:value-type="string">
       <text:p>0.1.0</text:p>
@@ -6215,8 +6243,7 @@ Option VBASupport 1
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=[$effects.$A$22]" office:value-type="string" office:string-value="Hidden: Can be played face down. " calcext:value-type="string">
-      <text:p>Hidden: Can be played face down. </text:p>
+     <table:table-cell table:formula="of:=[$effects.$A$22]&amp;CHAR(10)&amp;[$effects.$A$35]" office:value-type="string" office:string-value="Hidden: Can be played face down. &#x0a;PLACEHOLDER: Draw MECHANIC" calcext:value-type="string"><text:p>Hidden: Can be played face down. </text:p><text:p>PLACEHOLDER: Draw MECHANIC</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Images/gorshkov.jpg</text:p>
@@ -6509,13 +6536,13 @@ Option VBASupport 1
    </table:table>
    <table:table table:name="actions" table:style-name="ta5">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <table:table-column table:style-name="co22" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co14" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co21" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co13" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co23" table:default-cell-style-name="ce28"/>
+    <table:table-column table:style-name="co22" table:default-cell-style-name="ce28"/>
+    <table:table-column table:style-name="co23" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co24" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co25" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co26" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co25" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="56" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -7032,14 +7059,14 @@ Option VBASupport 1
    </table:table>
    <table:table table:name="territories" table:style-name="ta6">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <table:table-column table:style-name="co26" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co27" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co28" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co29" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co30" table:default-cell-style-name="ce28"/>
+    <table:table-column table:style-name="co29" table:default-cell-style-name="ce28"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co31" table:default-cell-style-name="ce32"/>
-    <table:table-column table:style-name="co32" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co26" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co30" table:default-cell-style-name="ce32"/>
+    <table:table-column table:style-name="co31" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co25" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="56" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -7195,15 +7222,15 @@ Option VBASupport 1
    </table:table>
    <table:table table:name="mil_ass_all" table:style-name="ta7">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <table:table-column table:style-name="co33" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co32" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co34" table:default-cell-style-name="ce15"/>
-    <table:table-column table:style-name="co35" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co33" table:default-cell-style-name="ce15"/>
+    <table:table-column table:style-name="co34" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="8" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co36" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co35" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co36" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co37" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co38" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="48" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -8611,7 +8638,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="47"/>
     </table:table-row>
-    <table:table-row table:style-name="ro20">
+    <table:table-row table:style-name="ro15">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -8664,7 +8691,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="47"/>
     </table:table-row>
-    <table:table-row table:style-name="ro20">
+    <table:table-row table:style-name="ro15">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -8717,7 +8744,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="47"/>
     </table:table-row>
-    <table:table-row table:style-name="ro20">
+    <table:table-row table:style-name="ro15">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -8770,7 +8797,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="47"/>
     </table:table-row>
-    <table:table-row table:style-name="ro20">
+    <table:table-row table:style-name="ro15">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -9141,7 +9168,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="47"/>
     </table:table-row>
-    <table:table-row table:style-name="ro20">
+    <table:table-row table:style-name="ro15">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -9194,7 +9221,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="47"/>
     </table:table-row>
-    <table:table-row table:style-name="ro20">
+    <table:table-row table:style-name="ro15">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -9247,7 +9274,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="47"/>
     </table:table-row>
-    <table:table-row table:style-name="ro20">
+    <table:table-row table:style-name="ro15">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -9300,7 +9327,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="47"/>
     </table:table-row>
-    <table:table-row table:style-name="ro20">
+    <table:table-row table:style-name="ro15">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -9353,7 +9380,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="47"/>
     </table:table-row>
-    <table:table-row table:style-name="ro20">
+    <table:table-row table:style-name="ro15">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -9845,10 +9872,10 @@ Option VBASupport 1
       <text:p>19</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Admiral Chabenenko</text:p>
+      <text:p>Admiral Makarov</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.A$1:$military_assets.A$1048576];[$mil_ass_all.$B50])" office:value-type="string" office:string-value="Udaloy II DDG" calcext:value-type="string">
-      <text:p>Udaloy II DDG</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.A$1:$military_assets.A$1048576];[$mil_ass_all.$B50])" office:value-type="string" office:string-value="Lider CG" calcext:value-type="string">
+      <text:p>Lider CG</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.B$1:$military_assets.B$1048576];[$mil_ass_all.$B50])" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
@@ -9859,17 +9886,17 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.D$1:$military_assets.D$1048576];[$mil_ass_all.$B50])" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.E$1:$military_assets.E$1048576];[$mil_ass_all.$B50])" office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.E$1:$military_assets.E$1048576];[$mil_ass_all.$B50])" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.F$1:$military_assets.F$1048576];[$mil_ass_all.$B50])" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.G$1:$military_assets.G$1048576];[$mil_ass_all.$B50])" office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.H$1:$military_assets.H$1048576];[$mil_ass_all.$B50])" office:value-type="float" office:value="2" calcext:value-type="float">
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.G$1:$military_assets.G$1048576];[$mil_ass_all.$B50])" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.H$1:$military_assets.H$1048576];[$mil_ass_all.$B50])" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.I$1:$military_assets.I$1048576];[$mil_ass_all.$B50])" office:value-type="string" office:string-value="RUS" calcext:value-type="string">
       <text:p>RUS</text:p>
@@ -9877,13 +9904,13 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B50])" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B50])" office:value-type="string" office:string-value="&#x0a;PLACEHOLDER: Draw MECHANIC" calcext:value-type="string"><text:p/><text:p>PLACEHOLDER: Draw MECHANIC</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B50])" office:value-type="string" office:string-value="Hidden: Can be played face down. &#x0a;S-500: +2 Help Defense" calcext:value-type="string"><text:p>Hidden: Can be played face down. </text:p><text:p>S-500: +2 Help Defense</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B50])" office:value-type="string" office:string-value="Images/udaloy.jpg" calcext:value-type="string">
-      <text:p>Images/udaloy.jpg</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B50])" office:value-type="string" office:string-value="Images/lider.jpeg" calcext:value-type="string">
+      <text:p>Images/lider.jpeg</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.M$1:$military_assets.M$1048576];[$mil_ass_all.$B50])" office:value-type="string" office:string-value="Udaloy II: the ship so nice they designed it twice." calcext:value-type="string">
-      <text:p>Udaloy II: the ship so nice they designed it twice.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.M$1:$military_assets.M$1048576];[$mil_ass_all.$B50])" office:value-type="string" office:string-value="The Lider is the newest and most advanced ship in the Russian fleet." calcext:value-type="string">
+      <text:p>The Lider is the newest and most advanced ship in the Russian fleet.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.N$1:$military_assets.N$1048576];[$mil_ass_all.$B50])" office:value-type="string" office:string-value="0.1.0" calcext:value-type="string">
       <text:p>0.1.0</text:p>
@@ -9898,10 +9925,10 @@ Option VBASupport 1
       <text:p>19</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Admiral Panteleyev</text:p>
+      <text:p>Admiral Isakov</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.A$1:$military_assets.A$1048576];[$mil_ass_all.$B51])" office:value-type="string" office:string-value="Udaloy II DDG" calcext:value-type="string">
-      <text:p>Udaloy II DDG</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.A$1:$military_assets.A$1048576];[$mil_ass_all.$B51])" office:value-type="string" office:string-value="Lider CG" calcext:value-type="string">
+      <text:p>Lider CG</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.B$1:$military_assets.B$1048576];[$mil_ass_all.$B51])" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
@@ -9912,17 +9939,17 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.D$1:$military_assets.D$1048576];[$mil_ass_all.$B51])" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.E$1:$military_assets.E$1048576];[$mil_ass_all.$B51])" office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.E$1:$military_assets.E$1048576];[$mil_ass_all.$B51])" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.F$1:$military_assets.F$1048576];[$mil_ass_all.$B51])" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.G$1:$military_assets.G$1048576];[$mil_ass_all.$B51])" office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.H$1:$military_assets.H$1048576];[$mil_ass_all.$B51])" office:value-type="float" office:value="2" calcext:value-type="float">
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.G$1:$military_assets.G$1048576];[$mil_ass_all.$B51])" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.H$1:$military_assets.H$1048576];[$mil_ass_all.$B51])" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.I$1:$military_assets.I$1048576];[$mil_ass_all.$B51])" office:value-type="string" office:string-value="RUS" calcext:value-type="string">
       <text:p>RUS</text:p>
@@ -9930,13 +9957,13 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B51])" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B51])" office:value-type="string" office:string-value="&#x0a;PLACEHOLDER: Draw MECHANIC" calcext:value-type="string"><text:p/><text:p>PLACEHOLDER: Draw MECHANIC</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B51])" office:value-type="string" office:string-value="Hidden: Can be played face down. &#x0a;S-500: +2 Help Defense" calcext:value-type="string"><text:p>Hidden: Can be played face down. </text:p><text:p>S-500: +2 Help Defense</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B51])" office:value-type="string" office:string-value="Images/udaloy.jpg" calcext:value-type="string">
-      <text:p>Images/udaloy.jpg</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B51])" office:value-type="string" office:string-value="Images/lider.jpeg" calcext:value-type="string">
+      <text:p>Images/lider.jpeg</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.M$1:$military_assets.M$1048576];[$mil_ass_all.$B51])" office:value-type="string" office:string-value="Udaloy II: the ship so nice they designed it twice." calcext:value-type="string">
-      <text:p>Udaloy II: the ship so nice they designed it twice.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.M$1:$military_assets.M$1048576];[$mil_ass_all.$B51])" office:value-type="string" office:string-value="The Lider is the newest and most advanced ship in the Russian fleet." calcext:value-type="string">
+      <text:p>The Lider is the newest and most advanced ship in the Russian fleet.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.N$1:$military_assets.N$1048576];[$mil_ass_all.$B51])" office:value-type="string" office:string-value="0.1.0" calcext:value-type="string">
       <text:p>0.1.0</text:p>
@@ -9951,10 +9978,10 @@ Option VBASupport 1
       <text:p>19</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Admiral Levchenko</text:p>
+      <text:p>Admiral Ishenkov</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.A$1:$military_assets.A$1048576];[$mil_ass_all.$B52])" office:value-type="string" office:string-value="Udaloy II DDG" calcext:value-type="string">
-      <text:p>Udaloy II DDG</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.A$1:$military_assets.A$1048576];[$mil_ass_all.$B52])" office:value-type="string" office:string-value="Lider CG" calcext:value-type="string">
+      <text:p>Lider CG</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.B$1:$military_assets.B$1048576];[$mil_ass_all.$B52])" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
@@ -9965,17 +9992,17 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.D$1:$military_assets.D$1048576];[$mil_ass_all.$B52])" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.E$1:$military_assets.E$1048576];[$mil_ass_all.$B52])" office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.E$1:$military_assets.E$1048576];[$mil_ass_all.$B52])" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.F$1:$military_assets.F$1048576];[$mil_ass_all.$B52])" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.G$1:$military_assets.G$1048576];[$mil_ass_all.$B52])" office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.H$1:$military_assets.H$1048576];[$mil_ass_all.$B52])" office:value-type="float" office:value="2" calcext:value-type="float">
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.G$1:$military_assets.G$1048576];[$mil_ass_all.$B52])" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.H$1:$military_assets.H$1048576];[$mil_ass_all.$B52])" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.I$1:$military_assets.I$1048576];[$mil_ass_all.$B52])" office:value-type="string" office:string-value="RUS" calcext:value-type="string">
       <text:p>RUS</text:p>
@@ -9983,13 +10010,13 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B52])" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B52])" office:value-type="string" office:string-value="&#x0a;PLACEHOLDER: Draw MECHANIC" calcext:value-type="string"><text:p/><text:p>PLACEHOLDER: Draw MECHANIC</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B52])" office:value-type="string" office:string-value="Hidden: Can be played face down. &#x0a;S-500: +2 Help Defense" calcext:value-type="string"><text:p>Hidden: Can be played face down. </text:p><text:p>S-500: +2 Help Defense</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B52])" office:value-type="string" office:string-value="Images/udaloy.jpg" calcext:value-type="string">
-      <text:p>Images/udaloy.jpg</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B52])" office:value-type="string" office:string-value="Images/lider.jpeg" calcext:value-type="string">
+      <text:p>Images/lider.jpeg</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.M$1:$military_assets.M$1048576];[$mil_ass_all.$B52])" office:value-type="string" office:string-value="Udaloy II: the ship so nice they designed it twice." calcext:value-type="string">
-      <text:p>Udaloy II: the ship so nice they designed it twice.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.M$1:$military_assets.M$1048576];[$mil_ass_all.$B52])" office:value-type="string" office:string-value="The Lider is the newest and most advanced ship in the Russian fleet." calcext:value-type="string">
+      <text:p>The Lider is the newest and most advanced ship in the Russian fleet.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.N$1:$military_assets.N$1048576];[$mil_ass_all.$B52])" office:value-type="string" office:string-value="0.1.0" calcext:value-type="string">
       <text:p>0.1.0</text:p>
@@ -10000,14 +10027,14 @@ Option VBASupport 1
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="19" calcext:value-type="float">
-      <text:p>19</text:p>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Admiral Vinogradov</text:p>
+     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+      <text:p>Poryvisty </text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.A$1:$military_assets.A$1048576];[$mil_ass_all.$B53])" office:value-type="string" office:string-value="Udaloy II DDG" calcext:value-type="string">
-      <text:p>Udaloy II DDG</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.A$1:$military_assets.A$1048576];[$mil_ass_all.$B53])" office:value-type="string" office:string-value="Gorshkov FFG" calcext:value-type="string">
+      <text:p>Gorshkov FFG</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.B$1:$military_assets.B$1048576];[$mil_ass_all.$B53])" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
@@ -10018,14 +10045,14 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.D$1:$military_assets.D$1048576];[$mil_ass_all.$B53])" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.E$1:$military_assets.E$1048576];[$mil_ass_all.$B53])" office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.E$1:$military_assets.E$1048576];[$mil_ass_all.$B53])" office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.F$1:$military_assets.F$1048576];[$mil_ass_all.$B53])" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.G$1:$military_assets.G$1048576];[$mil_ass_all.$B53])" office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.G$1:$military_assets.G$1048576];[$mil_ass_all.$B53])" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.H$1:$military_assets.H$1048576];[$mil_ass_all.$B53])" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
@@ -10036,13 +10063,13 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B53])" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B53])" office:value-type="string" office:string-value="&#x0a;PLACEHOLDER: Draw MECHANIC" calcext:value-type="string"><text:p/><text:p>PLACEHOLDER: Draw MECHANIC</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B53])" office:value-type="string" office:string-value="Hidden: Can be played face down. &#x0a;PLACEHOLDER: Draw MECHANIC" calcext:value-type="string"><text:p>Hidden: Can be played face down. </text:p><text:p>PLACEHOLDER: Draw MECHANIC</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B53])" office:value-type="string" office:string-value="Images/udaloy.jpg" calcext:value-type="string">
-      <text:p>Images/udaloy.jpg</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B53])" office:value-type="string" office:string-value="Images/gorshkov.jpg" calcext:value-type="string">
+      <text:p>Images/gorshkov.jpg</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.M$1:$military_assets.M$1048576];[$mil_ass_all.$B53])" office:value-type="string" office:string-value="Udaloy II: the ship so nice they designed it twice." calcext:value-type="string">
-      <text:p>Udaloy II: the ship so nice they designed it twice.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.M$1:$military_assets.M$1048576];[$mil_ass_all.$B53])" office:value-type="string" office:string-value="The cutting-edge Gorshkov frigates stick out in the largely-outdated Russian surface warfare fleet." calcext:value-type="string">
+      <text:p>The cutting-edge Gorshkov frigates stick out in the largely-outdated Russian surface warfare fleet.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.N$1:$military_assets.N$1048576];[$mil_ass_all.$B53])" office:value-type="string" office:string-value="0.1.0" calcext:value-type="string">
       <text:p>0.1.0</text:p>
@@ -10053,14 +10080,14 @@ Option VBASupport 1
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="19" calcext:value-type="float">
-      <text:p>19</text:p>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Severomorsk</text:p>
+     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+      <text:p>Bezzavetny </text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.A$1:$military_assets.A$1048576];[$mil_ass_all.$B54])" office:value-type="string" office:string-value="Udaloy II DDG" calcext:value-type="string">
-      <text:p>Udaloy II DDG</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.A$1:$military_assets.A$1048576];[$mil_ass_all.$B54])" office:value-type="string" office:string-value="Gorshkov FFG" calcext:value-type="string">
+      <text:p>Gorshkov FFG</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.B$1:$military_assets.B$1048576];[$mil_ass_all.$B54])" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
@@ -10071,14 +10098,14 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.D$1:$military_assets.D$1048576];[$mil_ass_all.$B54])" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.E$1:$military_assets.E$1048576];[$mil_ass_all.$B54])" office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.E$1:$military_assets.E$1048576];[$mil_ass_all.$B54])" office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.F$1:$military_assets.F$1048576];[$mil_ass_all.$B54])" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.G$1:$military_assets.G$1048576];[$mil_ass_all.$B54])" office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.G$1:$military_assets.G$1048576];[$mil_ass_all.$B54])" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.H$1:$military_assets.H$1048576];[$mil_ass_all.$B54])" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
@@ -10089,13 +10116,13 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B54])" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B54])" office:value-type="string" office:string-value="&#x0a;PLACEHOLDER: Draw MECHANIC" calcext:value-type="string"><text:p/><text:p>PLACEHOLDER: Draw MECHANIC</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B54])" office:value-type="string" office:string-value="Hidden: Can be played face down. &#x0a;PLACEHOLDER: Draw MECHANIC" calcext:value-type="string"><text:p>Hidden: Can be played face down. </text:p><text:p>PLACEHOLDER: Draw MECHANIC</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B54])" office:value-type="string" office:string-value="Images/udaloy.jpg" calcext:value-type="string">
-      <text:p>Images/udaloy.jpg</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B54])" office:value-type="string" office:string-value="Images/gorshkov.jpg" calcext:value-type="string">
+      <text:p>Images/gorshkov.jpg</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.M$1:$military_assets.M$1048576];[$mil_ass_all.$B54])" office:value-type="string" office:string-value="Udaloy II: the ship so nice they designed it twice." calcext:value-type="string">
-      <text:p>Udaloy II: the ship so nice they designed it twice.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.M$1:$military_assets.M$1048576];[$mil_ass_all.$B54])" office:value-type="string" office:string-value="The cutting-edge Gorshkov frigates stick out in the largely-outdated Russian surface warfare fleet." calcext:value-type="string">
+      <text:p>The cutting-edge Gorshkov frigates stick out in the largely-outdated Russian surface warfare fleet.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.N$1:$military_assets.N$1048576];[$mil_ass_all.$B54])" office:value-type="string" office:string-value="0.1.0" calcext:value-type="string">
       <text:p>0.1.0</text:p>
@@ -10106,14 +10133,14 @@ Option VBASupport 1
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="19" calcext:value-type="float">
-      <text:p>19</text:p>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Admiral Shaposhnikov</text:p>
+     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+      <text:p>Bodry </text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.A$1:$military_assets.A$1048576];[$mil_ass_all.$B55])" office:value-type="string" office:string-value="Udaloy II DDG" calcext:value-type="string">
-      <text:p>Udaloy II DDG</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.A$1:$military_assets.A$1048576];[$mil_ass_all.$B55])" office:value-type="string" office:string-value="Gorshkov FFG" calcext:value-type="string">
+      <text:p>Gorshkov FFG</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.B$1:$military_assets.B$1048576];[$mil_ass_all.$B55])" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
@@ -10124,14 +10151,14 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.D$1:$military_assets.D$1048576];[$mil_ass_all.$B55])" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.E$1:$military_assets.E$1048576];[$mil_ass_all.$B55])" office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.E$1:$military_assets.E$1048576];[$mil_ass_all.$B55])" office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.F$1:$military_assets.F$1048576];[$mil_ass_all.$B55])" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.G$1:$military_assets.G$1048576];[$mil_ass_all.$B55])" office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.G$1:$military_assets.G$1048576];[$mil_ass_all.$B55])" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.H$1:$military_assets.H$1048576];[$mil_ass_all.$B55])" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
@@ -10142,13 +10169,13 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B55])" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B55])" office:value-type="string" office:string-value="&#x0a;PLACEHOLDER: Draw MECHANIC" calcext:value-type="string"><text:p/><text:p>PLACEHOLDER: Draw MECHANIC</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B55])" office:value-type="string" office:string-value="Hidden: Can be played face down. &#x0a;PLACEHOLDER: Draw MECHANIC" calcext:value-type="string"><text:p>Hidden: Can be played face down. </text:p><text:p>PLACEHOLDER: Draw MECHANIC</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B55])" office:value-type="string" office:string-value="Images/udaloy.jpg" calcext:value-type="string">
-      <text:p>Images/udaloy.jpg</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B55])" office:value-type="string" office:string-value="Images/gorshkov.jpg" calcext:value-type="string">
+      <text:p>Images/gorshkov.jpg</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.M$1:$military_assets.M$1048576];[$mil_ass_all.$B55])" office:value-type="string" office:string-value="Udaloy II: the ship so nice they designed it twice." calcext:value-type="string">
-      <text:p>Udaloy II: the ship so nice they designed it twice.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.M$1:$military_assets.M$1048576];[$mil_ass_all.$B55])" office:value-type="string" office:string-value="The cutting-edge Gorshkov frigates stick out in the largely-outdated Russian surface warfare fleet." calcext:value-type="string">
+      <text:p>The cutting-edge Gorshkov frigates stick out in the largely-outdated Russian surface warfare fleet.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.N$1:$military_assets.N$1048576];[$mil_ass_all.$B55])" office:value-type="string" office:string-value="0.1.0" calcext:value-type="string">
       <text:p>0.1.0</text:p>
@@ -10407,8 +10434,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B60])" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B60])" office:value-type="string" office:string-value="Hidden: Can be played face down. " calcext:value-type="string">
-      <text:p>Hidden: Can be played face down. </text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B60])" office:value-type="string" office:string-value="Hidden: Can be played face down. &#x0a;PLACEHOLDER: Draw MECHANIC" calcext:value-type="string"><text:p>Hidden: Can be played face down. </text:p><text:p>PLACEHOLDER: Draw MECHANIC</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B60])" office:value-type="string" office:string-value="Images/gorshkov.jpg" calcext:value-type="string">
       <text:p>Images/gorshkov.jpg</text:p>
@@ -10461,8 +10487,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B61])" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B61])" office:value-type="string" office:string-value="Hidden: Can be played face down. " calcext:value-type="string">
-      <text:p>Hidden: Can be played face down. </text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B61])" office:value-type="string" office:string-value="Hidden: Can be played face down. &#x0a;PLACEHOLDER: Draw MECHANIC" calcext:value-type="string"><text:p>Hidden: Can be played face down. </text:p><text:p>PLACEHOLDER: Draw MECHANIC</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B61])" office:value-type="string" office:string-value="Images/gorshkov.jpg" calcext:value-type="string">
       <text:p>Images/gorshkov.jpg</text:p>
@@ -14065,12 +14090,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="47"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1" table:number-rows-repeated="3">
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce15"/>
-     <table:table-cell table:number-columns-repeated="61"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1" table:number-rows-repeated="21">
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="24">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce15"/>
      <table:table-cell table:number-columns-repeated="61"/>
@@ -14121,7 +14141,7 @@ Option VBASupport 1
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co53" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co24" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co23" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="60" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
