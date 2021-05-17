@@ -11,11 +11,9 @@ America
 Wasp
 
 Aircraft:
-F/A-18E
 F-35B
 F-35C
-harrier 2 (may be too old)
-F/A-XX
+F/A-24 Wildcat (hypothetical name)
 
 Surface:
 Iowa class
@@ -25,5 +23,5 @@ Ticonderoga
 Zumwalt
 
 2 + 1 + 1 new
-remove harrier
+remove harrier, superhornet
 maybe remove zumwalt
