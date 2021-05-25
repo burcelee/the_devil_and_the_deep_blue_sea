@@ -1,0 +1,48 @@
+
+USN
+
+	Draw Power / stacking:
+		Scuttlebutt - Card is pretty well balanced. Might need to add a "draw a card" to it so it doesn't create card disadvantage.
+		
+		Military industrial complex - solid strategy. no stacking.
+		
+		nato allies - solid card. also a combat trick.
+		
+		I have not yet begun to fight - solid card, but top decking makes it situationally useful. Might need to be directly into hand to avoid card disadvantage.
+	
+	Combat Tricks
+		AF is Short On Water - Good but limited. Perhaps could change to putting any number of cards from hand into play.
+		
+		Uncommon valor was a common virtue - Kinda don't like this card's effect. It's a little too technical and hard to understand. Does the card still affect defense? What if it's a surprise attacker? Could instead have this be either a strategy
+		or a one-time effect of the idea I had for semper fidelis
+
+		
+		That's the spirit - Fine as is
+	Intel
+		KH-11 Key Hole
+
+	Win more
+		semper fidelis - Could switch to an ability for an attacker to discard cards equal to a territories logistics to auto-cap it after the defender discards to save it. Might get rid of this card and use its effect for uncommon valor. Or could keep with current effect.
+			This might actually be a pretty bad effect. Discarding 6
+			cards is pretty significant - and territories can often
+			just be immediately replaced. Perhaps if its a strategy
+			it could be part of a aggro strategy, but its hard to 
+			imagine this being a useful one-off.
+
+	carrier
+		Aerial refueling - Maybe change to letting planes stationed on territories attack. This could be useful for mitigating the compatibility issues of the USN air force. Maybe this card counts as a carrier 2 or carrier 3? Stack?
+
+RUS
+	Draw power
+		Strategic flexibility - this is probably the russian's worst action
+		Rapid mobilization
+	Mill
+		Long winter
+		Disinformation Campaigns
+	win more
+		scorched earth
+	counter
+		counter espionage
+	disruption
+		Strategic destabilization
+
