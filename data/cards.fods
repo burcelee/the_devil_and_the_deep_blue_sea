@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:initial-creator>Rick Rodgers</meta:initial-creator><meta:creation-date>2020-08-31T22:13:11</meta:creation-date><dc:date>2021-05-30T13:48:45.680000000</dc:date><meta:generator>LibreOffice/7.1.3.2$Windows_X86_64 LibreOffice_project/47f78053abe362b9384784d31a6e56f8511eb1c1</meta:generator><meta:editing-duration>P4DT12M42S</meta:editing-duration><meta:editing-cycles>61</meta:editing-cycles><meta:document-statistic meta:table-count="15" meta:cell-count="3981" meta:object-count="1"/><meta:user-defined meta:name="AppVersion">16.0300</meta:user-defined></office:meta>
+ <office:meta><meta:initial-creator>Rick Rodgers</meta:initial-creator><meta:creation-date>2020-08-31T22:13:11</meta:creation-date><dc:date>2021-05-30T13:52:14.033000000</dc:date><meta:generator>LibreOffice/7.1.3.2$Windows_X86_64 LibreOffice_project/47f78053abe362b9384784d31a6e56f8511eb1c1</meta:generator><meta:editing-duration>P4DT16M10S</meta:editing-duration><meta:editing-cycles>62</meta:editing-cycles><meta:document-statistic meta:table-count="15" meta:cell-count="3981" meta:object-count="1"/><meta:user-defined meta:name="AppVersion">16.0300</meta:user-defined></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -104,7 +104,7 @@
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="effects">
        <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">34</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">27</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -176,16 +176,16 @@
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="military_assets">
        <config:config-item config:name="CursorPositionX" config:type="int">10</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">24</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">11</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">1</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">8</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">16</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">4</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -283,7 +283,7 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
-     <config:config-item config:name="ActiveTable" config:type="string">actions</config:config-item>
+     <config:config-item config:name="ActiveTable" config:type="string">effects</config:config-item>
      <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1184</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
@@ -5912,6 +5912,7 @@ Option VBASupport 1
     </table:table-row>
    </table:table>
    <table:table table:name="effects" table:style-name="ta3">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co12" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="63" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
@@ -5928,7 +5929,7 @@ Option VBASupport 1
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>CATOBAR: Compatible with CATOBAR, VTOL, and <text:s/>STOBAR squadrons.</text:p>
+      <text:p>CATOBAR: Compatible with aircraft up to compatibility 3.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="63"/>
     </table:table-row>
@@ -5946,7 +5947,7 @@ Option VBASupport 1
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>VTOL: Compatible with all VTOL aircraft squadrons.</text:p>
+      <text:p>VTOL: Compatible with aircraft up to compatibility 1.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="63"/>
     </table:table-row>
@@ -6048,7 +6049,7 @@ Option VBASupport 1
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>STOBAR: Compatible with STOBAR and VTOL squadrons.</text:p>
+      <text:p>STOBAR: Compatible with aircraft up to compatibility 2.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="63"/>
     </table:table-row>
@@ -6066,19 +6067,19 @@ Option VBASupport 1
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>VTOL</text:p>
+      <text:p>VTOL: Compatibility 1</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="63"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>STOBAR</text:p>
+      <text:p>STOBAR: Compatibility 2</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="63"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>CATOBAR</text:p>
+      <text:p>CATOBAR: Compatibility 3</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="63"/>
     </table:table-row>
@@ -6428,7 +6429,7 @@ Option VBASupport 1
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=[$effects.$A$3]&amp;CHAR(10)&amp;[$effects.$A$25]&amp;CHAR(10)&amp;[$effects.$A$34]&amp;CHAR(10)&amp;[$effects.$A$31]" office:value-type="string" office:string-value="CATOBAR: Compatible with CATOBAR, VTOL, and  STOBAR squadrons.&#x0a;E-2D Hawkeye-I: +1 Help Defense&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 3: Can station 3 aircraft squadrons." calcext:value-type="string"><text:p>CATOBAR: Compatible with CATOBAR, VTOL, and  STOBAR squadrons.</text:p><text:p>E-2D Hawkeye-I: +1 Help Defense</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 3: Can station 3 aircraft squadrons.</text:p>
+     <table:table-cell table:formula="of:=[$effects.$A$3]&amp;CHAR(10)&amp;[$effects.$A$25]&amp;CHAR(10)&amp;[$effects.$A$34]&amp;CHAR(10)&amp;[$effects.$A$31]" office:value-type="string" office:string-value="CATOBAR: Compatible with aircraft up to compatibility 3.&#x0a;E-2D Hawkeye-I: +1 Help Defense&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 3: Can station 3 aircraft squadrons." calcext:value-type="string"><text:p>CATOBAR: Compatible with aircraft up to compatibility 3.</text:p><text:p>E-2D Hawkeye-I: +1 Help Defense</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 3: Can station 3 aircraft squadrons.</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Images/ford.jpg</text:p>
@@ -6464,7 +6465,7 @@ Option VBASupport 1
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce29" table:formula="of:=[$effects.$A$6]&amp;CHAR(10)&amp;[$effects.$A$29]&amp;CHAR(10)&amp;[$effects.$A$35]" office:value-type="string" office:string-value="VTOL: Compatible with all VTOL aircraft squadrons.&#x0a;Carrier 1: Can station 1 aircraft squadron.&#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>VTOL: Compatible with all VTOL aircraft squadrons.</text:p><text:p>Carrier 1: Can station 1 aircraft squadron.</text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
+     <table:table-cell table:style-name="ce29" table:formula="of:=[$effects.$A$6]&amp;CHAR(10)&amp;[$effects.$A$29]&amp;CHAR(10)&amp;[$effects.$A$35]" office:value-type="string" office:string-value="VTOL: Compatible with aircraft up to compatibility 1.&#x0a;Carrier 1: Can station 1 aircraft squadron.&#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>VTOL: Compatible with aircraft up to compatibility 1.</text:p><text:p>Carrier 1: Can station 1 aircraft squadron.</text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Images/wasp.jpg</text:p>
@@ -6500,7 +6501,7 @@ Option VBASupport 1
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce29" table:formula="of:=[$effects.$A$6]&amp;CHAR(10)&amp;[$effects.$A$34]&amp;CHAR(10)&amp;[$effects.$A$30]" office:value-type="string" office:string-value="VTOL: Compatible with all VTOL aircraft squadrons.&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 2: Can station 2 aircraft squadrons." calcext:value-type="string"><text:p>VTOL: Compatible with all VTOL aircraft squadrons.</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 2: Can station 2 aircraft squadrons.</text:p>
+     <table:table-cell table:style-name="ce29" table:formula="of:=[$effects.$A$6]&amp;CHAR(10)&amp;[$effects.$A$34]&amp;CHAR(10)&amp;[$effects.$A$30]" office:value-type="string" office:string-value="VTOL: Compatible with aircraft up to compatibility 1.&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 2: Can station 2 aircraft squadrons." calcext:value-type="string"><text:p>VTOL: Compatible with aircraft up to compatibility 1.</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 2: Can station 2 aircraft squadrons.</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Images/america.jpg</text:p>
@@ -6745,7 +6746,7 @@ Option VBASupport 1
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=[$effects.$A$28]&amp;CHAR(10)&amp;[$effects.$A$22]&amp;CHAR(10)&amp;[$effects.$A$35]" office:value-type="string" office:string-value="CATOBAR&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>CATOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
+     <table:table-cell table:formula="of:=[$effects.$A$28]&amp;CHAR(10)&amp;[$effects.$A$22]&amp;CHAR(10)&amp;[$effects.$A$35]" office:value-type="string" office:string-value="CATOBAR: Compatibility 3&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>CATOBAR: Compatibility 3</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Images/f18.jpg</text:p>
@@ -6778,7 +6779,7 @@ Option VBASupport 1
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=[$effects.$A$26]&amp;CHAR(10)&amp;[$effects.$A$22]&amp;CHAR(10)&amp;[$effects.$A$8]" office:value-type="string" office:string-value="VTOL&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>VTOL</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
+     <table:table-cell table:formula="of:=[$effects.$A$26]&amp;CHAR(10)&amp;[$effects.$A$22]&amp;CHAR(10)&amp;[$effects.$A$8]" office:value-type="string" office:string-value="VTOL: Compatibility 1&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>VTOL: Compatibility 1</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Images/f35b.jpg</text:p>
@@ -6814,7 +6815,7 @@ Option VBASupport 1
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=[$effects.$A$28]&amp;CHAR(10)&amp;[$effects.$A$22]&amp;CHAR(10)&amp;[$effects.$A$8]" office:value-type="string" office:string-value="CATOBAR&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>CATOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
+     <table:table-cell table:formula="of:=[$effects.$A$28]&amp;CHAR(10)&amp;[$effects.$A$22]&amp;CHAR(10)&amp;[$effects.$A$8]" office:value-type="string" office:string-value="CATOBAR: Compatibility 3&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>CATOBAR: Compatibility 3</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Images/f35c.jpg</text:p>
@@ -6847,7 +6848,7 @@ Option VBASupport 1
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=[$effects.$A$26]&amp;CHAR(10)&amp;[$effects.$A$22]" office:value-type="string" office:string-value="VTOL&#x0a;Hidden: Can be played face down. " calcext:value-type="string"><text:p>VTOL</text:p><text:p>Hidden: Can be played face down. </text:p>
+     <table:table-cell table:formula="of:=[$effects.$A$26]&amp;CHAR(10)&amp;[$effects.$A$22]" office:value-type="string" office:string-value="VTOL: Compatibility 1&#x0a;Hidden: Can be played face down. " calcext:value-type="string"><text:p>VTOL: Compatibility 1</text:p><text:p>Hidden: Can be played face down. </text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Images/harrier.jpg</text:p>
@@ -6880,7 +6881,7 @@ Option VBASupport 1
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=[$effects.$A$23]&amp;CHAR(10)&amp;[$effects.$A$29]&amp;CHAR(10)&amp;[$effects.$A$35]" office:value-type="string" office:string-value="STOBAR: Compatible with STOBAR and VTOL squadrons.&#x0a;Carrier 1: Can station 1 aircraft squadron.&#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>STOBAR: Compatible with STOBAR and VTOL squadrons.</text:p><text:p>Carrier 1: Can station 1 aircraft squadron.</text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
+     <table:table-cell table:formula="of:=[$effects.$A$23]&amp;CHAR(10)&amp;[$effects.$A$29]&amp;CHAR(10)&amp;[$effects.$A$35]" office:value-type="string" office:string-value="STOBAR: Compatible with aircraft up to compatibility 2.&#x0a;Carrier 1: Can station 1 aircraft squadron.&#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>STOBAR: Compatible with aircraft up to compatibility 2.</text:p><text:p>Carrier 1: Can station 1 aircraft squadron.</text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Images/kuznetsov.jpg</text:p>
@@ -7152,7 +7153,7 @@ Option VBASupport 1
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=[$effects.$A$27]&amp;CHAR(10)&amp;[$effects.$A$22]&amp;CHAR(10)&amp;[$effects.$A$35]" office:value-type="string" office:string-value="STOBAR&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>STOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
+     <table:table-cell table:formula="of:=[$effects.$A$27]&amp;CHAR(10)&amp;[$effects.$A$22]&amp;CHAR(10)&amp;[$effects.$A$35]" office:value-type="string" office:string-value="STOBAR: Compatibility 2&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>STOBAR: Compatibility 2</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Images/mig29k.jpg</text:p>
@@ -7185,7 +7186,7 @@ Option VBASupport 1
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=[$effects.$A$28]&amp;CHAR(10)&amp;[$effects.$A$22]&amp;CHAR(10)&amp;[$effects.$A$8]" office:value-type="string" office:string-value="CATOBAR&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>CATOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
+     <table:table-cell table:formula="of:=[$effects.$A$28]&amp;CHAR(10)&amp;[$effects.$A$22]&amp;CHAR(10)&amp;[$effects.$A$8]" office:value-type="string" office:string-value="CATOBAR: Compatibility 3&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>CATOBAR: Compatibility 3</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Images/su57.jpg</text:p>
@@ -7317,7 +7318,7 @@ Option VBASupport 1
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=[$effects.$A$3]&amp;CHAR(10)&amp;[$effects.$A$34]&amp;CHAR(10)&amp;[$effects.$A$31]&amp;CHAR(10)&amp;[$effects.$A$36]" office:value-type="string" office:string-value="CATOBAR: Compatible with CATOBAR, VTOL, and  STOBAR squadrons.&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 3: Can station 3 aircraft squadrons.&#x0a;S-500: +2 Help Defense" calcext:value-type="string"><text:p>CATOBAR: Compatible with CATOBAR, VTOL, and  STOBAR squadrons.</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 3: Can station 3 aircraft squadrons.</text:p><text:p>S-500: +2 Help Defense</text:p>
+     <table:table-cell table:formula="of:=[$effects.$A$3]&amp;CHAR(10)&amp;[$effects.$A$34]&amp;CHAR(10)&amp;[$effects.$A$31]&amp;CHAR(10)&amp;[$effects.$A$36]" office:value-type="string" office:string-value="CATOBAR: Compatible with aircraft up to compatibility 3.&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 3: Can station 3 aircraft squadrons.&#x0a;S-500: +2 Help Defense" calcext:value-type="string"><text:p>CATOBAR: Compatible with aircraft up to compatibility 3.</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 3: Can station 3 aircraft squadrons.</text:p><text:p>S-500: +2 Help Defense</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Images/shtorm.jpg</text:p>
@@ -8141,7 +8142,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B2])" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B2])" office:value-type="string" office:string-value="CATOBAR: Compatible with CATOBAR, VTOL, and  STOBAR squadrons.&#x0a;E-2D Hawkeye-I: +1 Help Defense&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 3: Can station 3 aircraft squadrons." calcext:value-type="string"><text:p>CATOBAR: Compatible with CATOBAR, VTOL, and  STOBAR squadrons.</text:p><text:p>E-2D Hawkeye-I: +1 Help Defense</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 3: Can station 3 aircraft squadrons.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B2])" office:value-type="string" office:string-value="CATOBAR: Compatible with aircraft up to compatibility 3.&#x0a;E-2D Hawkeye-I: +1 Help Defense&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 3: Can station 3 aircraft squadrons." calcext:value-type="string"><text:p>CATOBAR: Compatible with aircraft up to compatibility 3.</text:p><text:p>E-2D Hawkeye-I: +1 Help Defense</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 3: Can station 3 aircraft squadrons.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B2])" office:value-type="string" office:string-value="Images/ford.jpg" calcext:value-type="string">
       <text:p>Images/ford.jpg</text:p>
@@ -8194,7 +8195,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B3])" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B3])" office:value-type="string" office:string-value="CATOBAR: Compatible with CATOBAR, VTOL, and  STOBAR squadrons.&#x0a;E-2D Hawkeye-I: +1 Help Defense&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 3: Can station 3 aircraft squadrons." calcext:value-type="string"><text:p>CATOBAR: Compatible with CATOBAR, VTOL, and  STOBAR squadrons.</text:p><text:p>E-2D Hawkeye-I: +1 Help Defense</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 3: Can station 3 aircraft squadrons.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B3])" office:value-type="string" office:string-value="CATOBAR: Compatible with aircraft up to compatibility 3.&#x0a;E-2D Hawkeye-I: +1 Help Defense&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 3: Can station 3 aircraft squadrons." calcext:value-type="string"><text:p>CATOBAR: Compatible with aircraft up to compatibility 3.</text:p><text:p>E-2D Hawkeye-I: +1 Help Defense</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 3: Can station 3 aircraft squadrons.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B3])" office:value-type="string" office:string-value="Images/ford.jpg" calcext:value-type="string">
       <text:p>Images/ford.jpg</text:p>
@@ -8247,7 +8248,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B4])" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B4])" office:value-type="string" office:string-value="CATOBAR: Compatible with CATOBAR, VTOL, and  STOBAR squadrons.&#x0a;E-2D Hawkeye-I: +1 Help Defense&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 3: Can station 3 aircraft squadrons." calcext:value-type="string"><text:p>CATOBAR: Compatible with CATOBAR, VTOL, and  STOBAR squadrons.</text:p><text:p>E-2D Hawkeye-I: +1 Help Defense</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 3: Can station 3 aircraft squadrons.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B4])" office:value-type="string" office:string-value="CATOBAR: Compatible with aircraft up to compatibility 3.&#x0a;E-2D Hawkeye-I: +1 Help Defense&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 3: Can station 3 aircraft squadrons." calcext:value-type="string"><text:p>CATOBAR: Compatible with aircraft up to compatibility 3.</text:p><text:p>E-2D Hawkeye-I: +1 Help Defense</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 3: Can station 3 aircraft squadrons.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B4])" office:value-type="string" office:string-value="Images/ford.jpg" calcext:value-type="string">
       <text:p>Images/ford.jpg</text:p>
@@ -8408,7 +8409,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B7])" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B7])" office:value-type="string" office:string-value="VTOL: Compatible with all VTOL aircraft squadrons.&#x0a;Carrier 1: Can station 1 aircraft squadron.&#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>VTOL: Compatible with all VTOL aircraft squadrons.</text:p><text:p>Carrier 1: Can station 1 aircraft squadron.</text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B7])" office:value-type="string" office:string-value="VTOL: Compatible with aircraft up to compatibility 1.&#x0a;Carrier 1: Can station 1 aircraft squadron.&#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>VTOL: Compatible with aircraft up to compatibility 1.</text:p><text:p>Carrier 1: Can station 1 aircraft squadron.</text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B7])" office:value-type="string" office:string-value="Images/wasp.jpg" calcext:value-type="string">
       <text:p>Images/wasp.jpg</text:p>
@@ -8461,7 +8462,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B8])" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B8])" office:value-type="string" office:string-value="VTOL: Compatible with all VTOL aircraft squadrons.&#x0a;Carrier 1: Can station 1 aircraft squadron.&#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>VTOL: Compatible with all VTOL aircraft squadrons.</text:p><text:p>Carrier 1: Can station 1 aircraft squadron.</text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B8])" office:value-type="string" office:string-value="VTOL: Compatible with aircraft up to compatibility 1.&#x0a;Carrier 1: Can station 1 aircraft squadron.&#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>VTOL: Compatible with aircraft up to compatibility 1.</text:p><text:p>Carrier 1: Can station 1 aircraft squadron.</text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B8])" office:value-type="string" office:string-value="Images/wasp.jpg" calcext:value-type="string">
       <text:p>Images/wasp.jpg</text:p>
@@ -8514,7 +8515,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B9])" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B9])" office:value-type="string" office:string-value="VTOL: Compatible with all VTOL aircraft squadrons.&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 2: Can station 2 aircraft squadrons." calcext:value-type="string"><text:p>VTOL: Compatible with all VTOL aircraft squadrons.</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 2: Can station 2 aircraft squadrons.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B9])" office:value-type="string" office:string-value="VTOL: Compatible with aircraft up to compatibility 1.&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 2: Can station 2 aircraft squadrons." calcext:value-type="string"><text:p>VTOL: Compatible with aircraft up to compatibility 1.</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 2: Can station 2 aircraft squadrons.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B9])" office:value-type="string" office:string-value="Images/america.jpg" calcext:value-type="string">
       <text:p>Images/america.jpg</text:p>
@@ -8567,7 +8568,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B10])" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B10])" office:value-type="string" office:string-value="VTOL: Compatible with all VTOL aircraft squadrons.&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 2: Can station 2 aircraft squadrons." calcext:value-type="string"><text:p>VTOL: Compatible with all VTOL aircraft squadrons.</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 2: Can station 2 aircraft squadrons.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B10])" office:value-type="string" office:string-value="VTOL: Compatible with aircraft up to compatibility 1.&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 2: Can station 2 aircraft squadrons." calcext:value-type="string"><text:p>VTOL: Compatible with aircraft up to compatibility 1.</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 2: Can station 2 aircraft squadrons.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B10])" office:value-type="string" office:string-value="Images/america.jpg" calcext:value-type="string">
       <text:p>Images/america.jpg</text:p>
@@ -9475,7 +9476,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B27])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B27])" office:value-type="string" office:string-value="CATOBAR&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>CATOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B27])" office:value-type="string" office:string-value="CATOBAR: Compatibility 3&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>CATOBAR: Compatibility 3</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B27])" office:value-type="string" office:string-value="Images/f18.jpg" calcext:value-type="string">
       <text:p>Images/f18.jpg</text:p>
@@ -9528,7 +9529,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B28])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B28])" office:value-type="string" office:string-value="CATOBAR&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>CATOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B28])" office:value-type="string" office:string-value="CATOBAR: Compatibility 3&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>CATOBAR: Compatibility 3</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B28])" office:value-type="string" office:string-value="Images/f18.jpg" calcext:value-type="string">
       <text:p>Images/f18.jpg</text:p>
@@ -9581,7 +9582,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B29])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B29])" office:value-type="string" office:string-value="CATOBAR&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>CATOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B29])" office:value-type="string" office:string-value="CATOBAR: Compatibility 3&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>CATOBAR: Compatibility 3</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B29])" office:value-type="string" office:string-value="Images/f18.jpg" calcext:value-type="string">
       <text:p>Images/f18.jpg</text:p>
@@ -9634,7 +9635,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B30])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B30])" office:value-type="string" office:string-value="CATOBAR&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>CATOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B30])" office:value-type="string" office:string-value="CATOBAR: Compatibility 3&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>CATOBAR: Compatibility 3</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B30])" office:value-type="string" office:string-value="Images/f18.jpg" calcext:value-type="string">
       <text:p>Images/f18.jpg</text:p>
@@ -9687,7 +9688,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B31])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B31])" office:value-type="string" office:string-value="VTOL&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>VTOL</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B31])" office:value-type="string" office:string-value="VTOL: Compatibility 1&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>VTOL: Compatibility 1</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B31])" office:value-type="string" office:string-value="Images/f35b.jpg" calcext:value-type="string">
       <text:p>Images/f35b.jpg</text:p>
@@ -9740,7 +9741,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B32])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B32])" office:value-type="string" office:string-value="VTOL&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>VTOL</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B32])" office:value-type="string" office:string-value="VTOL: Compatibility 1&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>VTOL: Compatibility 1</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B32])" office:value-type="string" office:string-value="Images/f35b.jpg" calcext:value-type="string">
       <text:p>Images/f35b.jpg</text:p>
@@ -9793,7 +9794,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B33])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B33])" office:value-type="string" office:string-value="VTOL&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>VTOL</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B33])" office:value-type="string" office:string-value="VTOL: Compatibility 1&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>VTOL: Compatibility 1</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B33])" office:value-type="string" office:string-value="Images/f35b.jpg" calcext:value-type="string">
       <text:p>Images/f35b.jpg</text:p>
@@ -9846,7 +9847,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B34])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B34])" office:value-type="string" office:string-value="CATOBAR&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>CATOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B34])" office:value-type="string" office:string-value="CATOBAR: Compatibility 3&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>CATOBAR: Compatibility 3</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B34])" office:value-type="string" office:string-value="Images/f35c.jpg" calcext:value-type="string">
       <text:p>Images/f35c.jpg</text:p>
@@ -9899,7 +9900,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B35])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B35])" office:value-type="string" office:string-value="CATOBAR&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>CATOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B35])" office:value-type="string" office:string-value="CATOBAR: Compatibility 3&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>CATOBAR: Compatibility 3</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B35])" office:value-type="string" office:string-value="Images/f35c.jpg" calcext:value-type="string">
       <text:p>Images/f35c.jpg</text:p>
@@ -9952,7 +9953,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B36])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B36])" office:value-type="string" office:string-value="CATOBAR&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>CATOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B36])" office:value-type="string" office:string-value="CATOBAR: Compatibility 3&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>CATOBAR: Compatibility 3</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B36])" office:value-type="string" office:string-value="Images/f35c.jpg" calcext:value-type="string">
       <text:p>Images/f35c.jpg</text:p>
@@ -10005,7 +10006,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B37])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B37])" office:value-type="string" office:string-value="VTOL&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>VTOL</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B37])" office:value-type="string" office:string-value="VTOL: Compatibility 1&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>VTOL: Compatibility 1</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B37])" office:value-type="string" office:string-value="Images/f35b.jpg" calcext:value-type="string">
       <text:p>Images/f35b.jpg</text:p>
@@ -10058,7 +10059,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B38])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B38])" office:value-type="string" office:string-value="VTOL&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>VTOL</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B38])" office:value-type="string" office:string-value="VTOL: Compatibility 1&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>VTOL: Compatibility 1</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B38])" office:value-type="string" office:string-value="Images/f35b.jpg" calcext:value-type="string">
       <text:p>Images/f35b.jpg</text:p>
@@ -10111,7 +10112,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B39])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B39])" office:value-type="string" office:string-value="VTOL&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>VTOL</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B39])" office:value-type="string" office:string-value="VTOL: Compatibility 1&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>VTOL: Compatibility 1</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B39])" office:value-type="string" office:string-value="Images/f35b.jpg" calcext:value-type="string">
       <text:p>Images/f35b.jpg</text:p>
@@ -10164,7 +10165,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B40])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B40])" office:value-type="string" office:string-value="VTOL&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>VTOL</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B40])" office:value-type="string" office:string-value="VTOL: Compatibility 1&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>VTOL: Compatibility 1</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B40])" office:value-type="string" office:string-value="Images/f35b.jpg" calcext:value-type="string">
       <text:p>Images/f35b.jpg</text:p>
@@ -10217,7 +10218,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B41])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B41])" office:value-type="string" office:string-value="VTOL&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>VTOL</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B41])" office:value-type="string" office:string-value="VTOL: Compatibility 1&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>VTOL: Compatibility 1</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B41])" office:value-type="string" office:string-value="Images/f35b.jpg" calcext:value-type="string">
       <text:p>Images/f35b.jpg</text:p>
@@ -10270,7 +10271,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B42])" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B42])" office:value-type="string" office:string-value="STOBAR: Compatible with STOBAR and VTOL squadrons.&#x0a;Carrier 1: Can station 1 aircraft squadron.&#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>STOBAR: Compatible with STOBAR and VTOL squadrons.</text:p><text:p>Carrier 1: Can station 1 aircraft squadron.</text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B42])" office:value-type="string" office:string-value="STOBAR: Compatible with aircraft up to compatibility 2.&#x0a;Carrier 1: Can station 1 aircraft squadron.&#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>STOBAR: Compatible with aircraft up to compatibility 2.</text:p><text:p>Carrier 1: Can station 1 aircraft squadron.</text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B42])" office:value-type="string" office:string-value="Images/kuznetsov.jpg" calcext:value-type="string">
       <text:p>Images/kuznetsov.jpg</text:p>
@@ -10485,7 +10486,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B46])" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B46])" office:value-type="string" office:string-value="CATOBAR: Compatible with CATOBAR, VTOL, and  STOBAR squadrons.&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 3: Can station 3 aircraft squadrons.&#x0a;S-500: +2 Help Defense" calcext:value-type="string"><text:p>CATOBAR: Compatible with CATOBAR, VTOL, and  STOBAR squadrons.</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 3: Can station 3 aircraft squadrons.</text:p><text:p>S-500: +2 Help Defense</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B46])" office:value-type="string" office:string-value="CATOBAR: Compatible with aircraft up to compatibility 3.&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 3: Can station 3 aircraft squadrons.&#x0a;S-500: +2 Help Defense" calcext:value-type="string"><text:p>CATOBAR: Compatible with aircraft up to compatibility 3.</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 3: Can station 3 aircraft squadrons.</text:p><text:p>S-500: +2 Help Defense</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B46])" office:value-type="string" office:string-value="Images/shtorm.jpg" calcext:value-type="string">
       <text:p>Images/shtorm.jpg</text:p>
@@ -11599,7 +11600,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B67])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B67])" office:value-type="string" office:string-value="CATOBAR&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>CATOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B67])" office:value-type="string" office:string-value="CATOBAR: Compatibility 3&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>CATOBAR: Compatibility 3</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B67])" office:value-type="string" office:string-value="Images/su57.jpg" calcext:value-type="string">
       <text:p>Images/su57.jpg</text:p>
@@ -11651,7 +11652,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B68])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B68])" office:value-type="string" office:string-value="STOBAR&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>STOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B68])" office:value-type="string" office:string-value="STOBAR: Compatibility 2&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>STOBAR: Compatibility 2</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B68])" office:value-type="string" office:string-value="Images/mig29k.jpg" calcext:value-type="string">
       <text:p>Images/mig29k.jpg</text:p>
@@ -11862,7 +11863,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B72])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B72])" office:value-type="string" office:string-value="CATOBAR&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>CATOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B72])" office:value-type="string" office:string-value="CATOBAR: Compatibility 3&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>CATOBAR: Compatibility 3</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B72])" office:value-type="string" office:string-value="Images/su57.jpg" calcext:value-type="string">
       <text:p>Images/su57.jpg</text:p>
@@ -11914,7 +11915,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B73])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B73])" office:value-type="string" office:string-value="CATOBAR&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>CATOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B73])" office:value-type="string" office:string-value="CATOBAR: Compatibility 3&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>CATOBAR: Compatibility 3</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B73])" office:value-type="string" office:string-value="Images/su57.jpg" calcext:value-type="string">
       <text:p>Images/su57.jpg</text:p>
@@ -11966,7 +11967,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B74])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B74])" office:value-type="string" office:string-value="CATOBAR&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>CATOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B74])" office:value-type="string" office:string-value="CATOBAR: Compatibility 3&#x0a;Hidden: Can be played face down. &#x0a;Surprise Attacker: This asset deals damage during the Surprise Damage Step." calcext:value-type="string"><text:p>CATOBAR: Compatibility 3</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Surprise Attacker: This asset deals damage during the Surprise Damage Step.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B74])" office:value-type="string" office:string-value="Images/su57.jpg" calcext:value-type="string">
       <text:p>Images/su57.jpg</text:p>
@@ -12125,7 +12126,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B77])" office:value-type="string" office:string-value="Ship" calcext:value-type="string">
       <text:p>Ship</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B77])" office:value-type="string" office:string-value="CATOBAR: Compatible with CATOBAR, VTOL, and  STOBAR squadrons.&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 3: Can station 3 aircraft squadrons.&#x0a;S-500: +2 Help Defense" calcext:value-type="string"><text:p>CATOBAR: Compatible with CATOBAR, VTOL, and  STOBAR squadrons.</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 3: Can station 3 aircraft squadrons.</text:p><text:p>S-500: +2 Help Defense</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B77])" office:value-type="string" office:string-value="CATOBAR: Compatible with aircraft up to compatibility 3.&#x0a;Barrier CAP: +1 Help Defense per friendly aircraft in combat.&#x0a;Carrier 3: Can station 3 aircraft squadrons.&#x0a;S-500: +2 Help Defense" calcext:value-type="string"><text:p>CATOBAR: Compatible with aircraft up to compatibility 3.</text:p><text:p>Barrier CAP: +1 Help Defense per friendly aircraft in combat.</text:p><text:p>Carrier 3: Can station 3 aircraft squadrons.</text:p><text:p>S-500: +2 Help Defense</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B77])" office:value-type="string" office:string-value="Images/shtorm.jpg" calcext:value-type="string">
       <text:p>Images/shtorm.jpg</text:p>
@@ -12337,7 +12338,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B81])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B81])" office:value-type="string" office:string-value="STOBAR&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>STOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B81])" office:value-type="string" office:string-value="STOBAR: Compatibility 2&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>STOBAR: Compatibility 2</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B81])" office:value-type="string" office:string-value="Images/mig29k.jpg" calcext:value-type="string">
       <text:p>Images/mig29k.jpg</text:p>
@@ -12390,7 +12391,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B82])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B82])" office:value-type="string" office:string-value="STOBAR&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>STOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B82])" office:value-type="string" office:string-value="STOBAR: Compatibility 2&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>STOBAR: Compatibility 2</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B82])" office:value-type="string" office:string-value="Images/mig29k.jpg" calcext:value-type="string">
       <text:p>Images/mig29k.jpg</text:p>
@@ -12443,7 +12444,7 @@ Option VBASupport 1
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.J$1:$military_assets.J$1048576];[$mil_ass_all.$B83])" office:value-type="string" office:string-value="Squadron" calcext:value-type="string">
       <text:p>Squadron</text:p>
      </table:table-cell>
-     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B83])" office:value-type="string" office:string-value="STOBAR&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>STOBAR</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.K$1:$military_assets.K$1048576];[$mil_ass_all.$B83])" office:value-type="string" office:string-value="STOBAR: Compatibility 2&#x0a;Hidden: Can be played face down. &#x0a;Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card." calcext:value-type="string"><text:p>STOBAR: Compatibility 2</text:p><text:p>Hidden: Can be played face down. </text:p><text:p>Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.</text:p>
      </table:table-cell>
      <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="1" table:formula="of:=INDEX([$military_assets.L$1:$military_assets.L$1048576];[$mil_ass_all.$B83])" office:value-type="string" office:string-value="Images/mig29k.jpg" calcext:value-type="string">
       <text:p>Images/mig29k.jpg</text:p>
