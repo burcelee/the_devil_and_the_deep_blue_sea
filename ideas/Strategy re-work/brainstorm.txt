@@ -45,4 +45,3 @@ RUS
 		counter espionage
 	disruption
 		Strategic destabilization
-
