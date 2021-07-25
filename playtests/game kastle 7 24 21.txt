@@ -1,0 +1,27 @@
+- Carriers are hard to identify. New type? or icon or something
+- When do abilities on cards get played? Same as actions or different?
+- Do squadrons die when their carrier or territory dies/captured? Put in rules
+- For cutting cards: Rotatrim Mastercut 2
+- Term for not hidden. Face up?
+- Is allow a full reshuffle during deployment between hand and play too much work?
+- MAKE A REFERENCE CARD FOR RULES AND ESPECIALLY PHASES OF A TURN
+- layout cards so that stats show when stacking planes
+- Make font of important stats larger. Make UX better for associating it with territories
+- Cards with 2 help defense rules should have a single rule like "2 + 1 for each plane" or should just have 2 adjacent rules
+- Rapid Mobilization / search your deck card is a bad card for a starter deck where the player doesn't know what they have...
+- Make a starter deck and mauybe a list of strategies for modifying that deck
+- Starter deck could be fewer than 40 cards to make things easier and gameplay shorter
+- Use tokens to indicate damage to help math during combat?
+- If you lose your territories or some other snowballed status should you just lose?
+- Be more clear about when you have to flip face up
+- Currently no reason to attack unlesss you have superiority, so maybe we need imperfect info like hidden cards don't flip up.
+- Siege is not punishing enough - no incentive to want cards with siege.
+- How many turns is this game expected to be?
+- Siege could just be a blanket 1 per card with additional siege being a special ability - removes siege as a stat.
+- Deck construction game. Not deck building game.
+- Make different types of cards look more different. Easier to distinguish between say squadrons and ships
+- Territories provide different advantages or logistics for different card types...
+- Should players choose a starting hand?
+- Do we really need attack and defense as seperate stats? Could simplify combat...
+- Put different stats in different places on the card - combat stats shouldn't be mixed in with logistics
+- 
