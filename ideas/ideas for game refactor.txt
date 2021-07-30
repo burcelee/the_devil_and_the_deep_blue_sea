@@ -1,0 +1,143 @@
+
+Some random ideas:
+1. Ships must be grouped into battle groups. Battlegroups must fight together during combat.
+2. Ships could be stationed either on territories or in "open ocean" from where they can attack but
+where they are vulnerable to direct attack.
+3. Hidden units wouldn't be attackable
+4. Hidden units don't immediately reveal when declaring an attack.
+
+
+Current Problems with 0.3.0:
+
+Major Problems:
+1. Snowball
+2. hard math calculation for combat
+3. hard math calculation for whether to attack
+4. turtling
+
+Lesser Problems:
+1. Logistics counting annoying
+2. Actions are played at weird times to be effective
+3. Gameplay seems inconsequential? Not enough siege damage early?
+4. Full reshuffle for hidden units is time-consuming an mechanically
+	weird.
+5. Card knowledge very important. Is this a problem?
+6. UX of cards is not good
+
+Possible solutions:
+1. Snowball:
+	- Make it easier to attack players with lots of territories
+		without losing ships. This allows territories to be recaptured.
+	- Take penalty for territories owned or ships in play? Less draw
+		power?
+	- Continue to allow player to "tank" siege with deck.
+2. Hard math calc for combat:
+	- Simplify help defense
+	- Simplify attack and defense
+	- Simplify surprise attacker
+3. Hard math calculation for whether to attack
+	- add randomness so it can't be calculated perfectly
+	- add more imperfect knowledge like hidden attackers
+	- Do anything in 2.
+4. Turtling
+	- Need to punish doing nothing
+	- Need to reward doing something
+	- Need to make it more clear which player is behind and
+		needs to make up progress.
+	- Fewer units where neither kills the other. Fewer defensive
+	units. Fewer units where both kill eachother.
+
+Open Ocean Idea:
+	Ships can either be at territories or in the open ocean. Open ocean ships can intercept attacks or attack, but can also be 
+	attacked.
+
+	When an open ocean ship is attacked, any escorting ships are
+	also attacked. For this reason, open ocean ships should usually
+	be escorted for protection. 
+
+	Certain ships like submarines or hidden units maybe can't be
+	attacked in the open ocean. This makes them useful for interception. 
+
+	Maybe open ocean ships logistics work differently? This means
+	only a certain number of individual battlegroups can exist
+	in the open ocean at a time? Perhaps only capital ships can enter
+	the open ocean? Or capital ships and raiders? So escorts must be
+	attached to a capital ship.
+
+Hidden Change:
+	What if hidden became that the unit can be played any time you play
+	an action card. This means you can keep hidden cards in hand and use them at need. Alternatively, this could be the rule for surprise attacker??
+
+Attack and defense changes:
+	What if units have a single power level that was modified by
+	things. For instance, planes are power level 1 but grow to 3 if
+	there are no opposing planes.
+
+	What if units have a "type" of power level. Air, subsurface and
+	surface. The balance of each type determines something. Like 
+	damage = the different in that type for each type.
+
+	Each unit could have multiple types. For instance, a plane might
+	have 2 surface, 2 air and 0 subsurface.
+
+	Each unit would have a defense of one type. Ships surface, planes
+	air and submarines subsurface. The total damage of a type would
+	kill units of that type on the other side.
+
+Alternative Combat:
+	What if units attack "wide" (like MtG) but certain units can
+	only assign to block other specific units. For instance, planes
+	cannot block submarines, nothing can block carrier if it has escorts or planes... etc.
+
+Mix of last two:
+	Units have different stats depending on how they are assigned
+	as blockers. For instance, an AA escort might have a good AA
+	type stat but a poor subsurface stat. This determines how
+	players want to assign blockers.
+
+	Maybe escorts need to be assigned blockers before a carrier can
+	be. This is how they protect carriers from say submarines - which
+	carriers would have a low subsurface attack against.
+
+Asymmetry? 
+	What if the US player is trying to gain territory and the RU
+	player is trying to prevent them from doing so before they run
+	out of cards?
+
+Combat rework (fixes snowball, hard math):
+	1. one attack per turn. not declared against a specific territory.
+	2. each ship attacks seperately
+	3. each ship can be blocked by one or more ships (maybe. Maybe 
+		unlocked by special rule on card)
+	4. capital ships cannot be blocked until all escorts have been
+		blocked. Squadrons, DDs, CGs and subs are escorts.
+	5. Help defense could still exist as an ability to aid in other combats. Perhaps if unblocked... This would make it very good on
+	capital ships like Kirov.
+	6. Surprise attack probably goes the way of the dodo. Maybe, maybe
+	not...
+
+Escort: Friendly capital ships that are attacking cannot be blocked
+unless this ship is blocked.
+
+Submarines: Cannot block or be blocked by squadrons. Is there a more
+clever way to do this?
+
+Deck size reduction
+	To make siege damage more impactful.
+
+Remove siege:
+	Every ship just does 2 siege damage.
+
+Still need to solve the turtling strategy:
+	- upkeep cost for big stuff
+	- upkeep cost for all stuff
+	- more territories makes defense harder
+	- more ships is somehow bad
+	- doing damage is better
+	- losing stuff is not as bad
+	- what if attacking somehow ties up resources of your opponent,
+		incentivizing you to do it every turn. Like it "taps" one 
+		of their territories or makes them discard a card from their
+		hand. Attacking a territory could "damage it" meaning it now
+		produces half the original logistics. 
+
