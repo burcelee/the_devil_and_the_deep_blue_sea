@@ -24,4 +24,3 @@
 - Should players choose a starting hand?
 - Do we really need attack and defense as seperate stats? Could simplify combat...
 - Put different stats in different places on the card - combat stats shouldn't be mixed in with logistics
-- 
