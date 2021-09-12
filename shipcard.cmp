@@ -19,9 +19,10 @@
     <Element variable="@[image]" type="Graphic" x="10" y="165" width="680" height="440" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="image" font="Arial;12;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
     <Element variable="@[flavortext]" type="Text" x="10" y="930" width="680" height="110" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="FlavorText" font="Arial;18;0;0;1;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
     <Element variable="@[name]" type="Text" x="10" y="10" width="680" height="35" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Name" font="Arial;20;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
-    <Reference RelativePath="data\export\territories_all.csv" Default="true" />
+    <Reference RelativePath="data\export\territories_all.csv" Default="false" />
     <Reference RelativePath="data\export\territories_ru_start.csv" Default="false" />
     <Reference RelativePath="data\export\territories_us_start.csv" Default="false" />
+    <Reference RelativePath="data\export\empty_list.csv" Default="true" />
     <exportNameFormat />
     <exportRotation>0</exportRotation>
     <exportTransparentBackground>false</exportTransparentBackground>
@@ -46,6 +47,7 @@
     <Reference RelativePath="data\export\mil_ass_all.csv" Default="true" />
     <Reference RelativePath="data\export\mil_ass_ru_start.csv" Default="false" />
     <Reference RelativePath="data\export\mil_ass_us_start.csv" Default="false" />
+    <Reference RelativePath="data\export\empty_list.csv" Default="false" />
     <exportNameFormat />
     <exportRotation>0</exportRotation>
     <exportTransparentBackground>false</exportTransparentBackground>
@@ -66,6 +68,7 @@
     <Reference RelativePath="data\export\actions_all.csv" Default="true" />
     <Reference RelativePath="data\export\actions_ru_start.csv" Default="false" />
     <Reference RelativePath="data\export\actions_us_start.csv" Default="false" />
+    <Reference RelativePath="data\export\empty_list.csv" Default="false" />
     <exportNameFormat />
     <exportRotation>0</exportRotation>
     <exportTransparentBackground>false</exportTransparentBackground>
@@ -79,6 +82,7 @@
     <Element variable="Ver. @[version]" type="Text" x="10" y="10" width="680" height="30" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="2" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Version" font="Arial;18;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
     <Element variable="@[text]" type="Text" x="10" y="140" width="680" height="900" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Description" font="Arial;27;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
     <Reference RelativePath="data\export\reference.csv" Default="true" />
+    <Reference RelativePath="data\export\empty_list.csv" Default="false" />
     <exportNameFormat />
     <exportRotation>0</exportRotation>
     <exportTransparentBackground>false</exportTransparentBackground>
