@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:initial-creator>Rick Rodgers</meta:initial-creator><meta:creation-date>2020-08-31T22:13:11</meta:creation-date><dc:date>2021-10-03T17:49:00.597000000</dc:date><meta:generator>LibreOffice/7.1.3.2$Windows_X86_64 LibreOffice_project/47f78053abe362b9384784d31a6e56f8511eb1c1</meta:generator><meta:editing-duration>P4DT7H12M42S</meta:editing-duration><meta:editing-cycles>96</meta:editing-cycles><meta:document-statistic meta:table-count="17" meta:cell-count="5561" meta:object-count="1"/><meta:user-defined meta:name="AppVersion">16.0300</meta:user-defined></office:meta>
+ <office:meta><meta:initial-creator>Rick Rodgers</meta:initial-creator><meta:creation-date>2020-08-31T22:13:11</meta:creation-date><dc:date>2021-10-03T19:11:37.781000000</dc:date><meta:generator>LibreOffice/7.1.3.2$Windows_X86_64 LibreOffice_project/47f78053abe362b9384784d31a6e56f8511eb1c1</meta:generator><meta:editing-duration>P4DT7H21M49S</meta:editing-duration><meta:editing-cycles>98</meta:editing-cycles><meta:document-statistic meta:table-count="17" meta:cell-count="5561" meta:object-count="1"/><meta:user-defined meta:name="AppVersion">16.0300</meta:user-defined></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">48596</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">24227</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">58268</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">55499</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -139,8 +139,8 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="mil_ass_all">
-       <config:config-item config:name="CursorPositionX" config:type="int">9</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">16</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">26</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -193,8 +193,8 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="military_assets">
-       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">13</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">20</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -203,7 +203,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">16</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">13</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -508,6 +508,7 @@ End Sub
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
     </ooo:library-embedded>
@@ -516,6 +517,7 @@ End Sub
       <ooo:source-code>em Attribute VBA_ModuleType=VBAModule
 Option VBASupport 1
 
+      
       
       
       
@@ -579,6 +581,7 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="Sheet10">
@@ -586,6 +589,7 @@ Option VBASupport 1
 Option VBASupport 1
 
 
+      
       
       
       
@@ -649,6 +653,7 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="Sheet12">
@@ -656,6 +661,7 @@ Option VBASupport 1
 Option VBASupport 1
 
 
+      
       
       
       
@@ -719,6 +725,7 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="Sheet14">
@@ -726,6 +733,7 @@ Option VBASupport 1
 Option VBASupport 1
 
 
+      
       
       
       
@@ -789,6 +797,7 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="Sheet2">
@@ -796,6 +805,7 @@ Option VBASupport 1
 Option VBASupport 1
 
 
+      
       
       
       
@@ -859,6 +869,7 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="Sheet4">
@@ -866,6 +877,7 @@ Option VBASupport 1
 Option VBASupport 1
 
 
+      
       
       
       
@@ -929,6 +941,7 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="Sheet6">
@@ -936,6 +949,7 @@ Option VBASupport 1
 Option VBASupport 1
 
 
+      
       
       
       
@@ -999,6 +1013,7 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="Sheet8">
@@ -1006,6 +1021,7 @@ Option VBASupport 1
 Option VBASupport 1
 
 
+      
       
       
       
@@ -1069,6 +1085,7 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="ThisWorkbook">
@@ -1076,6 +1093,7 @@ Option VBASupport 1
 Option VBASupport 1
 
 
+      
       
       
       
@@ -1138,6 +1156,7 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="Sheet5 (actions)">
@@ -1172,12 +1191,14 @@ Option VBASupport 1
       
       
       
+      
       </ooo:source-code>
      </ooo:module>
      <ooo:module ooo:name="Sheet14 (territories_us_start)">
       <ooo:source-code>REM  *****  BASIC  *****
 
 
+      
       
       
       
@@ -1560,71 +1581,17 @@ Option VBASupport 1
   </style:style>
  </office:styles>
  <office:automatic-styles>
-  <style:style style:name="co1" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.3811in"/>
-  </style:style>
   <style:style style:name="co2" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.6693in"/>
-  </style:style>
-  <style:style style:name="co3" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.7717in"/>
-  </style:style>
-  <style:style style:name="co4" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.6201in"/>
-  </style:style>
-  <style:style style:name="co5" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.5543in"/>
-  </style:style>
-  <style:style style:name="co6" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.9256in"/>
-  </style:style>
-  <style:style style:name="co7" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.1902in"/>
-  </style:style>
-  <style:style style:name="co8" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.4772in"/>
-  </style:style>
-  <style:style style:name="co9" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.1791in"/>
-  </style:style>
-  <style:style style:name="co10" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.2783in"/>
   </style:style>
   <style:style style:name="co11" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="15.5984in"/>
   </style:style>
-  <style:style style:name="co12" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.5575in"/>
-  </style:style>
-  <style:style style:name="co13" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.672in"/>
+  <style:style style:name="co22" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="3.45in"/>
   </style:style>
   <style:style style:name="co14" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.9701in"/>
-  </style:style>
-  <style:style style:name="co15" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.8811in"/>
-  </style:style>
-  <style:style style:name="co16" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.661in"/>
-  </style:style>
-  <style:style style:name="co17" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.7165in"/>
-  </style:style>
-  <style:style style:name="co18" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.8709in"/>
-  </style:style>
-  <style:style style:name="co19" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="7.7839in"/>
-  </style:style>
-  <style:style style:name="co20" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.8661in"/>
-  </style:style>
-  <style:style style:name="co21" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="3.1862in"/>
-  </style:style>
-  <style:style style:name="co22" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="3.45in"/>
   </style:style>
   <style:style style:name="co23" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="6.9665in"/>
@@ -1656,15 +1623,6 @@ Option VBASupport 1
   <style:style style:name="co32" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="2.0283in"/>
   </style:style>
-  <style:style style:name="co33" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
-  </style:style>
-  <style:style style:name="co34" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.6075in"/>
-  </style:style>
-  <style:style style:name="co35" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.9161in"/>
-  </style:style>
   <style:style style:name="co36" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.8374in"/>
   </style:style>
@@ -1695,21 +1653,6 @@ Option VBASupport 1
   <style:style style:name="co45" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="1.3228in"/>
   </style:style>
-  <style:style style:name="co46" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.8598in"/>
-  </style:style>
-  <style:style style:name="co47" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.8102in"/>
-  </style:style>
-  <style:style style:name="co48" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="3.539in"/>
-  </style:style>
-  <style:style style:name="co49" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.7661in"/>
-  </style:style>
-  <style:style style:name="co50" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.598in"/>
-  </style:style>
   <style:style style:name="co51" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="3.3728in"/>
   </style:style>
@@ -1734,71 +1677,95 @@ Option VBASupport 1
   <style:style style:name="co58" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="1.8846in"/>
   </style:style>
+  <style:style style:name="co33" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
+  </style:style>
   <style:style style:name="co59" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="7.9555in"/>
+  </style:style>
+  <style:style style:name="co61" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.3811in"/>
+  </style:style>
+  <style:style style:name="co62" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.7717in"/>
+  </style:style>
+  <style:style style:name="co63" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.6201in"/>
+  </style:style>
+  <style:style style:name="co64" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.5543in"/>
+  </style:style>
+  <style:style style:name="co65" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.9256in"/>
+  </style:style>
+  <style:style style:name="co66" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.1902in"/>
+  </style:style>
+  <style:style style:name="co67" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.4772in"/>
+  </style:style>
+  <style:style style:name="co68" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.1791in"/>
+  </style:style>
+  <style:style style:name="co69" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.2783in"/>
+  </style:style>
+  <style:style style:name="co70" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.5575in"/>
+  </style:style>
+  <style:style style:name="co71" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.672in"/>
+  </style:style>
+  <style:style style:name="co72" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.8811in"/>
+  </style:style>
+  <style:style style:name="co73" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.661in"/>
+  </style:style>
+  <style:style style:name="co74" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.7165in"/>
+  </style:style>
+  <style:style style:name="co75" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.8709in"/>
+  </style:style>
+  <style:style style:name="co76" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="7.7839in"/>
+  </style:style>
+  <style:style style:name="co77" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.8661in"/>
+  </style:style>
+  <style:style style:name="co78" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="3.1862in"/>
+  </style:style>
+  <style:style style:name="co79" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.6075in"/>
+  </style:style>
+  <style:style style:name="co80" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.9161in"/>
+  </style:style>
+  <style:style style:name="co81" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.8598in"/>
+  </style:style>
+  <style:style style:name="co82" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.8102in"/>
+  </style:style>
+  <style:style style:name="co83" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="3.539in"/>
+  </style:style>
+  <style:style style:name="co84" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.7661in"/>
+  </style:style>
+  <style:style style:name="co85" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.598in"/>
   </style:style>
   <style:style style:name="ro1" style:family="table-row">
    <style:table-row-properties style:row-height="0.1917in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
-  <style:style style:name="ro2" style:family="table-row">
-   <style:table-row-properties style:row-height="0.798in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro3" style:family="table-row">
-   <style:table-row-properties style:row-height="1.2189in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro4" style:family="table-row">
-   <style:table-row-properties style:row-height="0.9898in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro5" style:family="table-row">
-   <style:table-row-properties style:row-height="0.9374in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro6" style:family="table-row">
-   <style:table-row-properties style:row-height="1.052in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro7" style:family="table-row">
-   <style:table-row-properties style:row-height="0.7398in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro8" style:family="table-row">
-   <style:table-row-properties style:row-height="1.3957in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro9" style:family="table-row">
-   <style:table-row-properties style:row-height="1.1563in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro10" style:family="table-row">
-   <style:table-row-properties style:row-height="0.8543in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro11" style:family="table-row">
-   <style:table-row-properties style:row-height="1.0835in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro12" style:family="table-row">
-   <style:table-row-properties style:row-height="1.0209in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro13" style:family="table-row">
-   <style:table-row-properties style:row-height="0.7917in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro14" style:family="table-row">
-   <style:table-row-properties style:row-height="0.8335in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro15" style:family="table-row">
-   <style:table-row-properties style:row-height="0.6425in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro16" style:family="table-row">
-   <style:table-row-properties style:row-height="1.1252in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  <style:style style:name="ro21" style:family="table-row">
+   <style:table-row-properties style:row-height="0.3311in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro17" style:family="table-row">
    <style:table-row-properties style:row-height="0.4866in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro18" style:family="table-row">
-   <style:table-row-properties style:row-height="0.5102in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro19" style:family="table-row">
-   <style:table-row-properties style:row-height="0.6563in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro20" style:family="table-row">
-   <style:table-row-properties style:row-height="0.7291in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro21" style:family="table-row">
-   <style:table-row-properties style:row-height="0.3311in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro22" style:family="table-row">
    <style:table-row-properties style:row-height="0.4689in" fo:break-before="auto" style:use-optimal-row-height="false"/>
@@ -1809,22 +1776,70 @@ Option VBASupport 1
   <style:style style:name="ro24" style:family="table-row">
    <style:table-row-properties style:row-height="0.552in" fo:break-before="auto" style:use-optimal-row-height="false"/>
   </style:style>
-  <style:style style:name="ro25" style:family="table-row">
-   <style:table-row-properties style:row-height="0.178in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  <style:style style:name="ro4" style:family="table-row">
+   <style:table-row-properties style:row-height="0.9898in" fo:break-before="auto" style:use-optimal-row-height="false"/>
   </style:style>
   <style:style style:name="ro26" style:family="table-row">
    <style:table-row-properties style:row-height="3.4307in" fo:break-before="auto" style:use-optimal-row-height="false"/>
   </style:style>
-  <style:style style:name="ta1" style:family="table" style:master-page-name="PageStyle_5f_balance">
-   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  <style:style style:name="ro9" style:family="table-row">
+   <style:table-row-properties style:row-height="0.798in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro10" style:family="table-row">
+   <style:table-row-properties style:row-height="1.2189in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro11" style:family="table-row">
+   <style:table-row-properties style:row-height="0.9374in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro12" style:family="table-row">
+   <style:table-row-properties style:row-height="1.052in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro13" style:family="table-row">
+   <style:table-row-properties style:row-height="0.7398in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro14" style:family="table-row">
+   <style:table-row-properties style:row-height="1.3957in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro15" style:family="table-row">
+   <style:table-row-properties style:row-height="1.1563in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro16" style:family="table-row">
+   <style:table-row-properties style:row-height="0.8543in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro18" style:family="table-row">
+   <style:table-row-properties style:row-height="1.0835in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro19" style:family="table-row">
+   <style:table-row-properties style:row-height="1.0209in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro20" style:family="table-row">
+   <style:table-row-properties style:row-height="0.7917in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro25" style:family="table-row">
+   <style:table-row-properties style:row-height="0.8335in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro27" style:family="table-row">
+   <style:table-row-properties style:row-height="0.6425in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro28" style:family="table-row">
+   <style:table-row-properties style:row-height="1.1252in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro29" style:family="table-row">
+   <style:table-row-properties style:row-height="0.5102in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro30" style:family="table-row">
+   <style:table-row-properties style:row-height="0.6563in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro31" style:family="table-row">
+   <style:table-row-properties style:row-height="0.7291in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro32" style:family="table-row">
+   <style:table-row-properties style:row-height="0.178in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ta2" style:family="table" style:master-page-name="PageStyle_5f_version">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="ta3" style:family="table" style:master-page-name="PageStyle_5f_effects">
-   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="ta4" style:family="table" style:master-page-name="PageStyle_5f_military_5f_assets">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="ta5" style:family="table" style:master-page-name="PageStyle_5f_actions">
@@ -1833,19 +1848,10 @@ Option VBASupport 1
   <style:style style:name="ta6" style:family="table" style:master-page-name="PageStyle_5f_territories">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="ta7" style:family="table" style:master-page-name="Default">
-   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
-  </style:style>
   <style:style style:name="ta8" style:family="table" style:master-page-name="PageStyle_5f_actions_5f_all">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="ta9" style:family="table" style:master-page-name="PageStyle_5f_territories_5f_all">
-   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="ta10" style:family="table" style:master-page-name="PageStyle_5f_mil_5f_ass_5f_us_5f_start">
-   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="ta11" style:family="table" style:master-page-name="PageStyle_5f_mil_5f_ass_5f_ru_5f_start">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="ta12" style:family="table" style:master-page-name="PageStyle_5f_actions_5f_us_5f_start">
@@ -1858,6 +1864,21 @@ Option VBASupport 1
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="ta15" style:family="table" style:master-page-name="PageStyle_5f_territories_5f_ru_5f_start">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="ta7" style:family="table" style:master-page-name="Default">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="ta17" style:family="table" style:master-page-name="PageStyle_5f_balance">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="ta18" style:family="table" style:master-page-name="PageStyle_5f_military_5f_assets">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="ta19" style:family="table" style:master-page-name="PageStyle_5f_mil_5f_ass_5f_us_5f_start">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="ta20" style:family="table" style:master-page-name="PageStyle_5f_mil_5f_ass_5f_ru_5f_start">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
   </style:style>
   <number:number-style style:name="N2">
@@ -1874,6 +1895,17 @@ Option VBASupport 1
    <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
    <style:map style:condition="value()&gt;=0" style:apply-style-name="N104P0"/>
   </number:currency-style>
+  <style:style style:name="ce56" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="value-type" style:repeat-content="false" fo:wrap-option="wrap" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="bottom" loext:vertical-justify="auto"/>
+   <style:paragraph-properties css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="ce64" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="value-type" style:repeat-content="false" fo:wrap-option="no-wrap" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="bottom" loext:vertical-justify="auto"/>
+   <style:paragraph-properties css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="ce71" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="wrap"/>
+  </style:style>
   <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default"/>
   <style:style style:name="ce17" style:family="table-cell" style:parent-style-name="Default"/>
   <style:style style:name="ce18" style:family="table-cell" style:parent-style-name="Default"/>
@@ -1899,7 +1931,7 @@ Option VBASupport 1
   <style:style style:name="ce12" style:family="table-cell" style:parent-style-name="Default"/>
   <style:style style:name="ce45" style:family="table-cell" style:parent-style-name="Default"/>
   <style:style style:name="ce46" style:family="table-cell" style:parent-style-name="Default"/>
-  <style:style style:name="ce56" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce55" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="value-type" style:repeat-content="false" fo:wrap-option="wrap" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="bottom" loext:vertical-justify="auto"/>
    <style:paragraph-properties css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
   </style:style>
@@ -1915,7 +1947,7 @@ Option VBASupport 1
    <style:table-cell-properties fo:wrap-option="wrap"/>
    <style:text-properties style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="Segoe UI" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
-  <style:style style:name="ce64" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce62" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="value-type" style:repeat-content="false" fo:wrap-option="no-wrap" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="bottom" loext:vertical-justify="auto"/>
    <style:paragraph-properties css3t:text-justify="auto" fo:margin-left="0in" style:writing-mode="page"/>
   </style:style>
@@ -1928,7 +1960,7 @@ Option VBASupport 1
   <style:style style:name="ce63" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:rotation-align="none"/>
   </style:style>
-  <style:style style:name="ce71" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce70" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:wrap-option="wrap"/>
   </style:style>
   <style:style style:name="gr1" style:family="graphic">
@@ -2005,7 +2037,7 @@ Option VBASupport 1
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2021-10-03">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="16:52:03.328000000">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2021-10-03">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="19:11:25.652000000">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -2110,7 +2142,7 @@ Option VBASupport 1
    <table:calculation-settings table:case-sensitive="false" table:automatic-find-labels="false" table:use-regular-expressions="false" table:use-wildcards="true">
     <table:iteration table:maximum-difference="0.0001"/>
    </table:calculation-settings>
-   <table:table table:name="balance" table:style-name="ta1">
+   <table:table table:name="balance" table:style-name="ta17">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:shapes>
      <draw:frame draw:z-index="0" draw:style-name="gr1" draw:text-style-name="P1" svg:width="21.852in" svg:height="14.4181in" svg:x="0.765in" svg:y="7.3354in">
@@ -3861,18 +3893,18 @@ Option VBASupport 1
        </office:binary-data>
       </draw:image>
      </draw:frame></table:shapes>
-    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co61" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="8" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co62" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="ce1"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="ce9"/>
-    <table:table-column table:style-name="co8" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co10" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co63" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co64" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co65" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co66" table:default-cell-style-name="ce1"/>
+    <table:table-column table:style-name="co66" table:default-cell-style-name="ce9"/>
+    <table:table-column table:style-name="co67" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co68" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co69" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="45" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:formula="of:=[$military_assets.A1]" office:value-type="string" office:string-value="Title" calcext:value-type="string">
@@ -5741,7 +5773,6 @@ Option VBASupport 1
     </calcext:conditional-formats>
    </table:table>
    <table:table table:name="version" table:style-name="ta2">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="64" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -5757,7 +5788,6 @@ Option VBASupport 1
     </table:table-row>
    </table:table>
    <table:table table:name="effects" table:style-name="ta3">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co11" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="63" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
@@ -5947,19 +5977,19 @@ Option VBASupport 1
      <table:table-cell table:number-columns-repeated="63"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce56" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
       <text:p>Partisans: Provides -4 logistics capacity if controlled by a non-Russian player.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="63"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce56" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
       <text:p>Grants 2 logistics capacity to the USN player if controlled by their opponent.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="63"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce56" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
       <text:p>UNUSED</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="63"/>
@@ -6157,20 +6187,20 @@ Option VBASupport 1
      <table:table-cell table:number-columns-repeated="64"/>
     </table:table-row>
    </table:table>
-   <table:table table:name="military_assets" table:style-name="ta4">
+   <table:table table:name="military_assets" table:style-name="ta18">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <table:table-column table:style-name="co12" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co70" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co13" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co71" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co14" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co15" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co16" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co17" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co18" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co19" table:default-cell-style-name="ce56"/>
-    <table:table-column table:style-name="co20" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co21" table:default-cell-style-name="ce56"/>
+    <table:table-column table:style-name="co72" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co73" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co74" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co66" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co75" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co76" table:default-cell-style-name="ce55"/>
+    <table:table-column table:style-name="co77" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co78" table:default-cell-style-name="ce55"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="51" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -6217,7 +6247,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro9">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Iowa BB</text:p>
      </table:table-cell>
@@ -6254,7 +6284,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro3">
+    <table:table-row table:style-name="ro10">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gerald R Ford CVN</text:p>
      </table:table-cell>
@@ -6287,7 +6317,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro3">
+    <table:table-row table:style-name="ro10">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Wasp LHA</text:p>
      </table:table-cell>
@@ -6320,7 +6350,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro3">
+    <table:table-row table:style-name="ro10">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>America LHA</text:p>
      </table:table-cell>
@@ -6389,7 +6419,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro5">
+    <table:table-row table:style-name="ro11">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Virginia SSN</text:p>
      </table:table-cell>
@@ -6422,7 +6452,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro6">
+    <table:table-row table:style-name="ro12">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ohio SSGN</text:p>
      </table:table-cell>
@@ -6458,7 +6488,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro13">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ticonderoga CG</text:p>
      </table:table-cell>
@@ -6494,7 +6524,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro13">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Arleigh Burke Flight IIIA DDG</text:p>
      </table:table-cell>
@@ -6530,7 +6560,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro8">
+    <table:table-row table:style-name="ro14">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Zumwalt DDG</text:p>
      </table:table-cell>
@@ -6563,7 +6593,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro3">
+    <table:table-row table:style-name="ro10">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>F/A-18E Superhornet</text:p>
      </table:table-cell>
@@ -6596,7 +6626,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro9">
+    <table:table-row table:style-name="ro15">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>F-35B/C Lightning II</text:p>
      </table:table-cell>
@@ -6629,7 +6659,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro10">
+    <table:table-row table:style-name="ro16">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Constellation FFG</text:p>
      </table:table-cell>
@@ -6662,7 +6692,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro11">
+    <table:table-row table:style-name="ro18">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>DEPRECATED: AV-8B Harrier II</text:p>
      </table:table-cell>
@@ -6695,7 +6725,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro19">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Kuznetsov CV</text:p>
      </table:table-cell>
@@ -6727,7 +6757,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro13">
+    <table:table-row table:style-name="ro20">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Kirov CGN</text:p>
      </table:table-cell>
@@ -6764,7 +6794,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro14">
+    <table:table-row table:style-name="ro25">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Slava CG</text:p>
      </table:table-cell>
@@ -6797,7 +6827,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro13">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Lider CG</text:p>
      </table:table-cell>
@@ -6833,7 +6863,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro13">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gorshkov FFG</text:p>
      </table:table-cell>
@@ -6866,7 +6896,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro6">
+    <table:table-row table:style-name="ro12">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Yasen SSGN</text:p>
      </table:table-cell>
@@ -6902,7 +6932,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro15">
+    <table:table-row table:style-name="ro27">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Lada SSK</text:p>
      </table:table-cell>
@@ -6935,7 +6965,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16">
+    <table:table-row table:style-name="ro28">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Oscar II SSGN</text:p>
      </table:table-cell>
@@ -7002,7 +7032,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro18">
+    <table:table-row table:style-name="ro29">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Su-57K Felon</text:p>
      </table:table-cell>
@@ -7035,7 +7065,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro19">
+    <table:table-row table:style-name="ro30">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Laika SSN</text:p>
      </table:table-cell>
@@ -7071,7 +7101,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro20">
+    <table:table-row table:style-name="ro31">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Akula SSN</text:p>
      </table:table-cell>
@@ -7131,7 +7161,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="50"/>
     </table:table-row>
-    <table:table-row table:style-name="ro3">
+    <table:table-row table:style-name="ro10">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Shtorm CVN</text:p>
      </table:table-cell>
@@ -7209,11 +7239,10 @@ Option VBASupport 1
     </table:table-row>
    </table:table>
    <table:table table:name="actions" table:style-name="ta5">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co22" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co14" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co23" table:default-cell-style-name="ce56"/>
+    <table:table-column table:style-name="co23" table:default-cell-style-name="ce55"/>
     <table:table-column table:style-name="co24" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co25" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co26" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
@@ -7234,7 +7263,7 @@ Option VBASupport 1
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Image</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce56" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
       <text:p>FlavorText</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -7749,13 +7778,12 @@ Option VBASupport 1
     </table:table-row>
    </table:table>
    <table:table table:name="territories" table:style-name="ta6">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co27" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co28" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co29" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co30" table:default-cell-style-name="ce56"/>
+    <table:table-column table:style-name="co30" table:default-cell-style-name="ce55"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co31" table:default-cell-style-name="ce64"/>
+    <table:table-column table:style-name="co31" table:default-cell-style-name="ce62"/>
     <table:table-column table:style-name="co32" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co26" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="56" table:default-cell-style-name="Default"/>
@@ -7778,7 +7806,7 @@ Option VBASupport 1
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>FlavorText</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce64" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce62" office:value-type="string" calcext:value-type="string">
       <text:p>Image</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -7852,7 +7880,7 @@ Option VBASupport 1
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>USN</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce56" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
       <text:p>&quot;I believe that I interpret the will of the Congress and of the people when I assert that we will not only defend ourselves to the uttermost, but will make it very certain that this form of treachery shall never again endanger us.&quot; - FDR</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -7893,7 +7921,7 @@ Option VBASupport 1
     </table:table-row>
     <table:table-row table:style-name="ro4">
      <table:table-cell table:number-columns-repeated="5"/>
-     <table:table-cell table:style-name="ce56"/>
+     <table:table-cell table:style-name="ce55"/>
      <table:table-cell table:number-columns-repeated="58"/>
     </table:table-row>
     <table:table-row table:style-name="ro1" table:number-rows-repeated="8">
@@ -7910,10 +7938,9 @@ Option VBASupport 1
     </table:table-row>
    </table:table>
    <table:table table:name="mil_ass_all" table:style-name="ta7">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co33" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co34" table:default-cell-style-name="ce60"/>
-    <table:table-column table:style-name="co35" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co79" table:default-cell-style-name="ce60"/>
+    <table:table-column table:style-name="co80" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co33" table:number-columns-repeated="13" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -8124,7 +8151,7 @@ Option VBASupport 1
       <text:p>0.5.0</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro17">
+    <table:table-row table:style-name="ro21">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -8176,7 +8203,7 @@ Option VBASupport 1
       <text:p>0.5.0</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro17">
+    <table:table-row table:style-name="ro21">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -8960,7 +8987,7 @@ Option VBASupport 1
       <text:p>0.5.0</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro17">
+    <table:table-row table:style-name="ro21">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -10783,7 +10810,7 @@ Option VBASupport 1
       <text:p>0.5.0</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro21">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -10835,7 +10862,7 @@ Option VBASupport 1
       <text:p>0.5.0</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro21">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -10889,7 +10916,6 @@ Option VBASupport 1
     </table:table-row>
    </table:table>
    <table:table table:name="actions_all" table:style-name="ta8">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co36" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co37" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co38" table:default-cell-style-name="Default"/>
@@ -11899,7 +11925,6 @@ Option VBASupport 1
     </table:table-row>
    </table:table>
    <table:table table:name="territories_all" table:style-name="ta9">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co42" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co43" table:default-cell-style-name="Default"/>
@@ -12766,13 +12791,13 @@ Option VBASupport 1
      <table:table-cell table:number-columns-repeated="64"/>
     </table:table-row>
    </table:table>
-   <table:table table:name="mil_ass_us_start" table:style-name="ta10">
-    <table:table-column table:style-name="co46" table:default-cell-style-name="Default"/>
+   <table:table table:name="mil_ass_us_start" table:style-name="ta19">
+    <table:table-column table:style-name="co81" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co47" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co48" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co82" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co83" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="9" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co49" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co84" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="50" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -12987,7 +13012,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="47"/>
     </table:table-row>
-    <table:table-row table:style-name="ro17">
+    <table:table-row table:style-name="ro21">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -13040,7 +13065,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="47"/>
     </table:table-row>
-    <table:table-row table:style-name="ro17">
+    <table:table-row table:style-name="ro21">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -13627,7 +13652,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="47"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro21">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -13839,7 +13864,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="47"/>
     </table:table-row>
-    <table:table-row table:style-name="ro17">
+    <table:table-row table:style-name="ro21">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -15684,9 +15709,9 @@ Option VBASupport 1
      <table:table-cell table:number-columns-repeated="64"/>
     </table:table-row>
    </table:table>
-   <table:table table:name="mil_ass_ru_start" table:style-name="ta11">
+   <table:table table:name="mil_ass_ru_start" table:style-name="ta20">
     <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co50" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co85" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co24" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="60" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
@@ -15896,7 +15921,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="48"/>
     </table:table-row>
-    <table:table-row table:style-name="ro17">
+    <table:table-row table:style-name="ro21">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -15946,7 +15971,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="48"/>
     </table:table-row>
-    <table:table-row table:style-name="ro17">
+    <table:table-row table:style-name="ro21">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -16500,7 +16525,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="48"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro21">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -16700,7 +16725,7 @@ Option VBASupport 1
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="48"/>
     </table:table-row>
-    <table:table-row table:style-name="ro17">
+    <table:table-row table:style-name="ro21">
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -22056,7 +22081,7 @@ Option VBASupport 1
      <table:table-cell table:formula="of:=[$version.$A$1]" office:value-type="string" office:string-value="0.5.0" calcext:value-type="string">
       <text:p>0.5.0</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce71" office:value-type="string" calcext:value-type="string"><text:p>1. Draw Phase</text:p><text:p>2. Action Phase</text:p><text:p>3. Battle Phase     </text:p><text:p>    a. Attack Declaration Step</text:p><text:p>    b. Pre-Combat Action Step   </text:p><text:p>    c. Defense Declaration Step</text:p><text:p>    d. Combat Step          </text:p><text:p>        i. Attacker Declare Help Defense          </text:p><text:p>        ii. Defender Declare Help Defense          </text:p><text:p>        iii. Deal Surprise Damage</text:p><text:p>        iv. Deal Normal Damage</text:p><text:p>    e. Post-Combat Action Step</text:p><text:p>    f. Siege Step</text:p><text:p>4. Final Action Phase</text:p><text:p>5. Deployment Phase</text:p>
+     <table:table-cell table:style-name="ce70" office:value-type="string" calcext:value-type="string"><text:p>1. Draw Phase</text:p><text:p>2. Action Phase</text:p><text:p>3. Battle Phase     </text:p><text:p>    a. Attack Declaration Step</text:p><text:p>    b. Pre-Combat Action Step   </text:p><text:p>    c. Defense Declaration Step</text:p><text:p>    d. Combat Step          </text:p><text:p>        i. Attacker Declare Help Defense          </text:p><text:p>        ii. Defender Declare Help Defense          </text:p><text:p>        iii. Deal Surprise Damage</text:p><text:p>        iv. Deal Normal Damage</text:p><text:p>    e. Post-Combat Action Step</text:p><text:p>    f. Siege Step</text:p><text:p>4. Final Action Phase</text:p><text:p>5. Deployment Phase</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
