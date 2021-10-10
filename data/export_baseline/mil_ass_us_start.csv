@@ -1,0 +1,120 @@
+Duplication,Class,Name,Title,Unused0,Unused1,Unused2,Attack,ShoreAttack,Defense,Logistics,Rosters,Type,Description,Image,FlavorText,Version
+1,3,USS Gerald R. Ford,Gerald R Ford CVN,0,0,0,0,0,2,6,USN,Ship,"CATOBAR: Compatible with aircraft up to compatibility 3.
+Early Warning and Control: 1 Help Defense plus 1 additional Help Defense for each stationed aircraft in combat.
+Carrier 3: Can station 3 aircraft squadrons.",Images/ford.jpg,"A military airbase at sea, a Ford class carrier is more than three times as long as a football field and has more than twice the displacement of the German battleship Bismarck.",0.5.0
+1,3,USS John F Kennedy,Gerald R Ford CVN,0,0,0,0,0,2,6,USN,Ship,"CATOBAR: Compatible with aircraft up to compatibility 3.
+Early Warning and Control: 1 Help Defense plus 1 additional Help Defense for each stationed aircraft in combat.
+Carrier 3: Can station 3 aircraft squadrons.",Images/ford.jpg,"A military airbase at sea, a Ford class carrier is more than three times as long as a football field and has more than twice the displacement of the German battleship Bismarck.",0.5.0
+1,3,USS Enterprise,Gerald R Ford CVN,0,0,0,0,0,2,6,USN,Ship,"CATOBAR: Compatible with aircraft up to compatibility 3.
+Early Warning and Control: 1 Help Defense plus 1 additional Help Defense for each stationed aircraft in combat.
+Carrier 3: Can station 3 aircraft squadrons.",Images/ford.jpg,"A military airbase at sea, a Ford class carrier is more than three times as long as a football field and has more than twice the displacement of the German battleship Bismarck.",0.5.0
+1,11,USS Zumwalt,Zumwalt DDG,0,0,0,4,2,5,5,USN,Ship,"Surprise Attacker: This asset deals damage during the Surprise Damage Step.
+Hidden: Can be played face down. ",Images/zumwalt.jpg,"With a cost of $1M per shot from its main howitzer, it is important for the crew of a Zumwalt to aim carefully.",0.5.0
+1,5,USS Bouganville,America LHA,0,0,0,0,3,2,2,USN,Ship,"VTOL: Compatible with aircraft up to compatibility 1.
+Carrier 2: Can station 2 aircraft squadrons.",Images/america.jpg,"In contrast to the Wasp LHA, the America class was intended to fill a role closer to a light aircraft carrier.",0.5.0
+1,5,USS Tripoli,America LHA,0,0,0,0,3,2,2,USN,Ship,"VTOL: Compatible with aircraft up to compatibility 1.
+Carrier 2: Can station 2 aircraft squadrons.",Images/america.jpg,"In contrast to the Wasp LHA, the America class was intended to fill a role closer to a light aircraft carrier.",0.5.0
+1,5,USS America,America LHA,0,0,0,0,3,2,2,USN,Ship,"VTOL: Compatible with aircraft up to compatibility 1.
+Carrier 2: Can station 2 aircraft squadrons.",Images/america.jpg,"In contrast to the Wasp LHA, the America class was intended to fill a role closer to a light aircraft carrier.",0.5.0
+1,7,USS California,Virginia SSN,0,0,0,3,1,4,4,USN,Submarine,"Surprise Attacker: This asset deals damage during the Surprise Damage Step.
+Hidden: Can be played face down. ",Images/virginia.jpg,The advanced but more budget conscious Virginia will be the standard attack submarine of the US Navy until at least the middle of the 21st century.,0.5.0
+1,7,USS Hawaii,Virginia SSN,0,0,0,3,1,4,4,USN,Submarine,"Surprise Attacker: This asset deals damage during the Surprise Damage Step.
+Hidden: Can be played face down. ",Images/virginia.jpg,The advanced but more budget conscious Virginia will be the standard attack submarine of the US Navy until at least the middle of the 21st century.,0.5.0
+1,8,USS Florida,Ohio SSGN,0,0,0,3,4,2,5,USN,Submarine,"Surprise Attacker: This asset deals damage during the Surprise Damage Step.
+Strategic Strike Capability: At the end of your turn, if this asset is face-up and did not take part in a combat, your opponent must discard one card from their deck.
+Hidden: Can be played face down. ",Images/ohio.jpg,"Although Ohio was originally intended to carry nuclear ballistic missiles, some Ohio's have been modified as SSGNs for surface warfare and land-attack missions.",0.5.0
+1,8,USS Ohio,Ohio SSGN,0,0,0,3,4,2,5,USN,Submarine,"Surprise Attacker: This asset deals damage during the Surprise Damage Step.
+Strategic Strike Capability: At the end of your turn, if this asset is face-up and did not take part in a combat, your opponent must discard one card from their deck.
+Hidden: Can be played face down. ",Images/ohio.jpg,"Although Ohio was originally intended to carry nuclear ballistic missiles, some Ohio's have been modified as SSGNs for surface warfare and land-attack missions.",0.5.0
+1,10,USS Fitzgerald,Arleigh Burke Flight IIIA DDG,0,0,0,2,3,2,3,USN,Ship,AEGIS: 2 Help Defense.,Images/arleighburke.jpg,The multi-mission-capable Arleigh Burke is the  workhorse of and most numerous ship in  the US Navy.,0.5.0
+1,10,USS Cole,Arleigh Burke Flight IIIA DDG,0,0,0,2,3,2,3,USN,Ship,AEGIS: 2 Help Defense.,Images/arleighburke.jpg,The multi-mission-capable Arleigh Burke is the  workhorse of and most numerous ship in  the US Navy.,0.5.0
+1,10,USS Porter,Arleigh Burke Flight IIIA DDG,0,0,0,2,3,2,3,USN,Ship,AEGIS: 2 Help Defense.,Images/arleighburke.jpg,The multi-mission-capable Arleigh Burke is the  workhorse of and most numerous ship in  the US Navy.,0.5.0
+1,10,USS Spruance,Arleigh Burke Flight IIIA DDG,0,0,0,2,3,2,3,USN,Ship,AEGIS: 2 Help Defense.,Images/arleighburke.jpg,The multi-mission-capable Arleigh Burke is the  workhorse of and most numerous ship in  the US Navy.,0.5.0
+1,14,USS Constitution,Constellation FFG,0,0,0,2,2,1,2,USN,Ship,"AEGIS (small): 1 Help Defense
+Patrol Ship: Discard this card from your hand to draw a card.",Images/constellation.jpg,The cost-conscious and efficient Constellation class is an indicator of both improved naval procurement and a lack of political will for defense spending.,0.5.0
+1,12,Sidewinders,F/A-18E Superhornet,0,0,0,3,4,4,3,USN,Squadron,"CATOBAR: Compatibility 3
+Hidden: Can be played face down. 
+Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.",Images/f18_2.jpg,The F/A-18 is one of the longest-tenured and most battle-proven multi-role carrier aircraft in the world.,0.5.0
+1,12,Eagles,F/A-18E Superhornet,0,0,0,3,4,4,3,USN,Squadron,"CATOBAR: Compatibility 3
+Hidden: Can be played face down. 
+Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.",Images/f18_2.jpg,The F/A-18 is one of the longest-tenured and most battle-proven multi-role carrier aircraft in the world.,0.5.0
+1,12,Warhawks,F/A-18E Superhornet,0,0,0,3,4,4,3,USN,Squadron,"CATOBAR: Compatibility 3
+Hidden: Can be played face down. 
+Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.",Images/f18_2.jpg,The F/A-18 is one of the longest-tenured and most battle-proven multi-role carrier aircraft in the world.,0.5.0
+1,11,USS Michael Monsoor,Zumwalt DDG,0,0,0,4,2,5,5,USN,Ship,"Surprise Attacker: This asset deals damage during the Surprise Damage Step.
+Hidden: Can be played face down. ",Images/zumwalt.jpg,"With a cost of $1M per shot from its main howitzer, it is important for the crew of a Zumwalt to aim carefully.",0.5.0
+1,13,Warhawks,F-35B/C Lightning II,0,0,0,4,3,3,4,USN,Squadron,"VTOL: Compatibility 1
+Hidden: Can be played face down. 
+Surprise Attacker: This asset deals damage during the Surprise Damage Step.",Images/f35b.jpg,The F-35B is a special variant of the F-35 capable of taking off and landing vertically. This allows it to be stationed on smaller carriers that have typically not been able to field cutting-edge aircraft.,0.5.0
+1,13,Vigilantes,F-35B/C Lightning II,0,0,0,4,3,3,4,USN,Squadron,"VTOL: Compatibility 1
+Hidden: Can be played face down. 
+Surprise Attacker: This asset deals damage during the Surprise Damage Step.",Images/f35b.jpg,The F-35B is a special variant of the F-35 capable of taking off and landing vertically. This allows it to be stationed on smaller carriers that have typically not been able to field cutting-edge aircraft.,0.5.0
+1,13,Green Knights,F-35B/C Lightning II,0,0,0,4,3,3,4,USN,Squadron,"VTOL: Compatibility 1
+Hidden: Can be played face down. 
+Surprise Attacker: This asset deals damage during the Surprise Damage Step.",Images/f35b.jpg,The F-35B is a special variant of the F-35 capable of taking off and landing vertically. This allows it to be stationed on smaller carriers that have typically not been able to field cutting-edge aircraft.,0.5.0
+1,13,Flying Leathernecks,F-35B/C Lightning II,0,0,0,4,3,3,4,USN,Squadron,"VTOL: Compatibility 1
+Hidden: Can be played face down. 
+Surprise Attacker: This asset deals damage during the Surprise Damage Step.",Images/f35b.jpg,The F-35B is a special variant of the F-35 capable of taking off and landing vertically. This allows it to be stationed on smaller carriers that have typically not been able to field cutting-edge aircraft.,0.5.0
+1,13,Wake Island Avengers,F-35B/C Lightning II,0,0,0,4,3,3,4,USN,Squadron,"VTOL: Compatibility 1
+Hidden: Can be played face down. 
+Surprise Attacker: This asset deals damage during the Surprise Damage Step.",Images/f35b.jpg,The F-35B is a special variant of the F-35 capable of taking off and landing vertically. This allows it to be stationed on smaller carriers that have typically not been able to field cutting-edge aircraft.,0.5.0
+1,13,Black Knights,F-35B/C Lightning II,0,0,0,4,3,3,4,USN,Squadron,"VTOL: Compatibility 1
+Hidden: Can be played face down. 
+Surprise Attacker: This asset deals damage during the Surprise Damage Step.",Images/f35b.jpg,The F-35B is a special variant of the F-35 capable of taking off and landing vertically. This allows it to be stationed on smaller carriers that have typically not been able to field cutting-edge aircraft.,0.5.0
+1,29,Borodino,Shtorm CVN,0,0,0,0,0,2,5,RUS,Ship,"CATOBAR: Compatible with aircraft up to compatibility 3.
+Carrier 2: Can station 2 aircraft squadrons.
+S-500: 2 Help Defense",Images/shtorm.jpg,To use American expression: there is new sheriff in town.,0.5.0
+1,29,Poltava,Shtorm CVN,0,0,0,0,0,2,5,RUS,Ship,"CATOBAR: Compatible with aircraft up to compatibility 3.
+Carrier 2: Can station 2 aircraft squadrons.
+S-500: 2 Help Defense",Images/shtorm.jpg,To use American expression: there is new sheriff in town.,0.5.0
+1,16,Admiral Kuznetsov,Kuznetsov CV,0,0,0,4,4,2,5,RUS,Ship,"STOBAR: Compatible with aircraft up to compatibility 2.
+Carrier 1: Can station 1 aircraft squadron.
+UNUSED",Images/kuznetsov.jpg,"Despite being officially  sold to a company in Macau for use as a floating casino, Kuznetsov's sister ship has since found its way into service as the first aircraft carrier of the expanding Chinese People's Liberation Army Navy. ",0.5.0
+1,17,Pyotr Velikiy,Kirov CGN,0,0,0,6,2,4,6,RUS,Ship,S-300: 1 Help Defense.,Images/kirov.jpg,"One could argue putting too many eggs in one basket is unsound doctrine, but few baskets are so well armed.",0.5.0
+1,17,Admiral Nahkimov,Kirov CGN,0,0,0,6,2,4,6,RUS,Ship,S-300: 1 Help Defense.,Images/kirov.jpg,"One could argue putting too many eggs in one basket is unsound doctrine, but few baskets are so well armed.",0.5.0
+1,18,Moskva,Slava CG,0,0,0,4,2,2,4,RUS,Ship,"S-300: 1 Help Defense.
+Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.",Images/slava.jpg,The Slava’s primary armament are massive P-1000 anti-ship missiles. These missiles weigh 5 tons each and are capable of flying faster than mach 2.,0.5.0
+1,18,Varyag,Slava CG,0,0,0,4,2,2,4,RUS,Ship,"S-300: 1 Help Defense.
+Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.",Images/slava.jpg,The Slava’s primary armament are massive P-1000 anti-ship missiles. These missiles weigh 5 tons each and are capable of flying faster than mach 2.,0.5.0
+1,19,Admiral Makarov,Lider CG,0,0,0,4,2,3,5,RUS,Ship,"Hidden: Can be played face down. 
+S-500: 2 Help Defense",Images/lider.jpeg,The Lider is the Russian navy’s replacement for all their previous cruisers and destroyers.,0.5.0
+1,28,Bystryy,Sovremanny DDG,0,0,0,2,2,2,2,RUS,Ship,"
+Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.",Images/sovremenny.jpg,"Despite a name that means ""modern"" in Russian, they are one of the oldest class of destroyer in the Russian Navy.",0.5.0
+1,28,Nastoychivyy,Sovremanny DDG,0,0,0,2,2,2,2,RUS,Ship,"
+Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.",Images/sovremenny.jpg,"Despite a name that means ""modern"" in Russian, they are one of the oldest class of destroyer in the Russian Navy.",0.5.0
+1,28,Admiral Ushakov (INVALID),Sovremanny DDG,0,0,0,2,2,2,2,RUS,Ship,"
+Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.",Images/sovremenny.jpg,"Despite a name that means ""modern"" in Russian, they are one of the oldest class of destroyer in the Russian Navy.",0.5.0
+1,28,Burnyy (INVALID),Sovremanny DDG,0,0,0,2,2,2,2,RUS,Ship,"
+Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.",Images/sovremenny.jpg,"Despite a name that means ""modern"" in Russian, they are one of the oldest class of destroyer in the Russian Navy.",0.5.0
+1,20,Poryvisty ,Gorshkov FFG,0,0,0,3,2,2,1,RUS,Ship,"Hidden: Can be played face down. 
+Patrol Ship: Discard this card from your hand to draw a card.",Images/gorshkov.jpg,Some people might argue the Gorshkov class  are excessively armed for multi-role frigates; those people do not work in procurement for the Russian Navy.,0.5.0
+1,20,Bezzavetny ,Gorshkov FFG,0,0,0,3,2,2,1,RUS,Ship,"Hidden: Can be played face down. 
+Patrol Ship: Discard this card from your hand to draw a card.",Images/gorshkov.jpg,Some people might argue the Gorshkov class  are excessively armed for multi-role frigates; those people do not work in procurement for the Russian Navy.,0.5.0
+1,20,Bodry ,Gorshkov FFG,0,0,0,3,2,2,1,RUS,Ship,"Hidden: Can be played face down. 
+Patrol Ship: Discard this card from your hand to draw a card.",Images/gorshkov.jpg,Some people might argue the Gorshkov class  are excessively armed for multi-role frigates; those people do not work in procurement for the Russian Navy.,0.5.0
+1,21,Novosibirsk,Yasen SSGN,0,0,0,5,1,3,5,RUS,Submarine,"Surprise Attacker: This asset deals damage during the Surprise Damage Step.
+Hidden: Can be played face down. ",Images/yasen.jpg,"With more than twice the firepower of western submarines, the Yasen is Russia's best effort in no-expense-spared attack submarine development.",0.5.0
+1,21,Severodvinsk,Yasen SSGN,0,0,0,5,1,3,5,RUS,Submarine,"Surprise Attacker: This asset deals damage during the Surprise Damage Step.
+Hidden: Can be played face down. ",Images/yasen.jpg,"With more than twice the firepower of western submarines, the Yasen is Russia's best effort in no-expense-spared attack submarine development.",0.5.0
+1,23,Tver,Oscar II SSGN,0,0,0,6,0,1,3,RUS,Submarine,Hidden: Can be played face down. ,Images/oscar2.jpg,"The massive but aging Oscar is a relic of Cold War Soviet strategy. That said, it's large guided missile batteries are still a formidable threat to US carriers.",0.5.0
+1,23,Chelyabinsk,Oscar II SSGN,0,0,0,6,0,1,3,RUS,Submarine,Hidden: Can be played face down. ,Images/oscar2.jpg,"The massive but aging Oscar is a relic of Cold War Soviet strategy. That said, it's large guided missile batteries are still a formidable threat to US carriers.",0.5.0
+1,30,Ivan Gren,Iven Gren LST,0,0,0,0,6,1,2,RUS,Ship, ,Images/ivengren.jpg,Sharks are not the only thing you should worry about seeing in the water at the beach.,0.5.0
+1,30,Pyotr Morgunov,Iven Gren LST,0,0,0,0,6,1,2,RUS,Ship, ,Images/ivengren.jpg,Sharks are not the only thing you should worry about seeing in the water at the beach.,0.5.0
+1,25,104th Regiment,Su-57K Felon,0,0,0,3,3,4,3,RUS,Squadron,"CATOBAR: Compatibility 3
+Hidden: Can be played face down. 
+Surprise Attacker: This asset deals damage during the Surprise Damage Step.",Images/su57.jpg,"It's a plane, comrade.",0.5.0
+1,25,105th Regiment,Su-57K Felon,0,0,0,3,3,4,3,RUS,Squadron,"CATOBAR: Compatibility 3
+Hidden: Can be played face down. 
+Surprise Attacker: This asset deals damage during the Surprise Damage Step.",Images/su57.jpg,"It's a plane, comrade.",0.5.0
+1,25,106th Regiment,Su-57K Felon,0,0,0,3,3,4,3,RUS,Squadron,"CATOBAR: Compatibility 3
+Hidden: Can be played face down. 
+Surprise Attacker: This asset deals damage during the Surprise Damage Step.",Images/su57.jpg,"It's a plane, comrade.",0.5.0
+1,24,100th Regiment,Mig-29K Fulcrum-D,0,0,0,3,3,3,1,RUS,Squadron,"STOBAR: Compatibility 2
+Hidden: Can be played face down. 
+Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.",Images/mig29k.jpg,"With an affordable  $15M unit cost, the Mig-29K is proof that achieving air dominance doesn’t always require one to break the bank.",0.5.0
+1,24,101st Regiment,Mig-29K Fulcrum-D,0,0,0,3,3,3,1,RUS,Squadron,"STOBAR: Compatibility 2
+Hidden: Can be played face down. 
+Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.",Images/mig29k.jpg,"With an affordable  $15M unit cost, the Mig-29K is proof that achieving air dominance doesn’t always require one to break the bank.",0.5.0
+1,24,102nd Regiment,Mig-29K Fulcrum-D,0,0,0,3,3,3,1,RUS,Squadron,"STOBAR: Compatibility 2
+Hidden: Can be played face down. 
+Fleet Reserve: If this military asset is destroyed while in play, its controller may draw a card.",Images/mig29k.jpg,"With an affordable  $15M unit cost, the Mig-29K is proof that achieving air dominance doesn’t always require one to break the bank.",0.5.0

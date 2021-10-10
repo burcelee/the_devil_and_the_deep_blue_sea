@@ -1,0 +1,13 @@
+Duplication,Class,Name,Title,LogisticsCapacity,ShoreDefense,Description,Roster,FlavorText,Image,Version
+1,2,Naval Station Norfolk,US Naval Base,6,2,"
+",USN,"
+",Images/navalbase.jpg,0.5.0
+1,2,Joint Base Pearl Harbor,US Naval Base,6,2,"
+",USN,"
+",Images/navalbase.jpg,0.5.0
+1,2,Naval Air Station Jacksonville,US Naval Base,6,2,"
+",USN,"
+",Images/navalbase.jpg,0.5.0
+1,5,Sevastopol,Russian Naval Base,6,4,"
+",RUS,"
+",Images/russnavybase.jpg,0.5.0

@@ -1,0 +1,16 @@
+Duplication,Version,Text
+2,0.5.0,"1. Draw Phase
+2. Action Phase
+3. Battle Phase     
+    a. Attack Declaration Step
+    b. Pre-Combat Action Step   
+    c. Defense Declaration Step
+    d. Combat Step          
+        i. Attacker Declare Help Defense          
+        ii. Defender Declare Help Defense          
+        iii. Deal Surprise Damage
+        iv. Deal Normal Damage
+    e. Post-Combat Action Step
+    f. Siege Step
+4. Final Action Phase
+5. Deployment Phase"

@@ -1,0 +1,11 @@
+Title,LogisticsCapacity,ShoreDefense,Description,Roster,FlavorText,Image,Version
+US Naval Base,6,2,"
+",USN,"
+",Images/navalbase.jpg,0.5.0
+Pine Gap,5,2,"RAINFALL: During your first deployment phase each turn, select a face down asset controlled by your opponent. Your opponent must reveal this asset. It remains face down afterwards.",USN,"
+",Images/pinegap.jpg,0.5.0
+Joint Base Pearl Harbor,6,4,"
+",USN,"""I believe that I interpret the will of the Congress and of the people when I assert that we will not only defend ourselves to the uttermost, but will make it very certain that this form of treachery shall never again endanger us."" - FDR",Images/pearlharbor.jpg,0.5.0
+Russian Naval Base,6,4,"
+",RUS,"
+",Images/russnavybase.jpg,0.5.0

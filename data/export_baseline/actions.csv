@@ -1,0 +1,54 @@
+Title,Type,Roster,Description,Image,FlavorText,Version
+,,,,,"
+",
+Scuttlebutt,Tactic,USN,Look at and reorder the top 4 cards of your deck. You may put any number on the bottom of your deck in any order.,Images/scuttlebutt.jpeg,"
+",0.5.0
+AF Is Short On Water,Tactic,USN,"Take one asset card from your hand and put it face-up into play under your control; it may attack or defend this turn. If it is a squadron, it may be played on a carrier or territory. This asset must otherwise be valid to play.",Images/midway.jpg,"
+",0.5.0
+American Doctrine,Tactic,USN,Search your deck or discard pile for a strategy card and put that card into play.,Images/doctrine.jpg,"
+",0.5.0
+KH-11 Key Hole,Tactic,USN,Flip all military assets your opponent controls face up. You opponent must also reveal their hand.,Images/keyhole.jpg,"
+",0.5.0
+Semper Fidelis,Strategy,USN,"During any siege step, you may discard two cards from your deck to add +4 to the siege total. ",Images/semperfi.jpg,"
+",0.5.0
+Military Industrial Complex,Strategy,USN,"Whenever you lose a military asset of logistics 3 or greater, you may draw a card.",Images/buildem.jpg,"
+",0.5.0
+NATO Allies,Tactic,USN,"Search your deck for a squadron, reveal it, and place it on a territory you control. Then shuffle your deck. You must control a territory to play this card.",Images/nato.jpg,"
+",0.5.0
+Uncommon Valor Was A Common Virtue,Tactic,USN,All attacking ships this turn have twice their normal siege.,Images/valor.jpg,"
+",0.5.0
+I Have Not Yet Begun To Fight,Tactic,USN,"Retrieve one card from your discard pile, reveal it, and put it on top of your deck.",Images/fight.jpg,"
+",0.5.0
+,,,,,"
+",
+The Long Winter,Strategy,RUS,Each player must discard 2 cards from their deck at the end of each of their turns.,Images/winter.jpg,"
+",0.5.0
+State-Controlled Media,Strategy,RUS,"Whenever you destroy a ship of logistics cost 3 or greater, you may draw a card.",Images/statemedia.jpg,"
+",0.5.0
+Disinformation Campaigns,Tactic,RUS,Your opponent must reveal their hand. Choose a card. They must discard that card.,Images/disinformation.jpg,"
+",0.5.0
+,,,,,,
+The Russians Used a Pencil,Strategy,RUS,"At the beginning of your draw step, you may remove the bottom card of your deck and place it face down under this card. This card provides logistics equal to the number of cards placed underneath it. These cards are removed from the game, and are no longer part of your deck.",Images/sputnik.jpg,"
+",0.5.0
+Scorched Earth,Tactic,RUS,Your opponent must discard 4 cards from their deck.,Images/scorched.jpg,"
+",0.5.0
+,,,,,"
+",
+,,,,,"
+",
+Counter-Espionage,Tactic,RUS,Ignore the effects of a tactic card.,Images/putingun.jpg,"
+",0.5.0
+Strategic Flexibility,Tactic,RUS,"Search your deck for any card, reveal that card, and put it into your hand. Then discard a card.",Images/dolls.jpeg,"
+",0.5.0
+,,,,,"
+",
+,,,,,"
+",
+That's the Spirit!,Tactic,USN,Immediately destroy one face-up military asset in play.,Images/b2.jpg,"
+",0.5.0
+Aerial Refueling,Strategy,USN,"One half of squadrons under your control stationed on territories may participate in attacks each turn, rounded down.",Images/refuel.jpg,"
+",0.5.0
+Strategic Destabilization,Strategy,RUS,Your opponents territories provide 1 less logistics.,Images/electricgrid.jpg,"
+",0.5.0
+Rapid Mobilization,Tactic,RUS,"Search your library for military asset cards whose combined logistics is equal to or less than 3, reveal them, and put those cards into your hand. Then shuffle your library.",Images/mobilization.jpg,"
+",0.5.0

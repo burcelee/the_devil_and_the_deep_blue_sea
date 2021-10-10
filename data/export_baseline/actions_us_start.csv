@@ -1,0 +1,61 @@
+Duplication,Class,Name,Title,Type,Roster,Description,Image,FlavorText,Version
+1,3,Tactic A,Scuttlebutt,Tactic,USN,Look at and reorder the top 4 cards of your deck. You may put any number on the bottom of your deck in any order.,Images/scuttlebutt.jpeg,"
+",0.5.0
+1,3,Tactic B,Scuttlebutt,Tactic,USN,Look at and reorder the top 4 cards of your deck. You may put any number on the bottom of your deck in any order.,Images/scuttlebutt.jpeg,"
+",0.5.0
+1,9,Tactic A,NATO Allies,Tactic,USN,"Search your deck for a squadron, reveal it, and place it on a territory you control. Then shuffle your deck. You must control a territory to play this card.",Images/nato.jpg,"
+",0.5.0
+1,9,Tactic B,NATO Allies,Tactic,USN,"Search your deck for a squadron, reveal it, and place it on a territory you control. Then shuffle your deck. You must control a territory to play this card.",Images/nato.jpg,"
+",0.5.0
+1,9,Tactic C (INVALID),NATO Allies,Tactic,USN,"Search your deck for a squadron, reveal it, and place it on a territory you control. Then shuffle your deck. You must control a territory to play this card.",Images/nato.jpg,"
+",0.5.0
+1,10,Tactic C (INVALID),Uncommon Valor Was A Common Virtue,Tactic,USN,All attacking ships this turn have twice their normal siege.,Images/valor.jpg,"
+",0.5.0
+1,10,Tactic C (INVALID),Uncommon Valor Was A Common Virtue,Tactic,USN,All attacking ships this turn have twice their normal siege.,Images/valor.jpg,"
+",0.5.0
+1,11,Tactic A,I Have Not Yet Begun To Fight,Tactic,USN,"Retrieve one card from your discard pile, reveal it, and put it on top of your deck.",Images/fight.jpg,"
+",0.5.0
+1,11,Tactic B,I Have Not Yet Begun To Fight,Tactic,USN,"Retrieve one card from your discard pile, reveal it, and put it on top of your deck.",Images/fight.jpg,"
+",0.5.0
+1,25,Tactic A,That's the Spirit!,Tactic,USN,Immediately destroy one face-up military asset in play.,Images/b2.jpg,"
+",0.5.0
+1,25,Tactic B,That's the Spirit!,Tactic,USN,Immediately destroy one face-up military asset in play.,Images/b2.jpg,"
+",0.5.0
+1,5,Tactic A,American Doctrine,Tactic,USN,Search your deck or discard pile for a strategy card and put that card into play.,Images/doctrine.jpg,"
+",0.5.0
+1,26,Strategy A,Aerial Refueling,Strategy,USN,"One half of squadrons under your control stationed on territories may participate in attacks each turn, rounded down.",Images/refuel.jpg,"
+",0.5.0
+1,8,Strategy A,Military Industrial Complex,Strategy,USN,"Whenever you lose a military asset of logistics 3 or greater, you may draw a card.",Images/buildem.jpg,"
+",0.5.0
+1,7,Strategy A (INVALID),Semper Fidelis,Strategy,USN,"During any siege step, you may discard two cards from your deck to add +4 to the siege total. ",Images/semperfi.jpg,"
+",0.5.0
+1,15,Tactic A,Disinformation Campaigns,Tactic,RUS,Your opponent must reveal their hand. Choose a card. They must discard that card.,Images/disinformation.jpg,"
+",0.5.0
+1,15,Tactic B,Disinformation Campaigns,Tactic,RUS,Your opponent must reveal their hand. Choose a card. They must discard that card.,Images/disinformation.jpg,"
+",0.5.0
+1,22,Tactic A,Strategic Flexibility,Tactic,RUS,"Search your deck for any card, reveal that card, and put it into your hand. Then discard a card.",Images/dolls.jpeg,"
+",0.5.0
+1,21,Tactic A,Counter-Espionage,Tactic,RUS,Ignore the effects of a tactic card.,Images/putingun.jpg,"
+",0.5.0
+1,21,Tactic B,Counter-Espionage,Tactic,RUS,Ignore the effects of a tactic card.,Images/putingun.jpg,"
+",0.5.0
+1,18,Tactic A,Scorched Earth,Tactic,RUS,Your opponent must discard 4 cards from their deck.,Images/scorched.jpg,"
+",0.5.0
+1,18,Tactic B,Scorched Earth,Tactic,RUS,Your opponent must discard 4 cards from their deck.,Images/scorched.jpg,"
+",0.5.0
+1,28,Tactic A,Rapid Mobilization,Tactic,RUS,"Search your library for military asset cards whose combined logistics is equal to or less than 3, reveal them, and put those cards into your hand. Then shuffle your library.",Images/mobilization.jpg,"
+",0.5.0
+1,28,Tactic B,Rapid Mobilization,Tactic,RUS,"Search your library for military asset cards whose combined logistics is equal to or less than 3, reveal them, and put those cards into your hand. Then shuffle your library.",Images/mobilization.jpg,"
+",0.5.0
+1,13,Strategy A,The Long Winter,Strategy,RUS,Each player must discard 2 cards from their deck at the end of each of their turns.,Images/winter.jpg,"
+",0.5.0
+1,13,Strategy B,The Long Winter,Strategy,RUS,Each player must discard 2 cards from their deck at the end of each of their turns.,Images/winter.jpg,"
+",0.5.0
+1,14,Strategy A,State-Controlled Media,Strategy,RUS,"Whenever you destroy a ship of logistics cost 3 or greater, you may draw a card.",Images/statemedia.jpg,"
+",0.5.0
+1,14,Strategy B,State-Controlled Media,Strategy,RUS,"Whenever you destroy a ship of logistics cost 3 or greater, you may draw a card.",Images/statemedia.jpg,"
+",0.5.0
+1,27,Strategy A,Strategic Destabilization,Strategy,RUS,Your opponents territories provide 1 less logistics.,Images/electricgrid.jpg,"
+",0.5.0
+1,27,Strategy B,Strategic Destabilization,Strategy,RUS,Your opponents territories provide 1 less logistics.,Images/electricgrid.jpg,"
+",0.5.0
