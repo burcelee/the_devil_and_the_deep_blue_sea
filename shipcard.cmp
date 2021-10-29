@@ -7,6 +7,8 @@
     <exportWidth>0</exportWidth>
     <exportHeight>0</exportHeight>
     <zoom>1</zoom>
+    <exportLayoutBorder>false</exportLayoutBorder>
+    <exportLayoutBorderCrossSize>0</exportLayoutBorderCrossSize>
   </Layout>
   <Layout combineReferences="false" width="700" height="1050" buffer="0" Name="territory" defaultCount="1" dpi="300" drawBorder="true">
     <Element variable="@[title]" type="Text" x="10" y="44" width="680" height="81" borderthickness="0" autoscalefont="true" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Title" font="Arial;54;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
@@ -19,18 +21,20 @@
     <Element variable="@[image]" type="Graphic" x="10" y="165" width="680" height="440" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="image" font="Arial;12;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
     <Element variable="@[flavortext]" type="Text" x="10" y="930" width="680" height="110" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="FlavorText" font="Arial;18;0;0;1;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
     <Element variable="@[name]" type="Text" x="10" y="10" width="680" height="35" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Name" font="Arial;20;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
-    <Reference RelativePath="data\export\territories_all.csv" Default="false" />
+    <Reference RelativePath="data\export\territories_all.csv" Default="true" />
     <Reference RelativePath="data\export\territories_ru_start.csv" Default="false" />
     <Reference RelativePath="data\export\territories_us_start.csv" Default="false" />
     <Reference RelativePath="data\export\empty_list.csv" Default="false" />
-    <Reference RelativePath="data\export_diff\diff_territories.csv" Default="true" />
+    <Reference RelativePath="data\export_diff\diff_territories.csv" Default="false" />
     <exportNameFormat />
     <exportRotation>0</exportRotation>
     <exportTransparentBackground>false</exportTransparentBackground>
     <exportPDFAsPageBack>false</exportPDFAsPageBack>
     <exportWidth>900</exportWidth>
     <exportHeight>1200</exportHeight>
-    <zoom>1</zoom>
+    <zoom>0.8666667</zoom>
+    <exportLayoutBorder>false</exportLayoutBorder>
+    <exportLayoutBorderCrossSize>0</exportLayoutBorderCrossSize>
   </Layout>
   <Layout combineReferences="false" width="700" height="1050" buffer="0" Name="military_asset" defaultCount="1" dpi="300" drawBorder="false">
     <Element variable="@[title]" type="Text" x="10" y="45" width="680" height="80" borderthickness="0" autoscalefont="true" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Title" font="Arial;54;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
@@ -45,11 +49,11 @@
     <Element variable="@[image]" type="Graphic" x="10" y="165" width="680" height="440" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="image" font="Arial;12;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
     <Element variable="@[name]" type="Text" x="10" y="10" width="680" height="35" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="ShipName" font="Arial;20;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
     <Element variable="@[flavortext]" type="Text" x="10" y="930" width="680" height="110" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="FlavorText" font="Arial;18;0;0;1;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
-    <Reference RelativePath="data\export\mil_ass_all.csv" Default="false" />
+    <Reference RelativePath="data\export\mil_ass_all.csv" Default="true" />
     <Reference RelativePath="data\export\mil_ass_ru_start.csv" Default="false" />
     <Reference RelativePath="data\export\mil_ass_us_start.csv" Default="false" />
     <Reference RelativePath="data\export\empty_list.csv" Default="false" />
-    <Reference RelativePath="data\export_diff\diff_mil_ass_all.csv" Default="true" />
+    <Reference RelativePath="data\export_diff\diff_mil_ass_all.csv" Default="false" />
     <exportNameFormat />
     <exportRotation>0</exportRotation>
     <exportTransparentBackground>false</exportTransparentBackground>
@@ -57,6 +61,8 @@
     <exportWidth>900</exportWidth>
     <exportHeight>1200</exportHeight>
     <zoom>1</zoom>
+    <exportLayoutBorder>false</exportLayoutBorder>
+    <exportLayoutBorderCrossSize>0</exportLayoutBorderCrossSize>
   </Layout>
   <Layout combineReferences="false" width="700" height="1050" buffer="0" Name="action" defaultCount="1" dpi="300" drawBorder="true">
     <Element variable="@[title]" type="Text" x="10" y="45" width="680" height="80" borderthickness="0" autoscalefont="true" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Title" font="Arial;54;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
@@ -67,11 +73,11 @@
     <Element variable="@[image]" type="Graphic" x="10" y="165" width="680" height="440" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="image" font="Arial;12;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
     <Element variable="@[flavortext]" type="Text" x="10" y="930" width="680" height="110" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="FlavorText" font="Arial;18;0;0;1;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
     <Element variable="@[name]" type="Text" x="10" y="10" width="680" height="35" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Name" font="Arial;20;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
-    <Reference RelativePath="data\export\actions_all.csv" Default="false" />
+    <Reference RelativePath="data\export\actions_all.csv" Default="true" />
     <Reference RelativePath="data\export\actions_ru_start.csv" Default="false" />
     <Reference RelativePath="data\export\actions_us_start.csv" Default="false" />
     <Reference RelativePath="data\export\empty_list.csv" Default="false" />
-    <Reference RelativePath="data\export_diff\diff_actions_all.csv" Default="true" />
+    <Reference RelativePath="data\export_diff\diff_actions_all.csv" Default="false" />
     <exportNameFormat />
     <exportRotation>0</exportRotation>
     <exportTransparentBackground>false</exportTransparentBackground>
@@ -79,13 +85,15 @@
     <exportWidth>900</exportWidth>
     <exportHeight>1200</exportHeight>
     <zoom>1</zoom>
+    <exportLayoutBorder>false</exportLayoutBorder>
+    <exportLayoutBorderCrossSize>0</exportLayoutBorderCrossSize>
   </Layout>
   <Layout combineReferences="false" width="700" height="1050" buffer="0" Name="turn_reference" defaultCount="1" dpi="300" drawBorder="true">
     <Element variable="Turn Reference Card" type="Text" x="13" y="53" width="680" height="79" borderthickness="0" autoscalefont="true" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Title" font="Arial;54;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
     <Element variable="Ver. @[version]" type="Text" x="10" y="10" width="680" height="30" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="2" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Version" font="Arial;18;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
     <Element variable="@[text]" type="Text" x="10" y="140" width="680" height="900" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Description" font="Arial;27;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
-    <Reference RelativePath="data\export\reference.csv" Default="false" />
-    <Reference RelativePath="data\export\empty_list.csv" Default="true" />
+    <Reference RelativePath="data\export\reference.csv" Default="true" />
+    <Reference RelativePath="data\export\empty_list.csv" Default="false" />
     <exportNameFormat />
     <exportRotation>0</exportRotation>
     <exportTransparentBackground>false</exportTransparentBackground>
@@ -93,9 +101,11 @@
     <exportWidth>900</exportWidth>
     <exportHeight>1200</exportHeight>
     <zoom>1</zoom>
+    <exportLayoutBorder>false</exportLayoutBorder>
+    <exportLayoutBorderCrossSize>0</exportLayoutBorderCrossSize>
   </Layout>
   <translatorName>Incept</translatorName>
-  <lastExportPath>C:\Users\liber\Desktop\shipcard deck 1.7\RUS</lastExportPath>
+  <lastExportPath>C:\Users\liber\Desktop\alpha tournament card pictures</lastExportPath>
   <jsEscapeSingleQuotes>false</jsEscapeSingleQuotes>
   <jsTildeMeansCode>true</jsTildeMeansCode>
   <jsKeepFunctions>true</jsKeepFunctions>

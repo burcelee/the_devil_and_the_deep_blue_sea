@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<Project xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Layout combineReferences="false" width="822" height="1122" buffer="0" Name="territory" defaultCount="1" dpi="300" drawBorder="false">
+    <Element variable="@[title]" type="Text" x="81" y="112" width="658" height="75" borderthickness="0" autoscalefont="true" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Title" font="Arial;50.29714;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="Logistics Capacity @[logisticscapacity]" type="Text" x="81" y="635" width="329" height="41" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="1" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="SurfaceAttackField" font="Arial;22.35429;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="Type: Territory" type="Text" x="81" y="188" width="329" height="37" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Type" font="Arial;20.49143;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="@[description]" type="Text" x="81" y="677" width="658" height="260" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Description" font="Arial;18.62857;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="" type="Text" x="410" y="635" width="329" height="41" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="1" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Logistics (Deprecated)" font="Arial;22.35429;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="false" outlinecolor="0x000000FF" />
+    <Element variable="Ver. @[version]" type="Text" x="81" y="81" width="658" height="27" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="2" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Version" font="Arial;16.76571;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="Roster: @[roster]" type="Text" x="410" y="188" width="329" height="37" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Roster" font="Arial;20.49143;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="@[image]" type="Graphic" x="81" y="225" width="658" height="409" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="image" font="Arial;12;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="@[flavortext]" type="Text" x="81" y="938" width="658" height="102" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="FlavorText" font="Arial;16.76571;0;0;1;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="@[name]" type="Text" x="81" y="81" width="658" height="32" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Name" font="Arial;18.62857;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Reference RelativePath="data\export\territories_all.csv" Default="true" />
+    <Reference RelativePath="data\export\territories_ru_start.csv" Default="false" />
+    <Reference RelativePath="data\export\territories_us_start.csv" Default="false" />
+    <Reference RelativePath="data\export\empty_list.csv" Default="false" />
+    <Reference RelativePath="data\export_diff\diff_territories.csv" Default="false" />
+    <exportNameFormat />
+    <exportRotation>0</exportRotation>
+    <exportTransparentBackground>false</exportTransparentBackground>
+    <exportPDFAsPageBack>false</exportPDFAsPageBack>
+    <exportWidth>822</exportWidth>
+    <exportHeight>1122</exportHeight>
+    <zoom>0.8666667</zoom>
+    <exportLayoutBorder>true</exportLayoutBorder>
+    <exportLayoutBorderCrossSize>72</exportLayoutBorderCrossSize>
+    <exportCropDefinition />
+  </Layout>
+  <Layout combineReferences="false" width="822" height="1122" buffer="0" Name="military_asset" defaultCount="1" dpi="300" drawBorder="false">
+    <Element variable="@[title]" type="Text" x="81" y="113" width="658" height="74" borderthickness="0" autoscalefont="true" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Title" font="Arial;50.29714;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="Logistics @[logistics]" type="Text" x="81" y="635" width="164" height="41" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="1" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="SurfaceAttackField" font="Arial;22.35429;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="Attack @[attack]" type="Text" x="245" y="635" width="164" height="41" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="1" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="ShoreAttack" font="Arial;22.35429;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="Siege @[shoreattack]" type="Text" x="575" y="635" width="164" height="41" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="1" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Defense" font="Arial;22.35429;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="Type: @[type]" type="Text" x="81" y="188" width="329" height="37" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Type" font="Arial;20.49143;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="@[description]" type="Text" x="81" y="677" width="658" height="260" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Description" font="Arial;18.62857;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="Defense @[defense]" type="Text" x="410" y="635" width="164" height="41" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="1" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Logistics" font="Arial;22.35429;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="Ver. @[version]" type="Text" x="81" y="81" width="658" height="27" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="2" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Version" font="Arial;16.76571;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="Roster: @[rosters]" type="Text" x="410" y="188" width="329" height="37" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Roster" font="Arial;20.49143;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="@[image]" type="Graphic" x="81" y="225" width="658" height="409" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="image" font="Arial;12;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="@[name]" type="Text" x="81" y="81" width="658" height="32" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="ShipName" font="Arial;18.62857;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="@[flavortext]" type="Text" x="81" y="938" width="658" height="102" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="FlavorText" font="Arial;16.76571;0;0;1;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Reference RelativePath="data\export\mil_ass_all.csv" Default="true" />
+    <Reference RelativePath="data\export\mil_ass_ru_start.csv" Default="false" />
+    <Reference RelativePath="data\export\mil_ass_us_start.csv" Default="false" />
+    <Reference RelativePath="data\export\empty_list.csv" Default="false" />
+    <Reference RelativePath="data\export_diff\diff_mil_ass_all.csv" Default="false" />
+    <exportNameFormat />
+    <exportRotation>0</exportRotation>
+    <exportTransparentBackground>false</exportTransparentBackground>
+    <exportPDFAsPageBack>false</exportPDFAsPageBack>
+    <exportWidth>822</exportWidth>
+    <exportHeight>1122</exportHeight>
+    <zoom>1</zoom>
+    <exportLayoutBorder>false</exportLayoutBorder>
+    <exportLayoutBorderCrossSize>0</exportLayoutBorderCrossSize>
+    <exportCropDefinition />
+  </Layout>
+  <Layout combineReferences="false" width="822" height="1122" buffer="0" Name="action" defaultCount="1" dpi="300" drawBorder="true">
+    <Element variable="@[title]" type="Text" x="81" y="113" width="658" height="74" borderthickness="0" autoscalefont="true" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Title" font="Arial;50.29714;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="Type: @[type]" type="Text" x="81" y="188" width="329" height="37" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Type" font="Arial;20.49143;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="@[description]" type="Text" x="81" y="677" width="658" height="260" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Description" font="Arial;18.62857;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="Ver. @[version]" type="Text" x="81" y="81" width="658" height="27" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="2" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Version" font="Arial;16.76571;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="Roster: @[roster]" type="Text" x="410" y="188" width="329" height="37" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Roster" font="Arial;20.49143;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="@[image]" type="Graphic" x="81" y="225" width="658" height="409" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="image" font="Arial;12;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="@[flavortext]" type="Text" x="81" y="938" width="658" height="102" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="FlavorText" font="Arial;16.76571;0;0;1;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="@[name]" type="Text" x="81" y="81" width="658" height="32" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Name" font="Arial;18.62857;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Reference RelativePath="data\export\actions_all.csv" Default="true" />
+    <Reference RelativePath="data\export\actions_ru_start.csv" Default="false" />
+    <Reference RelativePath="data\export\actions_us_start.csv" Default="false" />
+    <Reference RelativePath="data\export\empty_list.csv" Default="false" />
+    <Reference RelativePath="data\export_diff\diff_actions_all.csv" Default="false" />
+    <exportNameFormat />
+    <exportRotation>0</exportRotation>
+    <exportTransparentBackground>false</exportTransparentBackground>
+    <exportPDFAsPageBack>false</exportPDFAsPageBack>
+    <exportWidth>822</exportWidth>
+    <exportHeight>1122</exportHeight>
+    <zoom>1</zoom>
+    <exportLayoutBorder>false</exportLayoutBorder>
+    <exportLayoutBorderCrossSize>0</exportLayoutBorderCrossSize>
+    <exportCropDefinition />
+  </Layout>
+  <Layout combineReferences="false" width="822" height="1122" buffer="0" Name="turn_reference" defaultCount="1" dpi="300" drawBorder="true">
+    <Element variable="Turn Reference Card" type="Text" x="81" y="121" width="658" height="73" borderthickness="0" autoscalefont="true" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Title" font="Arial;50.29714;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="Ver. @[version]" type="Text" x="81" y="81" width="658" height="27" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="2" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Version" font="Arial;16.76571;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="@[text]" type="Text" x="81" y="202" width="658" height="838" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Description" font="Arial;25.14857;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Reference RelativePath="data\export\reference.csv" Default="true" />
+    <Reference RelativePath="data\export\empty_list.csv" Default="false" />
+    <exportNameFormat />
+    <exportRotation>0</exportRotation>
+    <exportTransparentBackground>false</exportTransparentBackground>
+    <exportPDFAsPageBack>false</exportPDFAsPageBack>
+    <exportWidth>822</exportWidth>
+    <exportHeight>1122</exportHeight>
+    <zoom>1</zoom>
+    <exportLayoutBorder>false</exportLayoutBorder>
+    <exportLayoutBorderCrossSize>0</exportLayoutBorderCrossSize>
+    <exportCropDefinition />
+  </Layout>
+  <translatorName>Incept</translatorName>
+  <lastExportPath>C:\Users\liber\Desktop\alpha tournament card pictures</lastExportPath>
+  <jsEscapeSingleQuotes>false</jsEscapeSingleQuotes>
+  <jsTildeMeansCode>true</jsTildeMeansCode>
+  <jsKeepFunctions>true</jsKeepFunctions>
+</Project>

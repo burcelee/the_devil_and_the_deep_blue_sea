@@ -1,5 +1,8 @@
 **.pdf
+
+data/export/
 data/export/**.csv
+data/export_diff/
 data/export_diff/**.csv
 # Skips lock file when .fods open in LibreOffice Calc
 **.fods#
