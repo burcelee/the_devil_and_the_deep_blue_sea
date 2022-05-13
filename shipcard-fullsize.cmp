@@ -23,9 +23,6 @@
     <exportWidth>822</exportWidth>
     <exportHeight>1122</exportHeight>
     <zoom>0.8666667</zoom>
-    <exportLayoutBorder>true</exportLayoutBorder>
-    <exportLayoutBorderCrossSize>72</exportLayoutBorderCrossSize>
-    <exportCropDefinition />
   </Layout>
   <Layout combineReferences="false" width="822" height="1122" buffer="0" Name="military_asset" defaultCount="1" dpi="300" drawBorder="false">
     <Element variable="@[title]" type="Text" x="81" y="113" width="658" height="74" borderthickness="0" autoscalefont="true" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Title" font="Arial;50.29714;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
@@ -52,9 +49,6 @@
     <exportWidth>822</exportWidth>
     <exportHeight>1122</exportHeight>
     <zoom>0.75</zoom>
-    <exportLayoutBorder>false</exportLayoutBorder>
-    <exportLayoutBorderCrossSize>0</exportLayoutBorderCrossSize>
-    <exportCropDefinition />
   </Layout>
   <Layout combineReferences="false" width="822" height="1122" buffer="0" Name="action" defaultCount="1" dpi="300" drawBorder="true">
     <Element variable="@[title]" type="Text" x="81" y="113" width="658" height="74" borderthickness="0" autoscalefont="true" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Title" font="Arial;50.29714;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
@@ -77,9 +71,6 @@
     <exportWidth>822</exportWidth>
     <exportHeight>1122</exportHeight>
     <zoom>1</zoom>
-    <exportLayoutBorder>false</exportLayoutBorder>
-    <exportLayoutBorderCrossSize>0</exportLayoutBorderCrossSize>
-    <exportCropDefinition />
   </Layout>
   <Layout combineReferences="false" width="822" height="1122" buffer="0" Name="turn_reference" defaultCount="1" dpi="300" drawBorder="true">
     <Element variable="Turn Reference Card" type="Text" x="81" y="121" width="658" height="73" borderthickness="0" autoscalefont="true" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Title" font="Arial;50.29714;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
@@ -94,12 +85,20 @@
     <exportWidth>822</exportWidth>
     <exportHeight>1122</exportHeight>
     <zoom>1</zoom>
-    <exportLayoutBorder>false</exportLayoutBorder>
-    <exportLayoutBorderCrossSize>0</exportLayoutBorderCrossSize>
-    <exportCropDefinition />
+  </Layout>
+  <Layout combineReferences="false" width="822" height="1122" buffer="0" Name="card_back" defaultCount="1" dpi="300" drawBorder="true">
+    <Element variable="Devil and The Deep Blue Sea\n Ver. @[version]" type="Text" x="36" y="400" width="750" height="125" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="1" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="Title" font="Arial;30;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Reference RelativePath="data\export\reference.csv" Default="true" />
+    <exportNameFormat />
+    <exportRotation>0</exportRotation>
+    <exportTransparentBackground>false</exportTransparentBackground>
+    <exportPDFAsPageBack>false</exportPDFAsPageBack>
+    <exportWidth>822</exportWidth>
+    <exportHeight>1122</exportHeight>
+    <zoom>1</zoom>
   </Layout>
   <translatorName>Incept</translatorName>
-  <lastExportPath>C:\Users\liber\Desktop\alpha tournament card pictures</lastExportPath>
+  <lastExportPath>C:\Users\liber\Desktop\export-test</lastExportPath>
   <jsEscapeSingleQuotes>false</jsEscapeSingleQuotes>
   <jsTildeMeansCode>true</jsTildeMeansCode>
   <jsKeepFunctions>true</jsKeepFunctions>
